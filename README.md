@@ -1,8 +1,12 @@
-<h1 align="center">📚 2026 Computer Spring Recruitment ob Compilation</h1>
-<h3 align="center">🎓 面向 25、26、27届应届生专属，每日更新，零广告，含投递链接+内推，助力春招上岸！</h3>
+<h1 align="center">🔥  2026 Computer Spring Recruitment ob Compilation</h1>
+
+<h3 align="center">🎓 2026年计算机春招，每日更新，含投递链接+内推，助力春招上岸！</h3>
 
 <p align="center">
   💼 收录 <b>1000+</b> 计算机工作岗位，涵盖腾讯、字节、美团、百度、华为、小米、英伟达、微软、米哈游等百家企业    
+</p>
+<p align="center">
+  🚀 如果对您有帮助，欢迎 Star 收藏，持续更新～
 </p>
 
 <p align="center">
@@ -11,7 +15,7 @@
 
 ---
 
-<h3 align="center">🚀 本项目收录以下企业校招面试题（展示部分大厂）</h3>
+<h3 align="center">🚀 本项目收录以下企业春招岗位（展示部分大厂）</h3>
 
 <table align="center">
   <tr>
@@ -73,16 +77,34 @@
    * [小米](#8)
    * [滴滴打车](#9)
    * [网易](#10)
-   * [美团](#11)
-   * [美团](#12)
-   * [美团](#13)
-   * [美团](#14)
-   * [美团](#15)
-   * [美团](#16)
-   * [美团](#17)
-   * [美团](#18)
-   * [美团](#19)
-   * [美团](#20)
+   * [京东](#11)
+   * [小红书](#12)
+   * [饿了么](#13)
+   * [贝壳找房](#14)
+   * [掌阅科技](#15)
+   * [好未来](#16)
+   * [4399游戏](#17)
+   * [拼多多](#18)
+   * [携程](#19)
+   * [中国三星](#20)
+   * [小宇宙](#21)
+   * [海尔集团](#22)
+   * [金航数码](#23)
+   * [无端科技](#24)
+   * [影石Insta360](#25)
+   * [星星充电](#26)
+   * [昆仑万维](#27)
+   * [智联招聘](#28)
+   * [ 虹软科技](#29)
+   * [智元机器人](#30)
+   * [英伟达](#31)
+   * [上海银行](#32)
+   * [同花顺](#33)
+   * [宁德时代](#34)
+   * 还有更多岗位，持续更新中……
+ 
+- [经典面题](#经典面题)
+- [面经](#面经)
 
 
 
@@ -310,593 +332,309 @@ MiniMax（上海稀宇科技）是2021年12月成立的中国大模型初创公�
 |6|游戏AI-Agent研发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496603&idx=2&sn=3ab33850356bfc84014648ac0cfaf092&scene=21&poc_token=HCYlwWmjXgEDU7WN_5OHZ24hoOg0zyw49mf9AltR)|
 
 
+### 网易有道
+网易有道是中国领先的智能学习公司，致力于通过技术创新为用户提供优质的学习产品和服务。公司业务涵盖在线课程、学习工具、智能硬件等多个领域，通过有道词典、有道精品课等产品为亿万用户提供学习服务。
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|1|游戏引擎研发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496514&idx=3&sn=64aa461a0b6392e738f2228fc4ebc5af&scene=21&poc_token=HAkswWmj0klgilT3QtZowlfx-laWJiuw9M1LI455)|
+|2|高性能计算（C++）实习生|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496560&idx=6&sn=9cdafdf982416dadf2d0a638e38dc963&scene=21&poc_token=HBMPwWmjj8u9Jh8zRbBjIFNqvhPBVhyuVyjXpjgt)|
+|3|高性能计算（C++）实习生|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496560&idx=6&sn=9cdafdf982416dadf2d0a638e38dc963&scene=21&poc_token=HBMPwWmjj8u9Jh8zRbBjIFNqvhPBVhyuVyjXpjgt)|
+|4|大数据开发实习生|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496560&idx=6&sn=9cdafdf982416dadf2d0a638e38dc963&scene=21&poc_token=HBMPwWmjj8u9Jh8zRbBjIFNqvhPBVhyuVyjXpjgt)|
+|5|人工智能算法工程师实习生|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496560&idx=6&sn=9cdafdf982416dadf2d0a638e38dc963&scene=21&poc_token=HBMPwWmjj8u9Jh8zRbBjIFNqvhPBVhyuVyjXpjgt)|
+|6|自动驾驶-激光雷达产品开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496560&idx=6&sn=9cdafdf982416dadf2d0a638e38dc963&scene=21&poc_token=HBMPwWmjj8u9Jh8zRbBjIFNqvhPBVhyuVyjXpjgt)|
+|7|软件测试开发工程师（实习）|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496560&idx=6&sn=9cdafdf982416dadf2d0a638e38dc963&scene=21&poc_token=HBMPwWmjj8u9Jh8zRbBjIFNqvhPBVhyuVyjXpjgt)|
+|8|大模型算法实习生|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496560&idx=6&sn=9cdafdf982416dadf2d0a638e38dc963&scene=21&poc_token=HBMPwWmjj8u9Jh8zRbBjIFNqvhPBVhyuVyjXpjgt)|
+|9|前端开发实习生|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496560&idx=6&sn=9cdafdf982416dadf2d0a638e38dc963&scene=21&poc_token=HBMPwWmjj8u9Jh8zRbBjIFNqvhPBVhyuVyjXpjgt)|
+
+
+## <h3 id="11">京东</h3> 
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|1|后端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496603&idx=4&sn=9d7d53adb0bc01cc47ef0c38180bf081&scene=21&poc_token=HFYtwWmj5ceiMguiMKWlAhArLuWgtNy25S5fW2SM)|
+|2|算法工程师-具身智能|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496603&idx=4&sn=9d7d53adb0bc01cc47ef0c38180bf081&scene=21&poc_token=HFYtwWmj5ceiMguiMKWlAhArLuWgtNy25S5fW2SM)|
+|3|技术运维工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496603&idx=4&sn=9d7d53adb0bc01cc47ef0c38180bf081&scene=21&poc_token=HFYtwWmj5ceiMguiMKWlAhArLuWgtNy25S5fW2SM)|
+|4|测试开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496603&idx=4&sn=9d7d53adb0bc01cc47ef0c38180bf081&scene=21&poc_token=HFYtwWmj5ceiMguiMKWlAhArLuWgtNy25S5fW2SM)|
+|5|安全工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496603&idx=4&sn=9d7d53adb0bc01cc47ef0c38180bf081&scene=21&poc_token=HFYtwWmj5ceiMguiMKWlAhArLuWgtNy25S5fW2SM)|
+|6|算法工程师-大模型|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496603&idx=4&sn=9d7d53adb0bc01cc47ef0c38180bf081&scene=21&poc_token=HFYtwWmj5ceiMguiMKWlAhArLuWgtNy25S5fW2SM)|
+|7|数据应用工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496603&idx=4&sn=9d7d53adb0bc01cc47ef0c38180bf081&scene=21&poc_token=HFYtwWmj5ceiMguiMKWlAhArLuWgtNy25S5fW2SM)|
+
+
+
+
+## <h3 id="12"> 小红书</h3> 
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|1|算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496479&idx=1&sn=bfd34552569316f3c5b0d4d7a62c4d84&scene=21&poc_token=HJEuwWmjWf4iAYACxantPeD02gB43t5CmqBmFQkz)|
+|2|音视频策略算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496479&idx=1&sn=bfd34552569316f3c5b0d4d7a62c4d84&scene=21&poc_token=HJEuwWmjWf4iAYACxantPeD02gB43t5CmqBmFQkz)|
+|3|搜广推引擎开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496479&idx=1&sn=bfd34552569316f3c5b0d4d7a62c4d84&scene=21&poc_token=HJEuwWmjWf4iAYACxantPeD02gB43t5CmqBmFQkz)|
+|4|音视频开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496479&idx=1&sn=bfd34552569316f3c5b0d4d7a62c4d84&scene=21&poc_token=HJEuwWmjWf4iAYACxantPeD02gB43t5CmqBmFQkz)|
+|5|IT支持技术工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496479&idx=1&sn=bfd34552569316f3c5b0d4d7a62c4d84&scene=21&poc_token=HJEuwWmjWf4iAYACxantPeD02gB43t5CmqBmFQkz)|
+|6|iOS开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496479&idx=1&sn=bfd34552569316f3c5b0d4d7a62c4d84&scene=21&poc_token=HJEuwWmjWf4iAYACxantPeD02gB43t5CmqBmFQkz)|
+|7|Android开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496479&idx=1&sn=bfd34552569316f3c5b0d4d7a62c4d84&scene=21&poc_token=HJEuwWmjWf4iAYACxantPeD02gB43t5CmqBmFQkz)|
+
+
+
+## <h3 id="13">饿了么</h3> 
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|1|移动端逆向工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496340&idx=2&sn=00b1b7f03a3fcc416ecee7e4984daef9&scene=21&poc_token=HMUvwWmji4Pk7md9TDH1NsF-7kas6tO71OrDvneh)|
+|2|算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496340&idx=2&sn=00b1b7f03a3fcc416ecee7e4984daef9&scene=21&poc_token=HMUvwWmji4Pk7md9TDH1NsF-7kas6tO71OrDvneh)|
+|3|客户端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496340&idx=2&sn=00b1b7f03a3fcc416ecee7e4984daef9&scene=21&poc_token=HMUvwWmji4Pk7md9TDH1NsF-7kas6tO71OrDvneh)|
+|4|测试开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496340&idx=2&sn=00b1b7f03a3fcc416ecee7e4984daef9&scene=21&poc_token=HMUvwWmji4Pk7md9TDH1NsF-7kas6tO71OrDvneh)|
+|5|算法工程师-机器学习|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496340&idx=2&sn=00b1b7f03a3fcc416ecee7e4984daef9&scene=21&poc_token=HMUvwWmji4Pk7md9TDH1NsF-7kas6tO71OrDvneh)|
+|6|研发工程师JAVA|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496340&idx=2&sn=00b1b7f03a3fcc416ecee7e4984daef9&scene=21&poc_token=HMUvwWmji4Pk7md9TDH1NsF-7kas6tO71OrDvneh)|
+|7|前端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496340&idx=2&sn=00b1b7f03a3fcc416ecee7e4984daef9&scene=21&poc_token=HMUvwWmji4Pk7md9TDH1NsF-7kas6tO71OrDvneh)|
+|8|安全工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496340&idx=2&sn=00b1b7f03a3fcc416ecee7e4984daef9&scene=21&poc_token=HMUvwWmji4Pk7md9TDH1NsF-7kas6tO71OrDvneh)|
+|9|数据研发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496340&idx=2&sn=00b1b7f03a3fcc416ecee7e4984daef9&scene=21&poc_token=HMUvwWmji4Pk7md9TDH1NsF-7kas6tO71OrDvneh)|
+
+
+
+
+## <h3 id="14">贝壳找房</h3> 
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|1|搜索/推荐算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496451&idx=1&sn=1c74e49033a66ba318a3971c4cd92428&scene=21&poc_token=HIEwwWmjWuYj8rhv__phS-K3TmpCkjchxM9D8XqN)|
+|2|大模型算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496451&idx=1&sn=1c74e49033a66ba318a3971c4cd92428&scene=21&poc_token=HIEwwWmjWuYj8rhv__phS-K3TmpCkjchxM9D8XqN)|
+|3|机器学习算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496451&idx=1&sn=1c74e49033a66ba318a3971c4cd92428&scene=21&poc_token=HIEwwWmjWuYj8rhv__phS-K3TmpCkjchxM9D8XqN)|
+|4|MR交互开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496451&idx=1&sn=1c74e49033a66ba318a3971c4cd92428&scene=21&poc_token=HIEwwWmjWuYj8rhv__phS-K3TmpCkjchxM9D8XqN)|
+|5|视觉多模态算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496451&idx=1&sn=1c74e49033a66ba318a3971c4cd92428&scene=21&poc_token=HIEwwWmjWuYj8rhv__phS-K3TmpCkjchxM9D8XqN)|
+|6|软件工程师（AI4SE方向）|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496451&idx=1&sn=1c74e49033a66ba318a3971c4cd92428&scene=21&poc_token=HIEwwWmjWuYj8rhv__phS-K3TmpCkjchxM9D8XqN)|
+|7|C++开发工程师（三维技术）|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496451&idx=1&sn=1c74e49033a66ba318a3971c4cd92428&scene=21&poc_token=HIEwwWmjWuYj8rhv__phS-K3TmpCkjchxM9D8XqN)|
+|8|AI工具开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496451&idx=1&sn=1c74e49033a66ba318a3971c4cd92428&scene=21&poc_token=HIEwwWmjWuYj8rhv__phS-K3TmpCkjchxM9D8XqN)|
+
+
+
+
+## <h3 id="15">掌阅科技</h3> 
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|1|后端研发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496451&idx=4&sn=f9b0ffce43c98dadc6ba0c9bf313d799&scene=21&poc_token=HDoxwWmjFuRjNMB3vdAbaDV38TJosb6bxhdjrc--)|
+|2|数据研发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496451&idx=4&sn=f9b0ffce43c98dadc6ba0c9bf313d799&scene=21&poc_token=HDoxwWmjFuRjNMB3vdAbaDV38TJosb6bxhdjrc--)|
+|3|前端研发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496451&idx=4&sn=f9b0ffce43c98dadc6ba0c9bf313d799&scene=21&poc_token=HDoxwWmjFuRjNMB3vdAbaDV38TJosb6bxhdjrc--)|
+|4|客户端研发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496451&idx=4&sn=f9b0ffce43c98dadc6ba0c9bf313d799&scene=21&poc_token=HDoxwWmjFuRjNMB3vdAbaDV38TJosb6bxhdjrc--)|
+|5|大数据研发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496451&idx=4&sn=f9b0ffce43c98dadc6ba0c9bf313d799&scene=21&poc_token=HDoxwWmjFuRjNMB3vdAbaDV38TJosb6bxhdjrc--)|
+|6|移动研发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496451&idx=4&sn=f9b0ffce43c98dadc6ba0c9bf313d799&scene=21&poc_token=HDoxwWmjFuRjNMB3vdAbaDV38TJosb6bxhdjrc--)|
+
+
+
+## <h3 id="16">好未来</h3> 
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|1|Web前端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=5&sn=b35895333d604fb80b3a8a740a643d99&scene=21&poc_token=HPExwWmjutArj-inmis0DwOLoaJWTHv5vaR9yAxR)|
+|2|AI应用工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=5&sn=b35895333d604fb80b3a8a740a643d99&scene=21&poc_token=HPExwWmjutArj-inmis0DwOLoaJWTHv5vaR9yAxR)|
+|3|iOS开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=5&sn=b35895333d604fb80b3a8a740a643d99&scene=21&poc_token=HPExwWmjutArj-inmis0DwOLoaJWTHv5vaR9yAxR)|
+|4|Framework开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=5&sn=b35895333d604fb80b3a8a740a643d99&scene=21&poc_token=HPExwWmjutArj-inmis0DwOLoaJWTHv5vaR9yAxR)|
+|5|Cocos/unity 3D开发工程|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=5&sn=b35895333d604fb80b3a8a740a643d99&scene=21&poc_token=HPExwWmjutArj-inmis0DwOLoaJWTHv5vaR9yAxR)|
+|6|Golang开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=5&sn=b35895333d604fb80b3a8a740a643d99&scene=21&poc_token=HPExwWmjutArj-inmis0DwOLoaJWTHv5vaR9yAxR)|
+|7|数据算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=5&sn=b35895333d604fb80b3a8a740a643d99&scene=21&poc_token=HPExwWmjutArj-inmis0DwOLoaJWTHv5vaR9yAxR)|
+
+
+## <h3 id="17">4399游戏</h3> 
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|1|Java开发|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496326&idx=2&sn=d289a054c08c6fac72c35b1cbe9c0481&scene=21&poc_token=HMQywWmjiBJc5YFUqb8H1O2rBNwxGZ3RO6wVUG9K)|
+|2|U3D前端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496326&idx=2&sn=d289a054c08c6fac72c35b1cbe9c0481&scene=21&poc_token=HMQywWmjiBJc5YFUqb8H1O2rBNwxGZ3RO6wVUG9K)|
+|3|游戏客户端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496326&idx=2&sn=d289a054c08c6fac72c35b1cbe9c0481&scene=21&poc_token=HMQywWmjiBJc5YFUqb8H1O2rBNwxGZ3RO6wVUG9K)|
+|4|C++游戏开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496326&idx=2&sn=d289a054c08c6fac72c35b1cbe9c0481&scene=21&poc_token=HMQywWmjiBJc5YFUqb8H1O2rBNwxGZ3RO6wVUG9K)|
+|5|引擎开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496326&idx=2&sn=d289a054c08c6fac72c35b1cbe9c0481&scene=21&poc_token=HMQywWmjiBJc5YFUqb8H1O2rBNwxGZ3RO6wVUG9K)|
+|6|Web前端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496326&idx=2&sn=d289a054c08c6fac72c35b1cbe9c0481&scene=21&poc_token=HMQywWmjiBJc5YFUqb8H1O2rBNwxGZ3RO6wVUG9K)|
+|7|AI算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496326&idx=2&sn=d289a054c08c6fac72c35b1cbe9c0481&scene=21&poc_token=HMQywWmjiBJc5YFUqb8H1O2rBNwxGZ3RO6wVUG9K)|
+|8|AI中台开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496326&idx=2&sn=d289a054c08c6fac72c35b1cbe9c0481&scene=21&poc_token=HMQywWmjiBJc5YFUqb8H1O2rBNwxGZ3RO6wVUG9K)|
+|9|游戏UI设计师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496326&idx=2&sn=d289a054c08c6fac72c35b1cbe9c0481&scene=21&poc_token=HMQywWmjiBJc5YFUqb8H1O2rBNwxGZ3RO6wVUG9K)|
+
+
+## <h3 id="18">拼多多</h3> 
+27届实习
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|1|大模型算法实习生|[点击查看](https://careers.pddglobalhr.com/campus/intern/detail?positionId=899256d5-e11c-4249-9625-0bfc03263ead)|
+|2|服务端研发实习生|[点击查看](https://careers.pddglobalhr.com/campus/intern/detail?positionId=9b7a2544-8afc-4be6-ac65-52bca027bebd)|
+|3|算法实习生|[点击查看](https://careers.pddglobalhr.com/campus/intern/detail?positionId=c6c27f0d-b122-45b2-bc75-443483fea3b8)|
+|4|客户端研发实习生|[点击查看](https://careers.pddglobalhr.com/campus/intern/detail?positionId=093ddc5f-6a57-437d-83ee-fe7a84a1a848)|
+|5|web前端研发实习生|[点击查看](https://careers.pddglobalhr.com/campus/intern/detail?positionId=92293e99-ed07-4eb5-b9c9-62bcf856f3d8)|
+|6|安全实习生|[点击查看](https://careers.pddglobalhr.com/campus/intern/detail?positionId=c5fde32e-8c7d-4292-930c-cae367127fea)|
+26届应届生
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|1|大模型算法工程师|[点击查看](https://careers.pddglobalhr.com/campus/grad/detail?positionId=a3acf9a4-fe4f-4168-b799-d9431dc9fdac)|
+|2|服务端研发工程师|[点击查看](https://careers.pddglobalhr.com/campus/grad/detail?positionId=69928e37-1ea6-4cd6-bed3-e7a9d3d433a4)|
+|3|算法工程师|[点击查看](https://careers.pddglobalhr.com/campus/grad/detail?positionId=76df91da-24c1-4552-baa5-d5db15e6ecbf)|
+|4|客户端研发工程师|[点击查看](https://careers.pddglobalhr.com/campus/grad/detail?positionId=661f457a-06dd-4c83-8146-7d98f9172f40)|
+|5|web前端研发工程师|[点击查看](https://careers.pddglobalhr.com/campus/grad/detail?positionId=7aa48452-fc75-4ed8-b183-2a56f5b6fe69)|
+|6|数据分析师|[点击查看](https://careers.pddglobalhr.com/campus/grad/detail?positionId=87537c10-b450-4658-8310-6e4f134e29ef)|
+
+
+## <h3 id="19">携程</h3> 
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|1|云计算工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496863&idx=1&sn=2d6599b88235a88e476ed1b253600792&scene=21&poc_token=HGM2wWmjAeRdPTJyQPT5QLQuL-PmTTWFJ69aJhSo)|
+|2|逆向对抗工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496863&idx=1&sn=2d6599b88235a88e476ed1b253600792&scene=21&poc_token=HGM2wWmjAeRdPTJyQPT5QLQuL-PmTTWFJ69aJhSo)|
+|3|测试开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496863&idx=1&sn=2d6599b88235a88e476ed1b253600792&scene=21&poc_token=HGM2wWmjAeRdPTJyQPT5QLQuL-PmTTWFJ69aJhSo)|
+|4|数据库工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496863&idx=1&sn=2d6599b88235a88e476ed1b253600792&scene=21&poc_token=HGM2wWmjAeRdPTJyQPT5QLQuL-PmTTWFJ69aJhSo)|
+|5|算法系统开发|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496863&idx=1&sn=2d6599b88235a88e476ed1b253600792&scene=21&poc_token=HGM2wWmjAeRdPTJyQPT5QLQuL-PmTTWFJ69aJhSo)|
+|6|SRE工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496863&idx=1&sn=2d6599b88235a88e476ed1b253600792&scene=21&poc_token=HGM2wWmjAeRdPTJyQPT5QLQuL-PmTTWFJ69aJhSo)|
+|7|LLM算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496863&idx=1&sn=2d6599b88235a88e476ed1b253600792&scene=21&poc_token=HGM2wWmjAeRdPTJyQPT5QLQuL-PmTTWFJ69aJhSo)|
+|8|移动端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496863&idx=1&sn=2d6599b88235a88e476ed1b253600792&scene=21&poc_token=HGM2wWmjAeRdPTJyQPT5QLQuL-PmTTWFJ69aJhSo)|
+
+
+## <h3 id="20">中国三星</h3> 
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|1|JAVA开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496871&idx=1&sn=6c2f85a1eb53b4fad880c93b51a59874&scene=21&poc_token=HL43wWmj5NbfmDE3Ux1MAi2p1Sr0k5vZOsP7WEET)|
+|2|Android开发软件工程|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496871&idx=1&sn=6c2f85a1eb53b4fad880c93b51a59874&scene=21&poc_token=HL43wWmj5NbfmDE3Ux1MAi2p1Sr0k5vZOsP7WEET)|
+|3|游戏性能分析及优化工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496871&idx=1&sn=6c2f85a1eb53b4fad880c93b51a59874&scene=21&poc_token=HL43wWmj5NbfmDE3Ux1MAi2p1Sr0k5vZOsP7WEET)|
+|4|计算机视觉/自然语言处理算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496871&idx=1&sn=6c2f85a1eb53b4fad880c93b51a59874&scene=21&poc_token=HL43wWmj5NbfmDE3Ux1MAi2p1Sr0k5vZOsP7WEET)|
+|5|计算机视觉/自然语言处理算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496871&idx=1&sn=6c2f85a1eb53b4fad880c93b51a59874&scene=21&poc_token=HL43wWmj5NbfmDE3Ux1MAi2p1Sr0k5vZOsP7WEET)|
+|6|算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496871&idx=1&sn=6c2f85a1eb53b4fad880c93b51a59874&scene=21&poc_token=HL43wWmj5NbfmDE3Ux1MAi2p1Sr0k5vZOsP7WEET)|
+|7|Agent研发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496871&idx=1&sn=6c2f85a1eb53b4fad880c93b51a59874&scene=21&poc_token=HL43wWmj5NbfmDE3Ux1MAi2p1Sr0k5vZOsP7WEET)|
+|8|存储系统专家|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496871&idx=1&sn=6c2f85a1eb53b4fad880c93b51a59874&scene=21&poc_token=HL43wWmj5NbfmDE3Ux1MAi2p1Sr0k5vZOsP7WEET)|
+|9|安全软件开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496871&idx=1&sn=6c2f85a1eb53b4fad880c93b51a59874&scene=21&poc_token=HL43wWmj5NbfmDE3Ux1MAi2p1Sr0k5vZOsP7WEET)|
+
+
+
+## <h3 id="21">小宇宙</h3> 
+山西小宇宙科技有限公司（小宇宙动画 cosmos）工作室成立于2001年，立足山西。2002年开始独立参与省内各种软硬件研发项目，并出色攻克软件开发内容当中的三维动画、虚拟仿真、虚拟现实、演示等内容，于2010年成为有限公司，是中国北部地区成立最早、规模最大、技术最成熟的专业三维虚拟仿真制作公司之一。
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|1|前端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496805&idx=1&sn=c7120cd93aa1fef191848575f50ad121&scene=21&poc_token=HHM4wWmj3hQLrjQLizfWve9GtupL4UnajFn7c6iG)|
+|2|iOS 开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496805&idx=1&sn=c7120cd93aa1fef191848575f50ad121&scene=21&poc_token=HHM4wWmj3hQLrjQLizfWve9GtupL4UnajFn7c6iG)|
+|3|Android开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496805&idx=1&sn=c7120cd93aa1fef191848575f50ad121&scene=21&poc_token=HHM4wWmj3hQLrjQLizfWve9GtupL4UnajFn7c6iG)|
+|4|后端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496805&idx=1&sn=c7120cd93aa1fef191848575f50ad121&scene=21&poc_token=HHM4wWmj3hQLrjQLizfWve9GtupL4UnajFn7c6iG)|
+
+
+## <h3 id="22">海尔集团</h3> 
+26届
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|1|算法工程师（多模态）|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496805&idx=2&sn=2690e84edc624e26847066afad316cdf&scene=21&poc_token=HDM5wWmjjcjk-0ZQyvaar3l8t7xTA9Z2PK9JvpRF)|
+|2|前端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496805&idx=2&sn=2690e84edc624e26847066afad316cdf&scene=21&poc_token=HDM5wWmjjcjk-0ZQyvaar3l8t7xTA9Z2PK9JvpRF)|
+|3|大数据开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496805&idx=2&sn=2690e84edc624e26847066afad316cdf&scene=21&poc_token=HDM5wWmjjcjk-0ZQyvaar3l8t7xTA9Z2PK9JvpRF)|
+|4|软件研发工程师-工业互联网|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496805&idx=2&sn=2690e84edc624e26847066afad316cdf&scene=21&poc_token=HDM5wWmjjcjk-0ZQyvaar3l8t7xTA9Z2PK9JvpRF)|
+|5|算法工程师-工业互联网|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496805&idx=2&sn=2690e84edc624e26847066afad316cdf&scene=21&poc_token=HDM5wWmjjcjk-0ZQyvaar3l8t7xTA9Z2PK9JvpRF)|
+|6|嵌入式软件开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496805&idx=2&sn=2690e84edc624e26847066afad316cdf&scene=21&poc_token=HDM5wWmjjcjk-0ZQyvaar3l8t7xTA9Z2PK9JvpRF)|
+|7|后端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496805&idx=2&sn=2690e84edc624e26847066afad316cdf&scene=21&poc_token=HDM5wWmjjcjk-0ZQyvaar3l8t7xTA9Z2PK9JvpRF)|
+
+
+
+## <h3 id="23">金航数码</h3> 
+金航数码科技有限责任公司(以下简称“金航数码”)是航空工业信息化专业支撑团队，作为国内外先进信息技术的创造性应用者和本地化推进者，肩负着“推进产业信息化，实现信息产业化”的使命,致力于做信息化集大成者，成为行业系统级供应商。金航数码总部设立在北京，在上海、西安、成都、沈阳、南昌等地设有分支机构，人员700余人，在信息化咨询、管理信息化、工程信息化、综合保障信息化、系统集成与信息安全、IT运维与管理等业务领域为客户提供覆盖产品全生命周期、管理全业务流程、企业全价值链的“三全应用”服务。
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|1|算法工程师（AI方向）|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496744&idx=1&sn=bcb9f3a20f73a74d1c3237de83a13ac5&scene=21&poc_token=HOo5wWmjvoda7frufBwEZXMT3fBHlp7OV6mEh8nv)|
+|2|云计算工程师 （私有云建设方向）|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496744&idx=1&sn=bcb9f3a20f73a74d1c3237de83a13ac5&scene=21&poc_token=HOo5wWmjvoda7frufBwEZXMT3fBHlp7OV6mEh8nv)|
+|3|开发工程师（C++）|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496744&idx=1&sn=bcb9f3a20f73a74d1c3237de83a13ac5&scene=21&poc_token=HOo5wWmjvoda7frufBwEZXMT3fBHlp7OV6mEh8nv)|
+|4|开发工程师（数据方向）|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496744&idx=1&sn=bcb9f3a20f73a74d1c3237de83a13ac5&scene=21&poc_token=HOo5wWmjvoda7frufBwEZXMT3fBHlp7OV6mEh8nv)|
+|5|运维工程师（云管平台方向）|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496744&idx=1&sn=bcb9f3a20f73a74d1c3237de83a13ac5&scene=21&poc_token=HOo5wWmjvoda7frufBwEZXMT3fBHlp7OV6mEh8nv)|
+|6|数据治理工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496744&idx=1&sn=bcb9f3a20f73a74d1c3237de83a13ac5&scene=21&poc_token=HOo5wWmjvoda7frufBwEZXMT3fBHlp7OV6mEh8nv)|
+
+
 
-## <h3 id="11">大疆（含视频讲解）</h3> 
 
-#### 1. [C++什么时候生成默认拷贝构造函数？](https://www.bilibili.com/video/BV1LVxje8EF4/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
+## <h3 id="24">无端科技</h3> 
+无端科技（Wooduan Technology） 是国内领先的射击与休闲竞技游戏研发、发行商，核心代表作是国民级页游《生死狙击》
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|1|客户端开发|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496754&idx=1&sn=998b5375e2e2235ee0db0af6bafaec9e&scene=21&poc_token=HKM6wWmjUR0UE_VcVskXAJZzur_5okNwBfO81b5T)|
+|2|服务端开发|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496754&idx=1&sn=998b5375e2e2235ee0db0af6bafaec9e&scene=21&poc_token=HKM6wWmjUR0UE_VcVskXAJZzur_5okNwBfO81b5T)|
+|3|游戏测试|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496754&idx=1&sn=998b5375e2e2235ee0db0af6bafaec9e&scene=21&poc_token=HKM6wWmjUR0UE_VcVskXAJZzur_5okNwBfO81b5T)|
+|4|游戏数据分析|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496754&idx=1&sn=998b5375e2e2235ee0db0af6bafaec9e&scene=21&poc_token=HKM6wWmjUR0UE_VcVskXAJZzur_5okNwBfO81b5T)|
+|5|引擎开发|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496754&idx=1&sn=998b5375e2e2235ee0db0af6bafaec9e&scene=21&poc_token=HKM6wWmjUR0UE_VcVskXAJZzur_5okNwBfO81b5T)|
 
-#### 2. [请说出水平触发和边缘触发的区别？](https://www.bilibili.com/video/BV13D421P7Tc/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
-#### 3. [请简述多态实现的原理](https://www.bilibili.com/video/BV1pT421y7cX/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
-## <h3 id="12"> 科大讯飞（含视频讲解）</h3> 
+## <h3 id="25">影石Insta360</h3> 
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|1|移动端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496759&idx=2&sn=1a7d33c62cc31e37ff1eac02fc4f5a80&scene=21&poc_token=HN47wWmjn-57_VfD_YuWbMVSokNLYw1wdEeK5VHO)|
+|2|深度学习算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496759&idx=2&sn=1a7d33c62cc31e37ff1eac02fc4f5a80&scene=21&poc_token=HN47wWmjn-57_VfD_YuWbMVSokNLYw1wdEeK5VHO)|
+|3|C++开发工程师（音视频）|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496759&idx=2&sn=1a7d33c62cc31e37ff1eac02fc4f5a80&scene=21&poc_token=HN47wWmjn-57_VfD_YuWbMVSokNLYw1wdEeK5VHO)|
+|4|多媒体开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496759&idx=2&sn=1a7d33c62cc31e37ff1eac02fc4f5a80&scene=21&poc_token=HN47wWmjn-57_VfD_YuWbMVSokNLYw1wdEeK5VHO)|
+|5|嵌入式信息安全工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496759&idx=2&sn=1a7d33c62cc31e37ff1eac02fc4f5a80&scene=21&poc_token=HN47wWmjn-57_VfD_YuWbMVSokNLYw1wdEeK5VHO)|
+|6|操作系统优化方向|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496759&idx=2&sn=1a7d33c62cc31e37ff1eac02fc4f5a80&scene=21&poc_token=HN47wWmjn-57_VfD_YuWbMVSokNLYw1wdEeK5VHO)|
+|7|Devops工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496759&idx=2&sn=1a7d33c62cc31e37ff1eac02fc4f5a80&scene=21&poc_token=HN47wWmjn-57_VfD_YuWbMVSokNLYw1wdEeK5VHO)|
+|8|嵌入式底层工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496759&idx=2&sn=1a7d33c62cc31e37ff1eac02fc4f5a80&scene=21&poc_token=HN47wWmjn-57_VfD_YuWbMVSokNLYw1wdEeK5VHO)|
 
-#### 1. [有一张成绩表，写个SQL查出每个班不及格的人数](https://www.bilibili.com/video/BV1oiH4eUEMG/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
-## <h3 id="13">快手（含视频讲解）</h3> 
 
-#### 1. [手撕读写锁（ReadWriteLock）](https://www.bilibili.com/video/BV1fGM9zpEAn/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
-#### 2. [线程与协程的区别？](https://www.bilibili.com/video/BV1541xYnEsy/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
+## <h3 id="26">星星充电</h3> 
+星星充电是万帮数字能源股份有限公司旗下的电动汽车充电设施运营平台，主要从事充电设备的研发、生产、建设、运营与维护。
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|1|解决方案工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496759&idx=1&sn=afc78c36d7ca230b15d5cee34d8380c1&scene=21&poc_token=HI48wWmjmJ6WB2qQTkzvMhHRVE-FwI3pvfqpI4hX)|
+|2|软件测试工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496759&idx=1&sn=afc78c36d7ca230b15d5cee34d8380c1&scene=21&poc_token=HI48wWmjmJ6WB2qQTkzvMhHRVE-FwI3pvfqpI4hX)|
+|3|硬件工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496759&idx=1&sn=afc78c36d7ca230b15d5cee34d8380c1&scene=21&poc_token=HI48wWmjmJ6WB2qQTkzvMhHRVE-FwI3pvfqpI4hX)|
+|4|AI算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496759&idx=1&sn=afc78c36d7ca230b15d5cee34d8380c1&scene=21&poc_token=HI48wWmjmJ6WB2qQTkzvMhHRVE-FwI3pvfqpI4hX)|
+|5|大模型算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496759&idx=1&sn=afc78c36d7ca230b15d5cee34d8380c1&scene=21&poc_token=HI48wWmjmJ6WB2qQTkzvMhHRVE-FwI3pvfqpI4hX)|
+|6|AI应用工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496759&idx=1&sn=afc78c36d7ca230b15d5cee34d8380c1&scene=21&poc_token=HI48wWmjmJ6WB2qQTkzvMhHRVE-FwI3pvfqpI4hX)|
+|7|嵌入式软件工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496759&idx=1&sn=afc78c36d7ca230b15d5cee34d8380c1&scene=21&poc_token=HI48wWmjmJ6WB2qQTkzvMhHRVE-FwI3pvfqpI4hX)|
+|8|系统工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496759&idx=1&sn=afc78c36d7ca230b15d5cee34d8380c1&scene=21&poc_token=HI48wWmjmJ6WB2qQTkzvMhHRVE-FwI3pvfqpI4hX)|
+|9|JAVA工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496759&idx=1&sn=afc78c36d7ca230b15d5cee34d8380c1&scene=21&poc_token=HI48wWmjmJ6WB2qQTkzvMhHRVE-FwI3pvfqpI4hX)|
 
-#### 3. [ping的原理是什么？](https://www.bilibili.com/video/BV1mZnRe5EjJ/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
-#### 4. [手写一个单例模式代码](https://www.bilibili.com/video/BV1DxWSekEs4/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
+## <h3 id="27">昆仑万维</h3> 
+昆仑万维致力于将人工智能技术应用于其现有产品矩阵，以提升用户体验和运营效率。公司拥有跨国的运营团队和技术研发力量，其市场覆盖全球多个国家和地区。
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|1|数据分析师 (Ai音乐方向)|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496716&idx=2&sn=678e7dc86aee571bbf917b09f9c7e9ed&scene=21&poc_token=HBo-wWmjYwWtfiFaMsMkD6ABdBzXL4kgXR7KXeE2)|
+|2|Agent框架工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496716&idx=2&sn=678e7dc86aee571bbf917b09f9c7e9ed&scene=21&poc_token=HBo-wWmjYwWtfiFaMsMkD6ABdBzXL4kgXR7KXeE2)|
+|3|内容理解算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496716&idx=2&sn=678e7dc86aee571bbf917b09f9c7e9ed&scene=21&poc_token=HBo-wWmjYwWtfiFaMsMkD6ABdBzXL4kgXR7KXeE2)|
+|4|高级推荐算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496716&idx=2&sn=678e7dc86aee571bbf917b09f9c7e9ed&scene=21&poc_token=HBo-wWmjYwWtfiFaMsMkD6ABdBzXL4kgXR7KXeE2)|
+|5|视频推荐算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496716&idx=2&sn=678e7dc86aee571bbf917b09f9c7e9ed&scene=21&poc_token=HBo-wWmjYwWtfiFaMsMkD6ABdBzXL4kgXR7KXeE2)|
 
-## <h3 id="14">西山居（含视频讲解）</h3> 
 
-#### 1. [智能指针相关面试题，shared_ptr底层实现](https://www.bilibili.com/video/BV1PWyTY2ESm/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
+## <h3 id="28">智联招聘</h3> 
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|1|算法管培生|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496708&idx=1&sn=d122f9f3955b8c2ed5fb7bd2d24707d9&scene=21&poc_token=HPs-wWmj_h-tGKbqLDvERAcQwXhx5-E8JmOibZ6n)|
+|2|AI产品管培|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496708&idx=1&sn=d122f9f3955b8c2ed5fb7bd2d24707d9&scene=21&poc_token=HPs-wWmj_h-tGKbqLDvERAcQwXhx5-E8JmOibZ6n)|
+|3|数据产品管培生|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496708&idx=1&sn=d122f9f3955b8c2ed5fb7bd2d24707d9&scene=21&poc_token=HPs-wWmj_h-tGKbqLDvERAcQwXhx5-E8JmOibZ6n)|
+|4|搜推策略产品管培生|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496708&idx=1&sn=d122f9f3955b8c2ed5fb7bd2d24707d9&scene=21&poc_token=HPs-wWmj_h-tGKbqLDvERAcQwXhx5-E8JmOibZ6n)|
+|5|产品管培生|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496708&idx=1&sn=d122f9f3955b8c2ed5fb7bd2d24707d9&scene=21&poc_token=HPs-wWmj_h-tGKbqLDvERAcQwXhx5-E8JmOibZ6n)|
 
-## <h3 id="15">拼多多（含视频讲解）</h3> 
 
-#### 1. [手撕 std::vector](https://www.bilibili.com/video/BV15HN2zpErf/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
-#### 2. [epoll线程安全分析](https://www.bilibili.com/video/BV1A35JzmEsH/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
+## <h3 id="29"> 虹软科技</h3> 
+虹软科技股份有限公司是一家专注于计算机视觉与人工智能算法研发与应用的高科技上市公司。
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|1|算法管培生|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496708&idx=2&sn=844b7a4f9bb43cfb01615eaae25cad22&scene=21&poc_token=HJ8_wWmjOZFi_8ywcfgOeZY5TI62zFYq-jkF_ejF)|
+|2|图像质量调优工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496708&idx=2&sn=844b7a4f9bb43cfb01615eaae25cad22&scene=21&poc_token=HJ8_wWmjOZFi_8ywcfgOeZY5TI62zFYq-jkF_ejF)|
+|3|视觉算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496708&idx=2&sn=844b7a4f9bb43cfb01615eaae25cad22&scene=21&poc_token=HJ8_wWmjOZFi_8ywcfgOeZY5TI62zFYq-jkF_ejF)|
+|4|AIGC算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496708&idx=2&sn=844b7a4f9bb43cfb01615eaae25cad22&scene=21&poc_token=HJ8_wWmjOZFi_8ywcfgOeZY5TI62zFYq-jkF_ejF)|
+|5|算法优化工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496708&idx=2&sn=844b7a4f9bb43cfb01615eaae25cad22&scene=21&poc_token=HJ8_wWmjOZFi_8ywcfgOeZY5TI62zFYq-jkF_ejF)|
+|6|AI算法测试开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496708&idx=2&sn=844b7a4f9bb43cfb01615eaae25cad22&scene=21&poc_token=HJ8_wWmjOZFi_8ywcfgOeZY5TI62zFYq-jkF_ejF)|
+|7|智能驾驶测试工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496708&idx=2&sn=844b7a4f9bb43cfb01615eaae25cad22&scene=21&poc_token=HJ8_wWmjOZFi_8ywcfgOeZY5TI62zFYq-jkF_ejF)|
+|8|AI算法博士招聘|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496708&idx=2&sn=844b7a4f9bb43cfb01615eaae25cad22&scene=21&poc_token=HJ8_wWmjOZFi_8ywcfgOeZY5TI62zFYq-jkF_ejF)|
 
-#### 3. [设计模式应用：组合模式](https://www.bilibili.com/video/BV1A35JzmEsH/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
-#### 4. [堆和栈在操作系统底层的实现](https://www.bilibili.com/video/BV1pZPieyEym/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
-#### 5. [为什么栈的分配速度比堆快？](https://www.bilibili.com/video/BV1pZPieyEym/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
+## <h3 id="30">360</h3> 
 
-#### 6. [STL 空间配置器实现原理，malloc中维护了一个内存池，为什么需要基于内存池的空间配置器？](https://www.bilibili.com/video/BV1XA62YZE6g/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
-#### 7. [什么是内存泄露？列举检测内存泄露的方案](https://www.bilibili.com/video/BV1T3q5YpEzt/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
+  
+## <h3 id="30">小鹏</h3> 
 
 
-## <h3 id="16">蚂蚁（含视频讲解）</h3> 
 
-#### 1. [请简述进程和线程切换的区别？](https://www.bilibili.com/video/BV1eM4m1Z7SM/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
-## <h3 id="17">理想（含视频讲解）</h3> 
 
-#### 1. [请说下在C++11用过哪些特性？](https://www.bilibili.com/video/BV1km421p7h7/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)  
+## <h3 id="31">虾皮</h3> 
 
-## <h3 id="18">小米（含视频讲解）</h3> 
 
-#### 1. [vector底层原理实现与扩容机制](https://www.bilibili.com/video/BV14uC6Y3Eek/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
-#### 2. [类成员初始化顺序？](https://www.bilibili.com/video/BV11tqaYeELy/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
-#### 3. [select、poll、epoll的区别？](https://www.bilibili.com/video/BV1fJ23YQEHG/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
-#### 4. [简述智能指针种类以及使用场景](https://www.bilibili.com/video/BV1xE421j7Tt/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
+## <h3 id="32">Momenta</h3> 
 
-#### 5. [RESTful 风格API设计规范](https://www.bilibili.com/video/BV1P1sZeREuU/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
-#### 6. [map 基本原理](https://www.bilibili.com/video/BV1hxxjenEFW/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 7. [golang 切片原理](https://www.bilibili.com/video/BV14QtzeUEKi/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-## <h3 id="19">bilibili（含视频讲解）</h3> 
-
-#### 1. [unique_ptr是怎么实现的？unique_ptr 和 shared_ptr 删除器的设计差异？](https://www.bilibili.com/video/BV1avknYZEZB/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 2. [weak_ptr如何实现的？如何使用weak_ptr？](https://www.bilibili.com/video/BV122zpY7EcR/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 3. [逃逸分析的原理、应用场景和优缺点](https://www.bilibili.com/video/BV1TqNyzeEoc/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-
-## <h3 id="20">金山（含视频讲解）</h3> 
-
-#### 1. [std::sort 使用了哪种排序算法？](https://www.bilibili.com/video/BV1GZB7YrELz/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 2. [k8s Pod有了解吗](https://www.bilibili.com/video/BV19wuizFErk/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 3. [Dockerfile中实现编译和运行阶段，如果有一个依赖库不想每次都编译该怎么办](https://www.bilibili.com/video/BV1YXuMzHE6C/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 4. [什么情况下会导致goroutine泄露？](https://www.bilibili.com/video/BV1DZK3esEdK/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 5. [如何定位goroutine溢出？](https://www.bilibili.com/video/BV1TgNJeiEhN/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 6. [String和byte切片的区别](https://www.bilibili.com/video/BV1AJBEY4ECB/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-
-
-## <h3 id="21">米哈游（含视频讲解）</h3> 
-
-#### 1. [如何解决头文件循环包含的问题？](https://www.bilibili.com/video/BV1SvPueyEjG/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 2. [如何使用 gdb 调试不带调试信息的可执行程序？](https://www.bilibili.com/video/BV1jZ421K7Wf/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 3. [如何利用 AI 提高生产力？](https://www.bilibili.com/video/BV1nn4y1f7aC/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-## <h3 id="22">滴滴（含视频讲解）</h3> 
-
-#### 1. [C++中的友元函数和友元类有什么作用？](https://www.bilibili.com/video/BV1o5CnYKEEK/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 2. [系统调用能否引起线程切换？malloc是不是系统调用？](https://www.bilibili.com/video/BV1Hw4m197Uq/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 3. [Redis缓存雪崩是什么，如何解决和预防](https://www.bilibili.com/video/BV1Ak3LzFESV/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 4. [多个协程读写map会怎样，什么是线程安全](https://www.bilibili.com/video/BV1Pk3LzFErQ/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 5. [怎么用chann来通信，6个channel通信的典型案例](https://www.bilibili.com/video/BV1Kq3LzYEmB/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 6. [发给10个协程，如何打出升序的数字](https://www.bilibili.com/video/BV1kiMmzkEBR/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-## <h3 id="23">美团（含视频讲解）</h3> 
-
-#### 1. [跳表和红黑树的区别](https://www.bilibili.com/video/BV15Y59zhEMQ/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 2. [TCP连接中，接收方不调用recv，会发生什么情况？](https://www.bilibili.com/video/BV1p3oRYVEX8/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 3.[inode是什么以及inode的作用？](https://www.bilibili.com/video/BV17UovYjEkZ/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 4. [如何通过路径和偏移量确定读写磁盘的位置？](https://www.bilibili.com/video/BV17UovYjEkZ/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 5. [http与https的区别？安全性如何体现。https加密过程是对称还是非对称？](https://www.bilibili.com/video/BV1r7fZYXEfn/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 6. [内存对齐相关面试题，DPDK无锁队列为例阐述，内存对齐的作用？](https://www.bilibili.com/video/BV15ZC8YZEKS/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 7. [new和malloc的区别？](https://www.bilibili.com/video/BV1552UYDEAP/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 8. [怎么样的回答会让面试官更满意](https://www.bilibili.com/video/BV198bFeWEtD/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 9. [http与https的区别？加密过程中对称与非对称的区别？](https://www.bilibili.com/video/BV14Wpte6EfQ/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-
-## <h3 id="24">虎牙（含视频讲解）</h3> 
-
-#### 1. [类对象的大小由哪些因素决定？](https://www.bilibili.com/video/BV1G1daYZEWa/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 2. [extern的作用，为什么要用extern“C”，extern变量在哪个数据段？](https://www.bilibili.com/video/BV1bCQGYXEgD/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 3. [指针与引用的区别？](https://www.bilibili.com/video/BV1t6cwe7Eya/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 4. [用户态与内核态的区别？特权指令与用户指令的区别？](https://www.bilibili.com/video/BV1CWk4Y8EWs/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 5. [lambda 表达式底层实现原理](https://www.bilibili.com/video/BV15sq6YzEkN/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-## <h3 id="25">思必驰（含视频讲解）</h3> 
-
-#### 1. [C++调用C函数，C调用C++函数，原理是什么？](https://www.bilibili.com/video/BV1hUqNYKECL/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-
-## <h3 id="26">领跑科技（含视频讲解）</h3> 
-
-#### 1. [深拷贝和浅拷贝的区别？](https://www.bilibili.com/video/BV1xCRKYgEeQ/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 2. [内联函数定义与宏定义的区别？](https://www.bilibili.com/video/BV1FtqUYzEx3/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-## <h3 id="27">元象（含视频讲解）</h3> 
-
-#### 1. [数据库的事务是什么？MySQL怎么满足持久性的要求？](https://www.bilibili.com/video/BV1JNtMeSEjV/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-## <h3 id="28">足下科技（含视频讲解）</h3> 
-
-#### 1. [动态库缺少依赖符号的排查方法](https://www.bilibili.com/video/BV1kENhefETX/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-## <h3 id="29">高德（含视频讲解）</h3> 
-
-#### 1. [请问fflush与fsync的区别？](https://www.bilibili.com/video/BV1uy411e7T5/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-## <h3 id="30">360（含视频讲解）</h3> 
-
-#### 1. [auto关键字](https://www.bilibili.com/video/BV15C3Tz4EHk/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)  
-
-#### 2. [请回答一下Reactor和Proctor的区别？](https://www.bilibili.com/video/BV1fT421D72J/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)  
-
-#### 3. [cookie和session的区别以及分布式session的实现](https://www.bilibili.com/video/BV1V4iRY6En7/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)  
-
-## <h3 id="30">小鹏（含视频讲解）</h3> 
-
-#### 1. [protobuf需要留意的两个使用问题](https://www.bilibili.com/video/BV1odQBY6ERP/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 2. [Redis与MySQL的应用场景](https://www.bilibili.com/video/BV1SxQiYpE8v/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 3. [常见数据结构有哪些我们该掌握哪些经典结构](https://www.bilibili.com/video/BV1VCQNY6Ez9/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 4. [从三个方面回答Linux进程与线程的区别](https://www.bilibili.com/video/BV1VkQNY3EfB/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 5. [Linux进程与线程的区别-线程的三种实现方式](https://www.bilibili.com/video/BV1c4QNYHESp/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 6. [Linux进程与线程的区别-进程的底层逻辑](https://www.bilibili.com/video/BV1PfQAYQE8N/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 7. [小鹏AI Infra 后台开发：http与grpc的区别](https://www.bilibili.com/video/BV1Us92YDEb5/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-## <h3 id="31">虾皮（含视频讲解）</h3> 
-
-#### 1. [const和constrxpr](https://www.bilibili.com/video/BV1abMHzHEbf/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 2. [map和unordered_map的区别？红黑树与AVL树的区别？](https://www.bilibili.com/video/BV1QrUDYoEVx/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 3. [golang零拷贝场景](https://www.bilibili.com/video/BV1ncEezxEge/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 4. [爬虫反复爬取冷门数据造成热数据在缓存中剔除，从而导致雪崩，如何解决？](https://www.bilibili.com/video/BV1A9EYzcEHE/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 5. [什么情况下会产生死锁？](https://www.bilibili.com/video/BV1ps55zYES7/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-## <h3 id="32">Momenta（含视频讲解）</h3> 
-
-#### 1. [共享内存的用法以及使用场景](https://www.bilibili.com/video/BV1ssM3z5ELr/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 2. [vector处理大规模数据时的优化](https://www.bilibili.com/video/BV1HYTjznEGn/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 3. [vector和array的区别](https://www.bilibili.com/video/BV1HYTjznEGn/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 4. [生产者、消费者用有缓存channel通信场景，如何让生产者和消费者退出](https://www.bilibili.com/video/BV1kZkXYAE3f/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 5. [golang中哪些数据类型是线程安全的？](https://www.bilibili.com/video/BV1rhk4YRE7R/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 6. [map可以寻址吗？](https://www.bilibili.com/video/BV1SqkzYuEZ1/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 7. [map的两种扩容方式](https://www.bilibili.com/video/BV1ZEkzYHEXV/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-## <h3 id="33">4399（含视频讲解）</h3> 
-
-#### 1. [异步日志中双缓冲区设计](https://www.bilibili.com/video/BV1TVG1zsEZk/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-## <h3 id="34">众图互动（含视频讲解）</h3> 
-
-#### 1. [golang逃逸情况分析](https://www.bilibili.com/video/BV1mFEJzfEEj/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-## <h3 id="35">Todesk（含视频讲解）</h3> 
-
-#### 1. [非虚函数和虚函数的调用原理](https://www.bilibili.com/video/BV18fN4zxE4R/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-## <h3 id="36">汇量科技（含视频讲解）</h3> 
-
-#### 1. [项目有没有做压测，推荐使用wrk压力测试工具](https://www.bilibili.com/video/BV1z95Vz9ELF/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-## <h3 id="37">迅雷（含视频讲解）</h3> 
-
-#### 1. [TCP四次挥手相关面试题，四次挥手中第二次与第三次是否能合并？](https://www.bilibili.com/video/BV1MWDzYtEmA/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-## <h3 id="38">私募（含视频讲解）</h3> 
-
-#### 1. [手撕weak_ptr](https://www.bilibili.com/video/BV1BBKHztEvE/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-## <h3 id="39">沥泉科技（含视频讲解）</h3> 
-
-#### 1. [gin框架如何使用swagger实现接口文档](https://www.bilibili.com/video/BV1HX5PzeEcB/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 2. [使用channel如何避免阻塞主协程](https://www.bilibili.com/video/BV1hWG9zSEWK/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 3. [文件分块上传、端点续传、多线程上传实战](https://www.bilibili.com/video/BV1MVGRzjEJN/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 4. [formdata与binary两种方式上传文件](https://www.bilibili.com/video/BV1KbGQzBErQ/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-## <h3 id="40">好未来（含视频讲解）</h3> 
-
-#### 1. [100w粉丝如何存储，如何利用Redis以及如何推送消息](https://www.bilibili.com/video/BV1xKMvzyE6q/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 2. [微信PC端和微信端扫码登录的实现流程](https://www.bilibili.com/video/BV1Zv7HzSEyg/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 3. [长链和短链的相互转换](https://www.bilibili.com/video/BV1iq7HzEEq2/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-## <h3 id="41">度小满（含视频讲解）</h3> 
-
-#### 1. [对性别创建索引为什么快不了](https://www.bilibili.com/video/BV1L3jdz3Ez9/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 2. [SQL语句求每个班级大于18的人数](https://www.bilibili.com/video/BV1Y7jdzTEJP/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-## <h3 id="42">读书郎（含视频讲解）</h3> 
-
-#### 1. [Redis分布式锁的实现与优缺点](https://www.bilibili.com/video/BV1XVj9zcEvy/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 2. [go常见的三种序列化和反序列化](https://www.bilibili.com/video/BV1EtJnzWE71/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 3. [Get、Post、Put、Delete等请求方法分别代表什么含义](https://www.bilibili.com/video/BV1T3JnzNEvS/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 4. [Redis线程安全问题如何解决？](https://www.bilibili.com/video/BV1x5JnzAEuc/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 5. [如何解决Redis缓存穿透问题？](https://www.bilibili.com/video/BV1HVJzz1ErD/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 6. [多线程编程如何识别和避免死锁](https://www.bilibili.com/video/BV1QDJizXEFu/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-## <h3 id="43">cmstop（含视频讲解）</h3> 
-
-#### 1. [为什么使用注册中心而不是用配置文件](https://www.bilibili.com/video/BV1GtJAz8EZN/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 2. [map的底层数据结构与线程安全](https://www.bilibili.com/video/BV1jjE4zwEA1/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 3. [切片的深拷贝与浅拷贝](https://www.bilibili.com/video/BV1KeEizrELv/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-
-## <h3 id="44">大华（含视频讲解）</h3> 
-
-#### 1. [协程如何关闭](https://www.bilibili.com/video/BV1gQNde5EEF?spm_id_from=333.788.videopod.sections&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 2. [CSP和共享变量通信有什么区别](https://www.bilibili.com/video/BV15jNueQEQe/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 3. [golang中哪些类型是引用类型，哪些类型是值类型](https://www.bilibili.com/video/BV1USwceLEeD/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 4. [如何判断一个结构是否实现了某个接口？](https://www.bilibili.com/video/BV1khcyeWEow/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 5. [结构体中的tag有什么作用](https://www.bilibili.com/video/BV1twc1eAErS/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 6. [sync.WaitGroup底层原理](https://www.bilibili.com/video/BV14Ac1eaETW/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 7. [golang有哪些同步原语？](https://www.bilibili.com/video/BV1zbrzYQEJ5/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 8. [如果chan 在有缓冲区的情况下缓冲区满了不想要后续的数据了怎么做](https://www.bilibili.com/video/BV1K5rzYwEE1/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 9. [内存泄漏的场景有哪些？](https://www.bilibili.com/video/BV1PJrzYZEep/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 10. [切片的复制过程](https://www.bilibili.com/video/BV14LrzYhEgL/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-## <h3 id="45">深信服（含视频讲解）</h3> 
-
-#### 1. [协程如何关闭](https://www.bilibili.com/video/BV1gQNde5EEF?spm_id_from=333.788.videopod.sections&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 2. [JSON与Protobuf的区别](https://www.bilibili.com/video/BV19ww5eRENe/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 3. [golang内存逃逸有了解吗？](https://www.bilibili.com/video/BV1DAcBeEEnU/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 4. [如何获取goroutine里面的一个函数执行的返回值](https://www.bilibili.com/video/BV1bUcBemEg1/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 5. [Mutex是乐观锁还是悲观锁，乐观锁和悲观锁的区别](https://www.bilibili.com/video/BV1bUcBemE7K/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 6. [for range中赋值的变量是指向临时变量还是真实的地址](https://www.bilibili.com/video/BV18ycBenEZJ/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 7. [先判断channel是否阻塞，再写入数据](https://www.bilibili.com/video/BV1hBcie2EMx/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 8. [如何在defer中修改方法返回值](https://www.bilibili.com/video/BV1Jpcme4EiW/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-## <h3 id="46">子虔科技（含视频讲解）</h3> 
-
-#### 1. [goroutine的使用场景](https://www.bilibili.com/video/BV1ut6nY2Eb7/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 2. [goroutine怎么做同步控制](https://www.bilibili.com/video/BV1FN6nYaEbp/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-## <h3 id="47">亚信安全（含视频讲解）</h3> 
-
-#### 1. [atomic应用场景以及五种操作方法](https://www.bilibili.com/video/BV1LH6VYqESh/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-## <h3 id="48">shopee（含视频讲解）</h3> 
-
-#### 1. [select两个channel性能稳定，三个channel时性能会发生抖动，为什么？](https://www.bilibili.com/video/BV1EECwYDE5L/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-## <h3 id="49">闪送（含视频讲解）</h3> 
-
-#### 1. [Redis 的分布式锁和 Zookeeper 的分布式锁的区别](https://www.bilibili.com/video/BV1w5B5Y5EeJ/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 2. [Redis分布式锁的实现](https://www.bilibili.com/video/BV13yBTY6EPW/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 3. [recover 怎么使用的，defer 相比普通的在函数最后执行操作，其优势是什么？](https://www.bilibili.com/video/BV1aDqtYAEfS/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 4. [如何控制 goroutine 的生命周期，channel 的作用，context 的作用](https://www.bilibili.com/video/BV1aDqtYAEfS/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 5. [map、slice未初始化操作会怎样，发生panic应该怎么办](https://www.bilibili.com/video/BV1wnqGYBEjG/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-## <h3 id="50">LeetCode 经典（含视频讲解）</h3> 
-
-#### 1. [手把手教你把数字翻译成字符串](https://www.bilibili.com/video/BV13r421M7ZE/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 2. [字符串的排列](https://www.bilibili.com/video/BV1XH4y1F76v/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 3. [vector底层实现原理](https://www.bilibili.com/video/BV1Ww4m1e7jZ/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 4. [40亿个非负整数中算中位数和找出现两次的数](https://www.bilibili.com/video/BV14z421z7kn/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 5. [2G内存在20亿个整数中找到出现次数最多的数](https://www.bilibili.com/video/BV1qE421N7bu/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-## <h3 id="51">技术分享（含视频讲解）</h3> 
-
-#### 1. [2026届C/C++秋招保姆级攻略](https://www.bilibili.com/video/BV1wh75zgEJ9/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 2. [C++并发编程](https://www.bilibili.com/video/BV1A6GHzUE6S/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 3. [C/C++方向如何备战秋招？](https://www.bilibili.com/video/BV1reLVzhEKj/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 4. [C++要准备到什么程度才能拿到实习offer？](https://www.bilibili.com/video/BV1yTZSYeEYC/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 5. [如何才能拿到SP offer及SSP offer？白菜offer与SP offer及SSP offer之间的差异？](https://www.bilibili.com/video/BV1T6ioYzEDP/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 6. [推荐一个可写简历的应届生项目-TrinityCore，C++游戏开发开源框架](https://www.bilibili.com/video/BV1rZm9YSEop/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 7. [推荐一个可写简历的应届生项目-zvnet，可写进简历的项目](https://www.bilibili.com/video/BV1RqDhY1EJd/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 8. [C++要学到什么程度？应届生如何在校招中快速拿到心仪offer](https://www.bilibili.com/video/BV1gj2dYYEjM/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 9. [大专学历从qt开发转做游戏服务端开发，从15k到19k，这行情跳槽还涨薪？](https://www.bilibili.com/video/BV1hyYMeDEiJ/?spm_id_from=333.1387.upload.video_card.click)
-
-#### 10. [普通二本嵌入式开发转游戏开发，9k到13.5k？](https://www.bilibili.com/video/BV17E421w7y1/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 11. [25届校招提前批模拟面试分享~已过科大讯飞一二面](https://www.bilibili.com/video/BV1Uf421v7ov/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 12. [校招、社招C++方向学到什么程度可以找工作](https://www.bilibili.com/video/BV157421R7Sf/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 13. [一位学历为本科的同学想找C++后端实习的面试模拟！](https://www.bilibili.com/video/BV1GZ421W7Rr/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 14. [精选牛客 100+道 C++ 方向面试题，如何正确的刷题以及解答方式](https://www.bilibili.com/video/BV1H64y1P76U/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 15. [AI应用层标准协议 MCP 协议](https://www.bilibili.com/video/BV1xj3xzoELC/?spm_id_from=333.1387.upload.video_card.click)
-
-#### 16. [docker 如何启用IPv6联网访问](https://www.bilibili.com/video/BV1D5K9zPEHf/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 17. [揭秘人工智能MCP协议如何无缝集成外部数据与服务](https://www.bilibili.com/video/BV17UTrzjEaa/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 18. [揭秘云编辑器（cloud IDE）手把手教你部署云编辑器实现浏览器编码](https://www.bilibili.com/video/BV1b97HzqEzD/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 19. [利用AI一键式生成高清短视频，效率高、效果好，小白也可搞创作](https://www.bilibili.com/video/BV1ApEjz7Enw/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 20. [Open WebUI 一个友好的人工智能界面支持Ollama接口与OpenAI接口](https://www.bilibili.com/video/BV19XLiz2ErD/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 21. [Anything LLM快速构建大语言模型（DeepSeek、OpenAI等）知识库问答系统](https://www.bilibili.com/video/BV1FJLxz8Eru/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 22. [作为非AI领域的开发人员，该如何部署自己的大模型应用](https://www.bilibili.com/video/BV1yAojYNEWa/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 23. [面试过程中我们如何介绍自己的项目](https://www.bilibili.com/video/BV1s85Ez1EqN/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 24. [熟悉Linux需要掌握哪些内容](https://www.bilibili.com/video/BV1KqZuYXEcD/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 25. [程序员想离职换新工作没把握怎么办，按照这11个步骤分析一下自己的情况](https://www.bilibili.com/video/BV1FPovY7EeL/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 26. [内网穿透解决微信公众平台回调本地接口的问题](https://www.bilibili.com/video/BV1FToxYWE4e/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 27. [3周极限上岸！零代码经验→转正开发岗：我的Golang速成路径+避坑血泪史](https://www.bilibili.com/video/BV1wb9JYPEAA/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 28. [Golang秋招逆袭攻略！100道大厂必考真题+视频精讲｜从零基础到Offer通关秘籍](https://www.bilibili.com/video/BV1TQPVenEvc/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 29. [简历项目从哪里获取，需要熟悉到什么程度以及面试前需要准备哪些内容？](https://www.bilibili.com/video/BV1NxAoePE6P/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 30. [应届生实习、秋招、春招找工作，我们应该优先考虑哪些岗位？](https://www.bilibili.com/video/BV11oAredEzQ/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 31. [国际化和本地化解决方案 gotext详解](https://www.bilibili.com/video/BV1bCw9ecEqN/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 32. [vscode 如何配置golang开发运行环境](https://www.bilibili.com/video/BV1cZw9eDEm2/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 33. [golang 云原生就业前景怎么样，看看Deepseek怎么说](https://www.bilibili.com/video/BV154QJYmEEe/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 34. [Deepseek帮忙规划的golang学习路线有哪些内容?](https://www.bilibili.com/video/BV1jXQVYiEYq/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 35. [golang三周速成计划书，助力你25届春招成功上岸！](https://www.bilibili.com/video/BV1ENKPemEvg/?spm_id_from=333.1387.upload.video_card.click)
-
-#### 36. [98份Golang秋招面经已经就绪！](https://www.bilibili.com/video/BV1tPKGenEN1/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 37. [B站最详细的Golang基础视频教程，从0到深入（保姆级教学）小白也能学会！](https://www.bilibili.com/video/BV1euNqecEvh/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 38. [golang云原生发展方向与职业规划指导（短期规划、中期规划、长期规划）](https://www.bilibili.com/video/BV1euNqecEvh/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 39. [技术过硬面试很顺利为啥没能拿下offer，有哪些潜在原因](https://www.bilibili.com/video/BV158ioYjE4e/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 40. [2025届适用于春招实习、校招、应届毕业生的完整golang学习路线分享](https://www.bilibili.com/video/BV1cxSiYiESQ/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 41. [腾讯云、阿里云它们的免费的https证书从何而来](https://www.bilibili.com/video/BV1zQHjeZEBB/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 42. [应届毕业golang和java如何选择，来看看这9个城市的对比情况吧](https://www.bilibili.com/video/BV1Hb421e7KV/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-## <h3 id="52">简历修改（含视频讲解）</h3> 
-
-#### 1. [本硕211实习0 offer，想去做Qt开发推荐嘛？](https://www.bilibili.com/video/BV1637VzPELr/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 2. [双非本硕研二0实习，现在准备秋招还来得及嘛？去实习还是准备秋招？](https://www.bilibili.com/video/BV1aNjBzHEUL/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 3. [985本毕业就失业？考研失败+春招0 offer，面试中面试官的百般刁难是哪里出了问题？](https://www.bilibili.com/video/BV1rej9z2Ees/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 4. [985本毕业就失业？考研失败+春招0 offer，面试中面试官的百般刁难是哪里出了问题？](https://www.bilibili.com/video/BV1rej9z2Ees/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 5. [普本大三找实习推荐Qt开发吗？项目该如何准备？](https://www.bilibili.com/video/BV1itj1zUECD/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 6. [南邮硕C++校招简历实录：秋招还有三个月，C++转Java还来的及嘛？](https://www.bilibili.com/video/BV1aejnzBEtU/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 7. [频繁跳槽对后续找工作影响有多大？工作经历越多越好？](https://www.bilibili.com/video/BV1hpJHz1EVK/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 8. [双非本211硕推荐去做Qt开发嘛？实习过程中加强这三点，秋招百分之九十拿高薪offer](https://www.bilibili.com/video/BV1VXE1zJEfm/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 9. [27届本2硕9校招实习简历实录：项目怎么搭配才能更好的拿到offer](https://www.bilibili.com/video/BV1znEczYE69/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 10. [学历好怎么拿大厂offer？本硕211学员简历诊断实录：这样写项目经验，通过率翻倍！](https://www.bilibili.com/video/BV1Qs5VzCE4M/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 11. [高学历却笔试都过不了，原因在哪？985硕校招简历诊断实录！](https://www.bilibili.com/video/BV1XK5Nz9EDh/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 12. [工作四年，想做C++后端开发，工作中开发的功能该如何写到简历上？](https://www.bilibili.com/video/BV1CZV4zvEXq/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 13. [学历本科太原理工、硕士复旦大学的简历是什么样的？](https://www.bilibili.com/video/BV1nLpSexEtx/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 14. [学历本硕科班，无实习经历的简历是什么样的？](https://www.bilibili.com/video/BV1sUegeSEZn/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 15. [学历211，ACM亚洲区银奖，有三份实习经历的简历是什么样的？](https://www.bilibili.com/video/BV1Gge8eEECa/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 16. [如何在简历中描述游戏登录注册流程？](https://www.bilibili.com/video/BV1sc411q73r/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 17. [C++面试要怎么准备简历？这些细节你一定要注意](https://www.bilibili.com/video/BV1MP411a7g6/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 18. [如何写出优质的简历搞定HR获得面试机会](https://www.bilibili.com/video/BV1n142187fb/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-## <h3 id="53">c++ 相关面试题（含视频讲解）</h3> 
-
-#### 1. [请问页面置换算法有哪些？](https://www.bilibili.com/video/BV1fm42177jq/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 2. [请描述系统调用的整个流程？](https://www.bilibili.com/video/BV13A4m1F7nh/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 3. [进程和线程的区别？](https://www.bilibili.com/video/BV1nm411B7cn/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 4. [malloc、free和new、delete的区别？](https://www.bilibili.com/video/BV1Qm411z7AH/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 5. [虚函数表和虚函数表指针的创建时机](https://www.bilibili.com/video/BV1hH4y1J7xd/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 6. [Reactor 模型是如何处理网络 IO](https://www.bilibili.com/video/BV1Mp4y1w7eJ/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 7. [Raft 分布式一致性算法的动画演示](https://www.bilibili.com/video/BV1394y1s7gh/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 8. [C++开发种经常用到的4种层式结构、B+树、时间轮、跳表、LSM-Tree](https://www.bilibili.com/video/BV1vF411U7pL/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 9. [2G内存在20个亿个整数中找出出现次数最多的数](https://www.bilibili.com/video/BV1uu411K75k/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 10. [gdb 多线程调试：redis 的 io 多线程](https://www.bilibili.com/video/BV1Mu411K7Wx/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 11. [左值引用与右值引用的区别？右值引用的意义？](https://www.bilibili.com/video/BV1eN4y1R7Me/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-## <h3 id="54">golang 相关面试题（含视频讲解）</h3> 
-
-#### 1. [golang数据结构map的两种扩容方式与疏散流程](https://www.bilibili.com/video/BV1veo1YiE5e/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 2. [golang数据结构map的访问与更新的底层实现](https://www.bilibili.com/video/BV18SXpYpEXm/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 3. [golang数据结构map的创建流程](https://www.bilibili.com/video/BV18DXpYQEgR/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 4. [golang数据结构map的底层数据结构与哈希冲突的解决方案](https://www.bilibili.com/video/BV1XBXrYkELj/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 5. [sync.Mutex 最多支持多少个协程排队](https://www.bilibili.com/video/BV1SvXAYcEzL/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 6. [golang协程泄露情况以及解决方案](https://www.bilibili.com/video/BV1p3dGYJE5m/?spm_id_from=333.1387.upload.video_card.click)
-
-#### 7. [多线程分块上传、断点续传的代码实现](https://www.bilibili.com/video/BV11S91YyEeA/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 8. [Redis有序集合底层原理跳表是怎样提高查询效率的，为什么叫跳表？](https://www.bilibili.com/video/BV1WX9oYGEnf/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 9. [Redis有哪些数据类型、用过哪些？](https://www.bilibili.com/video/BV1rn94YQERB/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 10. [TCP和HTTP的区别](https://www.bilibili.com/video/BV1Pq9qYQEJQ/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 11. [如何ETCD实现服务的注册和发现](https://www.bilibili.com/video/BV1qF9gYwEBE/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 12. [缓存穿透、缓存击穿、缓存雪崩该如何解决](https://www.bilibili.com/video/BV1h39gY9EDx/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 13. [golang 常见gcflags有哪些，如何查找更多的flags？](https://www.bilibili.com/video/BV1JxNJexE6s/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 14. [sync.Map 数据写入流程以及源码解读](https://www.bilibili.com/video/BV1vJ63YcEqh/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 8. [sync.Map 数据读取流程以及源码解读](https://www.bilibili.com/video/BV1LJ63YcEjJ/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 9. [sync.map与map的区别以及sync.map的使用场景](https://www.bilibili.com/video/BV1WACaYVEmv/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 10. [sync.map数据结构以及Read与dirty的转化关系](https://www.bilibili.com/video/BV1Gn6uYQEWo/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 11. [go协程可能会引发哪些问题？](https://www.bilibili.com/video/BV1jbCPYQEF5/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 12. [怎样实现多个服务并发读写同一份数据,保证数据正确性？](https://www.bilibili.com/video/BV1KDCPYqEEz/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 13. [go实现一个消息处理协程池](https://www.bilibili.com/video/BV1sMCwYtEEy/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 14. [go实现一个简单的多态](https://www.bilibili.com/video/BV1HGCwYRE1M/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 15. [进程、线程、协程、go协程的区别](https://www.bilibili.com/video/BV19UDGYxEaG/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 16. [grpc协程溢出与grpc连接池实现](https://www.bilibili.com/video/BV13QDcYREw1/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 17. [关于select核心机制与使用场景分析](https://www.bilibili.com/video/BV1rnSRYQExi/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 18. [go实现一个简单的多态](https://www.bilibili.com/video/BV1HGCwYRE1M/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 19. [golang如何现场手撕协程池？](https://www.bilibili.com/video/BV1zq1sY9ELR/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 20. [Printf() , Sprintf(), Fprintf()都是格式化输出，有什么不同？](https://www.bilibili.com/video/BV1nY1sY4Edm/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 21. [golang中的new和make的用法与区别](https://www.bilibili.com/video/BV1QHyoYcEQo/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 22. [golang 传值与传引用到底该如何选择？](https://www.bilibili.com/video/BV13XD2YQESY/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 23. [golang同步锁有什么特点？作用是什么？](https://www.bilibili.com/video/BV1hKyZYcEGb/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-#### 24. [go协程池的设计与实现](https://www.bilibili.com/video/BV1QJ4m1374w/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
 ---
 ---
 
+
+
+## 经典面题
 
 > 以下为文字版讲解的各大中小厂面试题
 
@@ -1640,7 +1378,7 @@ MiniMax（上海稀宇科技）是2021年12月成立的中国大模型初创公�
 ---
 ---
 
-# 面经
+## 面经
 
 #### [1. 27java小厂面经](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E9%9D%A2%E7%BB%8F/27java%E5%B0%8F%E5%8E%82%E9%9D%A2%E7%BB%8F.md)
 
@@ -1731,3 +1469,5 @@ MiniMax（上海稀宇科技）是2021年12月成立的中国大模型初创公�
 #### 免责声明
 
 本项目内容均来源于互联网公开资料，仅供学习交流使用，版权归原作者所有。
+
+
