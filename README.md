@@ -1,5 +1,3 @@
-# 2026-Computer-Spring-Recruitment-Job-Compilation
-2026 CS Spring Recruitment Jobs Collection，面向25、26、27届应届生，每日更新，零广告，含投递链接+内推，助力春招上岸
 <h1 align="center">📚 2026 Computer Spring Recruitment ob Compilation</h1>
 <h3 align="center">🎓 面向 25、26、27届应届生专属，每日更新，零广告，含投递链接+内推，助力春招上岸！</h3>
 
