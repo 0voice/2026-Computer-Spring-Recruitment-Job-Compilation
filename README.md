@@ -1179,107 +1179,107 @@ MiniMax（上海稀宇科技）是2021年12月成立的中国大模型初创公�
 
 ## 网易（含文字讲解）
 
-#### [1. 1000个 goroutine 进行 IO 处理会发生什么？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+[1. 1000个 goroutine 进行 IO 处理会发生什么？](网易/readme.md)
 
-#### [2. 携程在哪些情况下会被剥离 M？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+[2. 携程在哪些情况下会被剥离 M？](网易/readme.md)
 
-#### [3. 网络设计模式？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+[3. 网络设计模式？](网易/readme.md)
 
-#### [4. 学习中的难点？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+[4. 学习中的难点？](网易/readme.md)
 
-#### [5. GPM 调度器？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+[5. GPM 调度器？](网易/readme.md)
 
-#### [6. 执行系统调用的整个过程？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+[6. 执行系统调用的整个过程？](网易/readme.md)
 
-#### [7. 乐观锁和悲观锁？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+[7. 乐观锁和悲观锁？](网易/readme.md)
 
-#### [8. 数据库中的乐观锁是如何实现的？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+[8. 数据库中的乐观锁是如何实现的？](网易/readme.md)
 
-#### [9. 消息队列异步削峰](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+[9. 消息队列异步削峰](网易/readme.md)
 
-#### [10. 用户取消订单如何处理？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+[10. 用户取消订单如何处理？](网易/readme.md)
 
-#### [11. 索引的数据结构 B+树特点](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+[11. 索引的数据结构 B+树特点](网易/readme.md)
 
-#### [12. 数据库四个隔离级别](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+[12. 数据库四个隔离级别](网易/readme.md)
 
-#### [13. 幻读](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+[13. 幻读](网易/readme.md)
 
-#### [14. 间隙锁](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+[14. 间隙锁](网易/readme.md)
 
-#### [15. 写锁](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+[15. 写锁](网易/readme.md)
 
-#### [16. Setnx 实现分布式锁](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+[16. Setnx 实现分布式锁](网易/readme.md)
 
-#### [17. Redis 缓存三兄弟](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+[17. Redis 缓存三兄弟](网易/readme.md)
 
-#### [18. Zset 设计每日分数排行榜](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+[18. Zset 设计每日分数排行榜](网易/readme.md)
 
-#### [19. 死锁如何解决？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+[19. 死锁如何解决？](网易/readme.md)
 
-#### [20. URL 映射](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+[20. URL 映射](网易/readme.md)
 
-#### [21. Spring 里面的 IoC 了解吗？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+[21. Spring 里面的 IoC 了解吗？](网易/readme.md)
 
-#### [22. 常用注解？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+[22. 常用注解？](网易/readme.md)
 
-#### [23. 注解的原理知道吗？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+[23. 注解的原理知道吗？](网易/readme.md)
 
-#### [24. Java 的 HashMap 底层数据结构？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+[24. Java 的 HashMap 底层数据结构？](网易/readme.md)
 
-#### [25. 为什么链表要转换成红黑树？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+[25. 为什么链表要转换成红黑树？](网易/readme.md)
 
-#### [26. HashMap 是无序的吧？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+[26. HashMap 是无序的吧？](网易/readme.md)
 
-#### [27. 要想有序，用哪个 Map？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+[27. 要想有序，用哪个 Map？](网易/readme.md)
 
-#### [28. MySQL 的事务特性？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+[28. MySQL 的事务特性？](网易/readme.md)
 
-#### [29. 隔离级别，和默认隔离级别？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+[29. 隔离级别，和默认隔离级别？](网易/readme.md)
 
-#### [30. 线程池了解吗？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+[30. 线程池了解吗？](网易/readme.md)
 
-#### [31. 两个机器通过网线连接，一个是1.1.1.1，另一个是2.2.2.2，可以进行数据包的发送吗？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+[31. 两个机器通过网线连接，一个是1.1.1.1，另一个是2.2.2.2，可以进行数据包的发送吗？](网易/readme.md)
 
-#### [32. IP层分片机制是怎么实现的？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+[32. IP层分片机制是怎么实现的？](网易/readme.md)
 
-#### [33. TCP报文中的选项设置？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+[33. TCP报文中的选项设置？](网易/readme.md)
 
-#### [34. 时间戳机制？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+[34. 时间戳机制？](网易/readme.md)
 
-#### [35. 序列号的随机生成？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+[35. 序列号的随机生成？](网易/readme.md)
 
-#### [36. TCP端口复用机制？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+[36. TCP端口复用机制？](网易/readme.md)
 
-#### [37. 接收窗口满了怎么处理？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+[37. 接收窗口满了怎么处理？](网易/readme.md)
 
-#### [38. 四次挥手？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+[38. 四次挥手？](网易/readme.md)
 
-#### [39. ARP协议？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+[39. ARP协议？](网易/readme.md)
 
-#### [40. commonjs 和 esmodule 区别？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+[40. commonjs 和 esmodule 区别？](网易/readme.md)
 
-#### [41. 事件过程](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+[41. 事件过程](网易/readme.md)
 
-#### [42. 阻止冒泡](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+[42. 阻止冒泡](网易/readme.md)
 
-#### [43. 盒模型](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+[43. 盒模型](网易/readme.md)
 
-#### [44. BFC 和触发方法](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+[44. BFC 和触发方法](网易/readme.md)
 
-#### [45. 实现动画的几种方式](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+[45. 实现动画的几种方式](网易/readme.md)
 
-#### [46. requestAnimationFrame 实现动画优点](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+[46. requestAnimationFrame 实现动画优点](网易/readme.md)
 
-#### [47. flex: 1 含义](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+[47. flex: 1 含义](网易/readme.md)
 
-#### [48. flex-shrink 和 flex-grow](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+[48. flex-shrink 和 flex-grow](网易/readme.md)
 
-#### [49. 内容溢出写法](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+[49. 内容溢出写法](网易/readme.md)
 
-#### [50. TypeScript 泛型](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+[50. TypeScript 泛型](网易/readme.md)
 
-#### [51. extends 关键字](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+[51. extends 关键字](网易/readme.md)
 
 
 ## 搜狐（含文字讲解）
