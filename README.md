@@ -93,7 +93,7 @@
    * [星星充电](#26)
    * [昆仑万维](#27)
    * [智联招聘](#28)
-   * [ 虹软科技](#29)
+   * [虹软科技](#29)
    * [智元机器人](#30)
    * [英伟达](#31)
    * [同花顺](#32)
@@ -646,9 +646,6 @@ MiniMax（上海稀宇科技）是2021年12月成立的中国大模型初创公�
 
 
 
-
-
-
 ## <h3 id="32">同花顺</h3> 
 |NO.|工作岗位|详细内容|
 |--------|--------|------|
@@ -659,6 +656,16 @@ MiniMax（上海稀宇科技）是2021年12月成立的中国大模型初创公�
 |5|Android开发|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=2&sn=f733c245ca8503ceb33393b61bf8df2e&scene=21&poc_token=HP5XwmmjJdy10X8K33UacslnbgzPEyEGpobZ1HE4)|
 |6|C++开发|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=2&sn=f733c245ca8503ceb33393b61bf8df2e&scene=21&poc_token=HP5XwmmjJdy10X8K33UacslnbgzPEyEGpobZ1HE4)|
 |7|AIGC算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=2&sn=f733c245ca8503ceb33393b61bf8df2e&scene=21&poc_token=HP5XwmmjJdy10X8K33UacslnbgzPEyEGpobZ1HE4)|
+
+
+## <h3 id="33">商汤科技</h3> 
+商汤科技是一家专注于人工智能领域的创新型科技公司，致力于计算机视觉、深度学习等技术的研发与应用。作为全球领先的AI平台企业，商汤科技在智慧城市、自动驾驶、医疗影像、增强现实等多个领域提供行业解决方案。公司拥有强大的原创技术积累，自主研发了深度学习框架和AI芯片，推动人工智能技术落地。商汤科技与全球多家知名企业及机构合作，持续探索AI赋能产业的边界，以科技创新驱动社会发展。
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|1|Java开发|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496611&idx=3&sn=ccd4708af15e4b3d51874822e0db3458&scene=21&poc_token=HHiHwmmj46gDo75hHpWxBK8xY0hffW6IFvXEnZoQ)|
+|2|多模态大模型算法|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496611&idx=3&sn=ccd4708af15e4b3d51874822e0db3458&scene=21&poc_token=HHiHwmmj46gDo75hHpWxBK8xY0hffW6IFvXEnZoQ)|
+|3|AI工具链开发|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496611&idx=3&sn=ccd4708af15e4b3d51874822e0db3458&scene=21&poc_token=HHiHwmmj46gDo75hHpWxBK8xY0hffW6IFvXEnZoQ)|
+
 
 
 
