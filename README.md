@@ -64,46 +64,72 @@
 
 
 ## 📂 目录导航
-- [校招实习](#校招实习)
+- [互联网大厂岗](#互联网大厂岗)
    * [腾讯](#1)
    * [字节](#2)
    * [美团](#3)
-   * [MiniMax](#4)
    * [阿里巴巴](#5)
    * [华为](#6)
    * [百度](#7)
    * [小米](#8)
-   * [滴滴打车](#9)
    * [网易](#10)
    * [京东](#11)
-   * [小红书](#12)
    * [饿了么](#13)
-   * [贝壳找房](#14)
-   * [掌阅科技](#15)
-   * [好未来](#16)
-   * [4399游戏](#17)
    * [拼多多](#18)
+
+
+
+- [独角兽](#独角兽)
+   * [MiniMax](#4)
+   * [滴滴打车](#9)
+   * [小红书](#12)
+   * [贝壳找房](#14)
+   * [4399游戏](#17)
    * [携程](#19)
-   * [中国三星](#20)
-   * [小宇宙](#21)
-   * [海尔集团](#22)
-   * [金航数码](#23)
-   * [无端科技](#24)
    * [影石Insta360](#25)
    * [星星充电](#26)
-   * [昆仑万维](#27)
-   * [智联招聘](#28)
    * [虹软科技](#29)
-   * [智元机器人](#30)
-   * [英伟达](#31)
    * [同花顺](#32)
    * [商汤科技](#33)
-   * [宁德时代](#34)
-   * 还有更多岗位，持续更新中……
  
+
+
+
+
+- [中厂](#中厂)
+   * [智联招聘](#28)
+   * [小宇宙](#21)
+   * [掌阅科技](#15)
+   * [好未来](#16)
+
+
+
+
+ - [国企](#国企)
+   * [海尔集团](#22)
+   * [金航数码](#23)
+
+
+- [优质潜力企业](#优质潜力企业)
+   * [无端科技](#24)
+   * [昆仑万维](#27)
+   * [智元机器人](#30)
+
+
+
+  
+ - [外企](#外企)
+   * [中国三星](#20)
+   * [英伟达](#31)
+
      
 -  [前端岗位](#前端岗位)
 -  [后端岗位](#后端岗位)
+  
+ 
+   * 还有更多岗位，持续更新中……
+ 
+
 
  
 - [高频面题](#高频面题)
@@ -121,7 +147,7 @@
 
 ---
 
-## 校招实习
+## 互联网大厂岗
 
 ## <h3 id="1">腾讯</h3> 
 |NO.|工作岗位|详细内容|
@@ -172,21 +198,6 @@
 |6|软件开发工程师（后端方向）|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496921&idx=1&sn=870dbeb7238a27929f05eaea8b3f20ba&scene=21&poc_token=HMn7wGmjStr7npKX6u0zkNOSNdn8tHxUdNiD5_1Q)|
 |7|大模型应用前端开发实习生|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496921&idx=1&sn=870dbeb7238a27929f05eaea8b3f20ba&scene=21&poc_token=HMn7wGmjStr7npKX6u0zkNOSNdn8tHxUdNiD5_1Q)|
 |8|大数据开发实习生|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496921&idx=1&sn=870dbeb7238a27929f05eaea8b3f20ba&scene=21&poc_token=HMn7wGmjStr7npKX6u0zkNOSNdn8tHxUdNiD5_1Q)|
-
-
-
-## <h3 id="4">MiniMax</h3> 
-MiniMax（上海稀宇科技）是2021年12月成立的中国大模型初创公司，总部位于上海，专注于研发文本、语音、视觉多模态融合的通用人工智能技术，推出ABAB系列大模型及Glow、海螺AI等应用产品。公司由前商汤科技高管闫俊杰创立，获腾讯、阿里巴巴等投资，2024年估值达25亿美元。
-|NO.|工作岗位|详细内容|
-|--------|--------|------|
-|1|AI评测开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496927&idx=1&sn=34b997b220d9e9f8af8c6577d173ff28&scene=21&poc_token=HAP-wGmjxBRZsywe285C5rqksRnKLNwHROSdl-qt)|
-|2|Agent测试开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496927&idx=1&sn=34b997b220d9e9f8af8c6577d173ff28&scene=21&poc_token=HAP-wGmjxBRZsywe285C5rqksRnKLNwHROSdl-qt)|
-|3|SRE工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496927&idx=1&sn=34b997b220d9e9f8af8c6577d173ff28&scene=21&poc_token=HAP-wGmjxBRZsywe285C5rqksRnKLNwHROSdl-qt)|
-|4|DBA数据库研发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496927&idx=1&sn=34b997b220d9e9f8af8c6577d173ff28&scene=21&poc_token=HAP-wGmjxBRZsywe285C5rqksRnKLNwHROSdl-qt)|
-|5|高性能服务研发|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496927&idx=1&sn=34b997b220d9e9f8af8c6577d173ff28&scene=21&poc_token=HAP-wGmjxBRZsywe285C5rqksRnKLNwHROSdl-qt)|
-|6|编排调度研发|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496927&idx=1&sn=34b997b220d9e9f8af8c6577d173ff28&scene=21&poc_token=HAP-wGmjxBRZsywe285C5rqksRnKLNwHROSdl-qt)|
-|7|机器学习系统研发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496927&idx=1&sn=34b997b220d9e9f8af8c6577d173ff28&scene=21&poc_token=HAP-wGmjxBRZsywe285C5rqksRnKLNwHROSdl-qt)|
-|8|训练框架研发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496927&idx=1&sn=34b997b220d9e9f8af8c6577d173ff28&scene=21&poc_token=HAP-wGmjxBRZsywe285C5rqksRnKLNwHROSdl-qt)|
 
 
 
@@ -313,20 +324,6 @@ MiniMax（上海稀宇科技）是2021年12月成立的中国大模型初创公�
 
 
 
-## <h3 id="9">滴滴打车</h3> 
-|NO.|工作岗位|详细内容|
-|--------|--------|------|
-|1|视觉算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496560&idx=6&sn=9cdafdf982416dadf2d0a638e38dc963&scene=21&poc_token=HBMPwWmjj8u9Jh8zRbBjIFNqvhPBVhyuVyjXpjgt)|
-|2|语音算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496560&idx=6&sn=9cdafdf982416dadf2d0a638e38dc963&scene=21&poc_token=HBMPwWmjj8u9Jh8zRbBjIFNqvhPBVhyuVyjXpjgt)|
-|3|NLP算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496560&idx=6&sn=9cdafdf982416dadf2d0a638e38dc963&scene=21&poc_token=HBMPwWmjj8u9Jh8zRbBjIFNqvhPBVhyuVyjXpjgt)|
-|4|策略算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496560&idx=6&sn=9cdafdf982416dadf2d0a638e38dc963&scene=21&poc_token=HBMPwWmjj8u9Jh8zRbBjIFNqvhPBVhyuVyjXpjgt)|
-|5|自动驾驶算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496560&idx=6&sn=9cdafdf982416dadf2d0a638e38dc963&scene=21&poc_token=HBMPwWmjj8u9Jh8zRbBjIFNqvhPBVhyuVyjXpjgt)|
-|6|C++/go开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496560&idx=6&sn=9cdafdf982416dadf2d0a638e38dc963&scene=21&poc_token=HBMPwWmjj8u9Jh8zRbBjIFNqvhPBVhyuVyjXpjgt)|
-|7|Java开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496560&idx=6&sn=9cdafdf982416dadf2d0a638e38dc963&scene=21&poc_token=HBMPwWmjj8u9Jh8zRbBjIFNqvhPBVhyuVyjXpjgt)|
-|8|前端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496560&idx=6&sn=9cdafdf982416dadf2d0a638e38dc963&scene=21&poc_token=HBMPwWmjj8u9Jh8zRbBjIFNqvhPBVhyuVyjXpjgt)|
-|9|iOS开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496560&idx=6&sn=9cdafdf982416dadf2d0a638e38dc963&scene=21&poc_token=HBMPwWmjj8u9Jh8zRbBjIFNqvhPBVhyuVyjXpjgt)|
-|10|Android开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496560&idx=6&sn=9cdafdf982416dadf2d0a638e38dc963&scene=21&poc_token=HBMPwWmjj8u9Jh8zRbBjIFNqvhPBVhyuVyjXpjgt)|
-
 
 
 ## <h3 id="10">网易</h3> 
@@ -369,19 +366,6 @@ MiniMax（上海稀宇科技）是2021年12月成立的中国大模型初创公�
 
 
 
-## <h3 id="12"> 小红书</h3> 
-|NO.|工作岗位|详细内容|
-|--------|--------|------|
-|1|算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496479&idx=1&sn=bfd34552569316f3c5b0d4d7a62c4d84&scene=21&poc_token=HJEuwWmjWf4iAYACxantPeD02gB43t5CmqBmFQkz)|
-|2|音视频策略算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496479&idx=1&sn=bfd34552569316f3c5b0d4d7a62c4d84&scene=21&poc_token=HJEuwWmjWf4iAYACxantPeD02gB43t5CmqBmFQkz)|
-|3|搜广推引擎开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496479&idx=1&sn=bfd34552569316f3c5b0d4d7a62c4d84&scene=21&poc_token=HJEuwWmjWf4iAYACxantPeD02gB43t5CmqBmFQkz)|
-|4|音视频开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496479&idx=1&sn=bfd34552569316f3c5b0d4d7a62c4d84&scene=21&poc_token=HJEuwWmjWf4iAYACxantPeD02gB43t5CmqBmFQkz)|
-|5|IT支持技术工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496479&idx=1&sn=bfd34552569316f3c5b0d4d7a62c4d84&scene=21&poc_token=HJEuwWmjWf4iAYACxantPeD02gB43t5CmqBmFQkz)|
-|6|iOS开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496479&idx=1&sn=bfd34552569316f3c5b0d4d7a62c4d84&scene=21&poc_token=HJEuwWmjWf4iAYACxantPeD02gB43t5CmqBmFQkz)|
-|7|Android开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496479&idx=1&sn=bfd34552569316f3c5b0d4d7a62c4d84&scene=21&poc_token=HJEuwWmjWf4iAYACxantPeD02gB43t5CmqBmFQkz)|
-
-
-
 ## <h3 id="13">饿了么</h3> 
 |NO.|工作岗位|详细内容|
 |--------|--------|------|
@@ -396,59 +380,6 @@ MiniMax（上海稀宇科技）是2021年12月成立的中国大模型初创公�
 |9|数据研发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496340&idx=2&sn=00b1b7f03a3fcc416ecee7e4984daef9&scene=21&poc_token=HMUvwWmji4Pk7md9TDH1NsF-7kas6tO71OrDvneh)|
 
 
-
-
-## <h3 id="14">贝壳找房</h3> 
-|NO.|工作岗位|详细内容|
-|--------|--------|------|
-|1|搜索/推荐算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496451&idx=1&sn=1c74e49033a66ba318a3971c4cd92428&scene=21&poc_token=HIEwwWmjWuYj8rhv__phS-K3TmpCkjchxM9D8XqN)|
-|2|大模型算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496451&idx=1&sn=1c74e49033a66ba318a3971c4cd92428&scene=21&poc_token=HIEwwWmjWuYj8rhv__phS-K3TmpCkjchxM9D8XqN)|
-|3|机器学习算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496451&idx=1&sn=1c74e49033a66ba318a3971c4cd92428&scene=21&poc_token=HIEwwWmjWuYj8rhv__phS-K3TmpCkjchxM9D8XqN)|
-|4|MR交互开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496451&idx=1&sn=1c74e49033a66ba318a3971c4cd92428&scene=21&poc_token=HIEwwWmjWuYj8rhv__phS-K3TmpCkjchxM9D8XqN)|
-|5|视觉多模态算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496451&idx=1&sn=1c74e49033a66ba318a3971c4cd92428&scene=21&poc_token=HIEwwWmjWuYj8rhv__phS-K3TmpCkjchxM9D8XqN)|
-|6|软件工程师（AI4SE方向）|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496451&idx=1&sn=1c74e49033a66ba318a3971c4cd92428&scene=21&poc_token=HIEwwWmjWuYj8rhv__phS-K3TmpCkjchxM9D8XqN)|
-|7|C++开发工程师（三维技术）|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496451&idx=1&sn=1c74e49033a66ba318a3971c4cd92428&scene=21&poc_token=HIEwwWmjWuYj8rhv__phS-K3TmpCkjchxM9D8XqN)|
-|8|AI工具开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496451&idx=1&sn=1c74e49033a66ba318a3971c4cd92428&scene=21&poc_token=HIEwwWmjWuYj8rhv__phS-K3TmpCkjchxM9D8XqN)|
-
-
-
-
-## <h3 id="15">掌阅科技</h3> 
-|NO.|工作岗位|详细内容|
-|--------|--------|------|
-|1|后端研发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496451&idx=4&sn=f9b0ffce43c98dadc6ba0c9bf313d799&scene=21&poc_token=HDoxwWmjFuRjNMB3vdAbaDV38TJosb6bxhdjrc--)|
-|2|数据研发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496451&idx=4&sn=f9b0ffce43c98dadc6ba0c9bf313d799&scene=21&poc_token=HDoxwWmjFuRjNMB3vdAbaDV38TJosb6bxhdjrc--)|
-|3|前端研发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496451&idx=4&sn=f9b0ffce43c98dadc6ba0c9bf313d799&scene=21&poc_token=HDoxwWmjFuRjNMB3vdAbaDV38TJosb6bxhdjrc--)|
-|4|客户端研发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496451&idx=4&sn=f9b0ffce43c98dadc6ba0c9bf313d799&scene=21&poc_token=HDoxwWmjFuRjNMB3vdAbaDV38TJosb6bxhdjrc--)|
-|5|大数据研发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496451&idx=4&sn=f9b0ffce43c98dadc6ba0c9bf313d799&scene=21&poc_token=HDoxwWmjFuRjNMB3vdAbaDV38TJosb6bxhdjrc--)|
-|6|移动研发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496451&idx=4&sn=f9b0ffce43c98dadc6ba0c9bf313d799&scene=21&poc_token=HDoxwWmjFuRjNMB3vdAbaDV38TJosb6bxhdjrc--)|
-
-
-
-## <h3 id="16">好未来</h3> 
-|NO.|工作岗位|详细内容|
-|--------|--------|------|
-|1|Web前端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=5&sn=b35895333d604fb80b3a8a740a643d99&scene=21&poc_token=HPExwWmjutArj-inmis0DwOLoaJWTHv5vaR9yAxR)|
-|2|AI应用工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=5&sn=b35895333d604fb80b3a8a740a643d99&scene=21&poc_token=HPExwWmjutArj-inmis0DwOLoaJWTHv5vaR9yAxR)|
-|3|iOS开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=5&sn=b35895333d604fb80b3a8a740a643d99&scene=21&poc_token=HPExwWmjutArj-inmis0DwOLoaJWTHv5vaR9yAxR)|
-|4|Framework开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=5&sn=b35895333d604fb80b3a8a740a643d99&scene=21&poc_token=HPExwWmjutArj-inmis0DwOLoaJWTHv5vaR9yAxR)|
-|5|Cocos/unity 3D开发工程|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=5&sn=b35895333d604fb80b3a8a740a643d99&scene=21&poc_token=HPExwWmjutArj-inmis0DwOLoaJWTHv5vaR9yAxR)|
-|6|Golang开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=5&sn=b35895333d604fb80b3a8a740a643d99&scene=21&poc_token=HPExwWmjutArj-inmis0DwOLoaJWTHv5vaR9yAxR)|
-|7|数据算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=5&sn=b35895333d604fb80b3a8a740a643d99&scene=21&poc_token=HPExwWmjutArj-inmis0DwOLoaJWTHv5vaR9yAxR)|
-
-
-## <h3 id="17">4399游戏</h3> 
-|NO.|工作岗位|详细内容|
-|--------|--------|------|
-|1|Java开发|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496326&idx=2&sn=d289a054c08c6fac72c35b1cbe9c0481&scene=21&poc_token=HMQywWmjiBJc5YFUqb8H1O2rBNwxGZ3RO6wVUG9K)|
-|2|U3D前端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496326&idx=2&sn=d289a054c08c6fac72c35b1cbe9c0481&scene=21&poc_token=HMQywWmjiBJc5YFUqb8H1O2rBNwxGZ3RO6wVUG9K)|
-|3|游戏客户端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496326&idx=2&sn=d289a054c08c6fac72c35b1cbe9c0481&scene=21&poc_token=HMQywWmjiBJc5YFUqb8H1O2rBNwxGZ3RO6wVUG9K)|
-|4|C++游戏开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496326&idx=2&sn=d289a054c08c6fac72c35b1cbe9c0481&scene=21&poc_token=HMQywWmjiBJc5YFUqb8H1O2rBNwxGZ3RO6wVUG9K)|
-|5|引擎开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496326&idx=2&sn=d289a054c08c6fac72c35b1cbe9c0481&scene=21&poc_token=HMQywWmjiBJc5YFUqb8H1O2rBNwxGZ3RO6wVUG9K)|
-|6|Web前端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496326&idx=2&sn=d289a054c08c6fac72c35b1cbe9c0481&scene=21&poc_token=HMQywWmjiBJc5YFUqb8H1O2rBNwxGZ3RO6wVUG9K)|
-|7|AI算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496326&idx=2&sn=d289a054c08c6fac72c35b1cbe9c0481&scene=21&poc_token=HMQywWmjiBJc5YFUqb8H1O2rBNwxGZ3RO6wVUG9K)|
-|8|AI中台开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496326&idx=2&sn=d289a054c08c6fac72c35b1cbe9c0481&scene=21&poc_token=HMQywWmjiBJc5YFUqb8H1O2rBNwxGZ3RO6wVUG9K)|
-|9|游戏UI设计师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496326&idx=2&sn=d289a054c08c6fac72c35b1cbe9c0481&scene=21&poc_token=HMQywWmjiBJc5YFUqb8H1O2rBNwxGZ3RO6wVUG9K)|
 
 
 ## <h3 id="18">拼多多</h3> 
@@ -472,6 +403,84 @@ MiniMax（上海稀宇科技）是2021年12月成立的中国大模型初创公�
 |6|数据分析师|[点击查看](https://careers.pddglobalhr.com/campus/grad/detail?positionId=87537c10-b450-4658-8310-6e4f134e29ef)|
 
 
+
+
+
+
+## 独角兽
+
+## <h3 id="4">MiniMax</h3> 
+MiniMax（上海稀宇科技）是2021年12月成立的中国大模型初创公司，总部位于上海，专注于研发文本、语音、视觉多模态融合的通用人工智能技术，推出ABAB系列大模型及Glow、海螺AI等应用产品。公司由前商汤科技高管闫俊杰创立，获腾讯、阿里巴巴等投资，2024年估值达25亿美元。
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|1|AI评测开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496927&idx=1&sn=34b997b220d9e9f8af8c6577d173ff28&scene=21&poc_token=HAP-wGmjxBRZsywe285C5rqksRnKLNwHROSdl-qt)|
+|2|Agent测试开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496927&idx=1&sn=34b997b220d9e9f8af8c6577d173ff28&scene=21&poc_token=HAP-wGmjxBRZsywe285C5rqksRnKLNwHROSdl-qt)|
+|3|SRE工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496927&idx=1&sn=34b997b220d9e9f8af8c6577d173ff28&scene=21&poc_token=HAP-wGmjxBRZsywe285C5rqksRnKLNwHROSdl-qt)|
+|4|DBA数据库研发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496927&idx=1&sn=34b997b220d9e9f8af8c6577d173ff28&scene=21&poc_token=HAP-wGmjxBRZsywe285C5rqksRnKLNwHROSdl-qt)|
+|5|高性能服务研发|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496927&idx=1&sn=34b997b220d9e9f8af8c6577d173ff28&scene=21&poc_token=HAP-wGmjxBRZsywe285C5rqksRnKLNwHROSdl-qt)|
+|6|编排调度研发|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496927&idx=1&sn=34b997b220d9e9f8af8c6577d173ff28&scene=21&poc_token=HAP-wGmjxBRZsywe285C5rqksRnKLNwHROSdl-qt)|
+|7|机器学习系统研发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496927&idx=1&sn=34b997b220d9e9f8af8c6577d173ff28&scene=21&poc_token=HAP-wGmjxBRZsywe285C5rqksRnKLNwHROSdl-qt)|
+|8|训练框架研发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496927&idx=1&sn=34b997b220d9e9f8af8c6577d173ff28&scene=21&poc_token=HAP-wGmjxBRZsywe285C5rqksRnKLNwHROSdl-qt)|
+
+
+
+## <h3 id="9">滴滴打车</h3> 
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|1|视觉算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496560&idx=6&sn=9cdafdf982416dadf2d0a638e38dc963&scene=21&poc_token=HBMPwWmjj8u9Jh8zRbBjIFNqvhPBVhyuVyjXpjgt)|
+|2|语音算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496560&idx=6&sn=9cdafdf982416dadf2d0a638e38dc963&scene=21&poc_token=HBMPwWmjj8u9Jh8zRbBjIFNqvhPBVhyuVyjXpjgt)|
+|3|NLP算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496560&idx=6&sn=9cdafdf982416dadf2d0a638e38dc963&scene=21&poc_token=HBMPwWmjj8u9Jh8zRbBjIFNqvhPBVhyuVyjXpjgt)|
+|4|策略算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496560&idx=6&sn=9cdafdf982416dadf2d0a638e38dc963&scene=21&poc_token=HBMPwWmjj8u9Jh8zRbBjIFNqvhPBVhyuVyjXpjgt)|
+|5|自动驾驶算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496560&idx=6&sn=9cdafdf982416dadf2d0a638e38dc963&scene=21&poc_token=HBMPwWmjj8u9Jh8zRbBjIFNqvhPBVhyuVyjXpjgt)|
+|6|C++/go开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496560&idx=6&sn=9cdafdf982416dadf2d0a638e38dc963&scene=21&poc_token=HBMPwWmjj8u9Jh8zRbBjIFNqvhPBVhyuVyjXpjgt)|
+|7|Java开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496560&idx=6&sn=9cdafdf982416dadf2d0a638e38dc963&scene=21&poc_token=HBMPwWmjj8u9Jh8zRbBjIFNqvhPBVhyuVyjXpjgt)|
+|8|前端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496560&idx=6&sn=9cdafdf982416dadf2d0a638e38dc963&scene=21&poc_token=HBMPwWmjj8u9Jh8zRbBjIFNqvhPBVhyuVyjXpjgt)|
+|9|iOS开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496560&idx=6&sn=9cdafdf982416dadf2d0a638e38dc963&scene=21&poc_token=HBMPwWmjj8u9Jh8zRbBjIFNqvhPBVhyuVyjXpjgt)|
+|10|Android开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496560&idx=6&sn=9cdafdf982416dadf2d0a638e38dc963&scene=21&poc_token=HBMPwWmjj8u9Jh8zRbBjIFNqvhPBVhyuVyjXpjgt)|
+
+
+
+## <h3 id="12"> 小红书</h3> 
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|1|算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496479&idx=1&sn=bfd34552569316f3c5b0d4d7a62c4d84&scene=21&poc_token=HJEuwWmjWf4iAYACxantPeD02gB43t5CmqBmFQkz)|
+|2|音视频策略算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496479&idx=1&sn=bfd34552569316f3c5b0d4d7a62c4d84&scene=21&poc_token=HJEuwWmjWf4iAYACxantPeD02gB43t5CmqBmFQkz)|
+|3|搜广推引擎开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496479&idx=1&sn=bfd34552569316f3c5b0d4d7a62c4d84&scene=21&poc_token=HJEuwWmjWf4iAYACxantPeD02gB43t5CmqBmFQkz)|
+|4|音视频开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496479&idx=1&sn=bfd34552569316f3c5b0d4d7a62c4d84&scene=21&poc_token=HJEuwWmjWf4iAYACxantPeD02gB43t5CmqBmFQkz)|
+|5|IT支持技术工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496479&idx=1&sn=bfd34552569316f3c5b0d4d7a62c4d84&scene=21&poc_token=HJEuwWmjWf4iAYACxantPeD02gB43t5CmqBmFQkz)|
+|6|iOS开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496479&idx=1&sn=bfd34552569316f3c5b0d4d7a62c4d84&scene=21&poc_token=HJEuwWmjWf4iAYACxantPeD02gB43t5CmqBmFQkz)|
+|7|Android开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496479&idx=1&sn=bfd34552569316f3c5b0d4d7a62c4d84&scene=21&poc_token=HJEuwWmjWf4iAYACxantPeD02gB43t5CmqBmFQkz)|
+
+
+
+## <h3 id="14">贝壳找房</h3> 
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|1|搜索/推荐算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496451&idx=1&sn=1c74e49033a66ba318a3971c4cd92428&scene=21&poc_token=HIEwwWmjWuYj8rhv__phS-K3TmpCkjchxM9D8XqN)|
+|2|大模型算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496451&idx=1&sn=1c74e49033a66ba318a3971c4cd92428&scene=21&poc_token=HIEwwWmjWuYj8rhv__phS-K3TmpCkjchxM9D8XqN)|
+|3|机器学习算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496451&idx=1&sn=1c74e49033a66ba318a3971c4cd92428&scene=21&poc_token=HIEwwWmjWuYj8rhv__phS-K3TmpCkjchxM9D8XqN)|
+|4|MR交互开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496451&idx=1&sn=1c74e49033a66ba318a3971c4cd92428&scene=21&poc_token=HIEwwWmjWuYj8rhv__phS-K3TmpCkjchxM9D8XqN)|
+|5|视觉多模态算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496451&idx=1&sn=1c74e49033a66ba318a3971c4cd92428&scene=21&poc_token=HIEwwWmjWuYj8rhv__phS-K3TmpCkjchxM9D8XqN)|
+|6|软件工程师（AI4SE方向）|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496451&idx=1&sn=1c74e49033a66ba318a3971c4cd92428&scene=21&poc_token=HIEwwWmjWuYj8rhv__phS-K3TmpCkjchxM9D8XqN)|
+|7|C++开发工程师（三维技术）|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496451&idx=1&sn=1c74e49033a66ba318a3971c4cd92428&scene=21&poc_token=HIEwwWmjWuYj8rhv__phS-K3TmpCkjchxM9D8XqN)|
+|8|AI工具开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496451&idx=1&sn=1c74e49033a66ba318a3971c4cd92428&scene=21&poc_token=HIEwwWmjWuYj8rhv__phS-K3TmpCkjchxM9D8XqN)|
+
+
+## <h3 id="17">4399游戏</h3> 
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|1|Java开发|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496326&idx=2&sn=d289a054c08c6fac72c35b1cbe9c0481&scene=21&poc_token=HMQywWmjiBJc5YFUqb8H1O2rBNwxGZ3RO6wVUG9K)|
+|2|U3D前端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496326&idx=2&sn=d289a054c08c6fac72c35b1cbe9c0481&scene=21&poc_token=HMQywWmjiBJc5YFUqb8H1O2rBNwxGZ3RO6wVUG9K)|
+|3|游戏客户端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496326&idx=2&sn=d289a054c08c6fac72c35b1cbe9c0481&scene=21&poc_token=HMQywWmjiBJc5YFUqb8H1O2rBNwxGZ3RO6wVUG9K)|
+|4|C++游戏开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496326&idx=2&sn=d289a054c08c6fac72c35b1cbe9c0481&scene=21&poc_token=HMQywWmjiBJc5YFUqb8H1O2rBNwxGZ3RO6wVUG9K)|
+|5|引擎开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496326&idx=2&sn=d289a054c08c6fac72c35b1cbe9c0481&scene=21&poc_token=HMQywWmjiBJc5YFUqb8H1O2rBNwxGZ3RO6wVUG9K)|
+|6|Web前端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496326&idx=2&sn=d289a054c08c6fac72c35b1cbe9c0481&scene=21&poc_token=HMQywWmjiBJc5YFUqb8H1O2rBNwxGZ3RO6wVUG9K)|
+|7|AI算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496326&idx=2&sn=d289a054c08c6fac72c35b1cbe9c0481&scene=21&poc_token=HMQywWmjiBJc5YFUqb8H1O2rBNwxGZ3RO6wVUG9K)|
+|8|AI中台开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496326&idx=2&sn=d289a054c08c6fac72c35b1cbe9c0481&scene=21&poc_token=HMQywWmjiBJc5YFUqb8H1O2rBNwxGZ3RO6wVUG9K)|
+|9|游戏UI设计师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496326&idx=2&sn=d289a054c08c6fac72c35b1cbe9c0481&scene=21&poc_token=HMQywWmjiBJc5YFUqb8H1O2rBNwxGZ3RO6wVUG9K)|
+
+
+
 ## <h3 id="19">携程</h3> 
 |NO.|工作岗位|详细内容|
 |--------|--------|------|
@@ -483,70 +492,6 @@ MiniMax（上海稀宇科技）是2021年12月成立的中国大模型初创公�
 |6|SRE工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496863&idx=1&sn=2d6599b88235a88e476ed1b253600792&scene=21&poc_token=HGM2wWmjAeRdPTJyQPT5QLQuL-PmTTWFJ69aJhSo)|
 |7|LLM算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496863&idx=1&sn=2d6599b88235a88e476ed1b253600792&scene=21&poc_token=HGM2wWmjAeRdPTJyQPT5QLQuL-PmTTWFJ69aJhSo)|
 |8|移动端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496863&idx=1&sn=2d6599b88235a88e476ed1b253600792&scene=21&poc_token=HGM2wWmjAeRdPTJyQPT5QLQuL-PmTTWFJ69aJhSo)|
-
-
-## <h3 id="20">中国三星</h3> 
-|NO.|工作岗位|详细内容|
-|--------|--------|------|
-|1|JAVA开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496871&idx=1&sn=6c2f85a1eb53b4fad880c93b51a59874&scene=21&poc_token=HL43wWmj5NbfmDE3Ux1MAi2p1Sr0k5vZOsP7WEET)|
-|2|Android开发软件工程|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496871&idx=1&sn=6c2f85a1eb53b4fad880c93b51a59874&scene=21&poc_token=HL43wWmj5NbfmDE3Ux1MAi2p1Sr0k5vZOsP7WEET)|
-|3|游戏性能分析及优化工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496871&idx=1&sn=6c2f85a1eb53b4fad880c93b51a59874&scene=21&poc_token=HL43wWmj5NbfmDE3Ux1MAi2p1Sr0k5vZOsP7WEET)|
-|4|计算机视觉/自然语言处理算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496871&idx=1&sn=6c2f85a1eb53b4fad880c93b51a59874&scene=21&poc_token=HL43wWmj5NbfmDE3Ux1MAi2p1Sr0k5vZOsP7WEET)|
-|5|计算机视觉/自然语言处理算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496871&idx=1&sn=6c2f85a1eb53b4fad880c93b51a59874&scene=21&poc_token=HL43wWmj5NbfmDE3Ux1MAi2p1Sr0k5vZOsP7WEET)|
-|6|算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496871&idx=1&sn=6c2f85a1eb53b4fad880c93b51a59874&scene=21&poc_token=HL43wWmj5NbfmDE3Ux1MAi2p1Sr0k5vZOsP7WEET)|
-|7|Agent研发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496871&idx=1&sn=6c2f85a1eb53b4fad880c93b51a59874&scene=21&poc_token=HL43wWmj5NbfmDE3Ux1MAi2p1Sr0k5vZOsP7WEET)|
-|8|存储系统专家|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496871&idx=1&sn=6c2f85a1eb53b4fad880c93b51a59874&scene=21&poc_token=HL43wWmj5NbfmDE3Ux1MAi2p1Sr0k5vZOsP7WEET)|
-|9|安全软件开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496871&idx=1&sn=6c2f85a1eb53b4fad880c93b51a59874&scene=21&poc_token=HL43wWmj5NbfmDE3Ux1MAi2p1Sr0k5vZOsP7WEET)|
-
-
-
-## <h3 id="21">小宇宙</h3> 
-山西小宇宙科技有限公司（小宇宙动画 cosmos）工作室成立于2001年，立足山西。2002年开始独立参与省内各种软硬件研发项目，并出色攻克软件开发内容当中的三维动画、虚拟仿真、虚拟现实、演示等内容，于2010年成为有限公司，是中国北部地区成立最早、规模最大、技术最成熟的专业三维虚拟仿真制作公司之一。
-|NO.|工作岗位|详细内容|
-|--------|--------|------|
-|1|前端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496805&idx=1&sn=c7120cd93aa1fef191848575f50ad121&scene=21&poc_token=HHM4wWmj3hQLrjQLizfWve9GtupL4UnajFn7c6iG)|
-|2|iOS 开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496805&idx=1&sn=c7120cd93aa1fef191848575f50ad121&scene=21&poc_token=HHM4wWmj3hQLrjQLizfWve9GtupL4UnajFn7c6iG)|
-|3|Android开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496805&idx=1&sn=c7120cd93aa1fef191848575f50ad121&scene=21&poc_token=HHM4wWmj3hQLrjQLizfWve9GtupL4UnajFn7c6iG)|
-|4|后端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496805&idx=1&sn=c7120cd93aa1fef191848575f50ad121&scene=21&poc_token=HHM4wWmj3hQLrjQLizfWve9GtupL4UnajFn7c6iG)|
-
-
-## <h3 id="22">海尔集团</h3> 
-26届
-|NO.|工作岗位|详细内容|
-|--------|--------|------|
-|1|算法工程师（多模态）|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496805&idx=2&sn=2690e84edc624e26847066afad316cdf&scene=21&poc_token=HDM5wWmjjcjk-0ZQyvaar3l8t7xTA9Z2PK9JvpRF)|
-|2|前端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496805&idx=2&sn=2690e84edc624e26847066afad316cdf&scene=21&poc_token=HDM5wWmjjcjk-0ZQyvaar3l8t7xTA9Z2PK9JvpRF)|
-|3|大数据开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496805&idx=2&sn=2690e84edc624e26847066afad316cdf&scene=21&poc_token=HDM5wWmjjcjk-0ZQyvaar3l8t7xTA9Z2PK9JvpRF)|
-|4|软件研发工程师-工业互联网|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496805&idx=2&sn=2690e84edc624e26847066afad316cdf&scene=21&poc_token=HDM5wWmjjcjk-0ZQyvaar3l8t7xTA9Z2PK9JvpRF)|
-|5|算法工程师-工业互联网|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496805&idx=2&sn=2690e84edc624e26847066afad316cdf&scene=21&poc_token=HDM5wWmjjcjk-0ZQyvaar3l8t7xTA9Z2PK9JvpRF)|
-|6|嵌入式软件开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496805&idx=2&sn=2690e84edc624e26847066afad316cdf&scene=21&poc_token=HDM5wWmjjcjk-0ZQyvaar3l8t7xTA9Z2PK9JvpRF)|
-|7|后端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496805&idx=2&sn=2690e84edc624e26847066afad316cdf&scene=21&poc_token=HDM5wWmjjcjk-0ZQyvaar3l8t7xTA9Z2PK9JvpRF)|
-
-
-
-## <h3 id="23">金航数码</h3> 
-金航数码科技有限责任公司(以下简称“金航数码”)是航空工业信息化专业支撑团队，作为国内外先进信息技术的创造性应用者和本地化推进者，肩负着“推进产业信息化，实现信息产业化”的使命,致力于做信息化集大成者，成为行业系统级供应商。金航数码总部设立在北京，在上海、西安、成都、沈阳、南昌等地设有分支机构，人员700余人，在信息化咨询、管理信息化、工程信息化、综合保障信息化、系统集成与信息安全、IT运维与管理等业务领域为客户提供覆盖产品全生命周期、管理全业务流程、企业全价值链的“三全应用”服务。
-|NO.|工作岗位|详细内容|
-|--------|--------|------|
-|1|算法工程师（AI方向）|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496744&idx=1&sn=bcb9f3a20f73a74d1c3237de83a13ac5&scene=21&poc_token=HOo5wWmjvoda7frufBwEZXMT3fBHlp7OV6mEh8nv)|
-|2|云计算工程师 （私有云建设方向）|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496744&idx=1&sn=bcb9f3a20f73a74d1c3237de83a13ac5&scene=21&poc_token=HOo5wWmjvoda7frufBwEZXMT3fBHlp7OV6mEh8nv)|
-|3|开发工程师（C++）|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496744&idx=1&sn=bcb9f3a20f73a74d1c3237de83a13ac5&scene=21&poc_token=HOo5wWmjvoda7frufBwEZXMT3fBHlp7OV6mEh8nv)|
-|4|开发工程师（数据方向）|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496744&idx=1&sn=bcb9f3a20f73a74d1c3237de83a13ac5&scene=21&poc_token=HOo5wWmjvoda7frufBwEZXMT3fBHlp7OV6mEh8nv)|
-|5|运维工程师（云管平台方向）|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496744&idx=1&sn=bcb9f3a20f73a74d1c3237de83a13ac5&scene=21&poc_token=HOo5wWmjvoda7frufBwEZXMT3fBHlp7OV6mEh8nv)|
-|6|数据治理工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496744&idx=1&sn=bcb9f3a20f73a74d1c3237de83a13ac5&scene=21&poc_token=HOo5wWmjvoda7frufBwEZXMT3fBHlp7OV6mEh8nv)|
-
-
-
-
-## <h3 id="24">无端科技</h3> 
-无端科技（Wooduan Technology） 是国内领先的射击与休闲竞技游戏研发、发行商，核心代表作是国民级页游《生死狙击》
-|NO.|工作岗位|详细内容|
-|--------|--------|------|
-|1|客户端开发|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496754&idx=1&sn=998b5375e2e2235ee0db0af6bafaec9e&scene=21&poc_token=HKM6wWmjUR0UE_VcVskXAJZzur_5okNwBfO81b5T)|
-|2|服务端开发|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496754&idx=1&sn=998b5375e2e2235ee0db0af6bafaec9e&scene=21&poc_token=HKM6wWmjUR0UE_VcVskXAJZzur_5okNwBfO81b5T)|
-|3|游戏测试|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496754&idx=1&sn=998b5375e2e2235ee0db0af6bafaec9e&scene=21&poc_token=HKM6wWmjUR0UE_VcVskXAJZzur_5okNwBfO81b5T)|
-|4|游戏数据分析|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496754&idx=1&sn=998b5375e2e2235ee0db0af6bafaec9e&scene=21&poc_token=HKM6wWmjUR0UE_VcVskXAJZzur_5okNwBfO81b5T)|
-|5|引擎开发|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496754&idx=1&sn=998b5375e2e2235ee0db0af6bafaec9e&scene=21&poc_token=HKM6wWmjUR0UE_VcVskXAJZzur_5okNwBfO81b5T)|
 
 
 
@@ -580,26 +525,6 @@ MiniMax（上海稀宇科技）是2021年12月成立的中国大模型初创公�
 |9|JAVA工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496759&idx=1&sn=afc78c36d7ca230b15d5cee34d8380c1&scene=21&poc_token=HI48wWmjmJ6WB2qQTkzvMhHRVE-FwI3pvfqpI4hX)|
 
 
-## <h3 id="27">昆仑万维</h3> 
-昆仑万维致力于将人工智能技术应用于其现有产品矩阵，以提升用户体验和运营效率。公司拥有跨国的运营团队和技术研发力量，其市场覆盖全球多个国家和地区。
-|NO.|工作岗位|详细内容|
-|--------|--------|------|
-|1|数据分析师 (Ai音乐方向)|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496716&idx=2&sn=678e7dc86aee571bbf917b09f9c7e9ed&scene=21&poc_token=HBo-wWmjYwWtfiFaMsMkD6ABdBzXL4kgXR7KXeE2)|
-|2|Agent框架工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496716&idx=2&sn=678e7dc86aee571bbf917b09f9c7e9ed&scene=21&poc_token=HBo-wWmjYwWtfiFaMsMkD6ABdBzXL4kgXR7KXeE2)|
-|3|内容理解算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496716&idx=2&sn=678e7dc86aee571bbf917b09f9c7e9ed&scene=21&poc_token=HBo-wWmjYwWtfiFaMsMkD6ABdBzXL4kgXR7KXeE2)|
-|4|高级推荐算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496716&idx=2&sn=678e7dc86aee571bbf917b09f9c7e9ed&scene=21&poc_token=HBo-wWmjYwWtfiFaMsMkD6ABdBzXL4kgXR7KXeE2)|
-|5|视频推荐算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496716&idx=2&sn=678e7dc86aee571bbf917b09f9c7e9ed&scene=21&poc_token=HBo-wWmjYwWtfiFaMsMkD6ABdBzXL4kgXR7KXeE2)|
-
-
-## <h3 id="28">智联招聘</h3> 
-|NO.|工作岗位|详细内容|
-|--------|--------|------|
-|1|算法管培生|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496708&idx=1&sn=d122f9f3955b8c2ed5fb7bd2d24707d9&scene=21&poc_token=HPs-wWmj_h-tGKbqLDvERAcQwXhx5-E8JmOibZ6n)|
-|2|AI产品管培|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496708&idx=1&sn=d122f9f3955b8c2ed5fb7bd2d24707d9&scene=21&poc_token=HPs-wWmj_h-tGKbqLDvERAcQwXhx5-E8JmOibZ6n)|
-|3|数据产品管培生|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496708&idx=1&sn=d122f9f3955b8c2ed5fb7bd2d24707d9&scene=21&poc_token=HPs-wWmj_h-tGKbqLDvERAcQwXhx5-E8JmOibZ6n)|
-|4|搜推策略产品管培生|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496708&idx=1&sn=d122f9f3955b8c2ed5fb7bd2d24707d9&scene=21&poc_token=HPs-wWmj_h-tGKbqLDvERAcQwXhx5-E8JmOibZ6n)|
-|5|产品管培生|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496708&idx=1&sn=d122f9f3955b8c2ed5fb7bd2d24707d9&scene=21&poc_token=HPs-wWmj_h-tGKbqLDvERAcQwXhx5-E8JmOibZ6n)|
-
 
 
 ## <h3 id="29"> 虹软科技</h3> 
@@ -616,33 +541,53 @@ MiniMax（上海稀宇科技）是2021年12月成立的中国大模型初创公�
 |8|AI算法博士招聘|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496708&idx=2&sn=844b7a4f9bb43cfb01615eaae25cad22&scene=21&poc_token=HJ8_wWmjOZFi_8ywcfgOeZY5TI62zFYq-jkF_ejF)|
 
 
+## 中厂
 
-## <h3 id="30">智元机器人</h3> 
-智元机器人是一家专注于人工智能和机器人技术研发的创新型企业，成立于2021年，总部位于上海。公司致力于智能服务机器人的研发和应用，产品涵盖家庭服务、商业服务等多个场景。核心团队由来自国内外顶尖高校和科技企业的专家组成，在计算机视觉、自然语言处理、运动控制等领域拥有深厚技术积累。为应届毕业生提供参与前沿技术研发的机会、快速的晋升通道和具有竞争力的薪酬待遇，通过实战项目快速提升技术能力，是AI和机器人领域人才成长的优质平台。
+## <h3 id="15">掌阅科技</h3> 
 |NO.|工作岗位|详细内容|
 |--------|--------|------|
-|1|硬件工程师-灵犀|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=4&sn=a10cbbb68c5cbc1a30890923e490d423&scene=21&poc_token=HJlVwmmjU29rt4pWSmUGOtAQw3vREZPAW39fJ31e)|
-|2|优才-系统工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=4&sn=a10cbbb68c5cbc1a30890923e490d423&scene=21&poc_token=HJlVwmmjU29rt4pWSmUGOtAQw3vREZPAW39fJ31e)|
-|3|结构工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=4&sn=a10cbbb68c5cbc1a30890923e490d423&scene=21&poc_token=HJlVwmmjU29rt4pWSmUGOtAQw3vREZPAW39fJ31e)|
-|4|后端研发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=4&sn=a10cbbb68c5cbc1a30890923e490d423&scene=21&poc_token=HJlVwmmjU29rt4pWSmUGOtAQw3vREZPAW39fJ31e)|
-|5|云原生研发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=4&sn=a10cbbb68c5cbc1a30890923e490d423&scene=21&poc_token=HJlVwmmjU29rt4pWSmUGOtAQw3vREZPAW39fJ31e)|
-|6|机器学习平台工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=4&sn=a10cbbb68c5cbc1a30890923e490d423&scene=21&poc_token=HJlVwmmjU29rt4pWSmUGOtAQw3vREZPAW39fJ31e)|
-|7|数据可视化研发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=4&sn=a10cbbb68c5cbc1a30890923e490d423&scene=21&poc_token=HJlVwmmjU29rt4pWSmUGOtAQw3vREZPAW39fJ31e)|
-|8|嵌入式软件实习生|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=4&sn=a10cbbb68c5cbc1a30890923e490d423&scene=21&poc_token=HJlVwmmjU29rt4pWSmUGOtAQw3vREZPAW39fJ31e)|
-|9|软件测试实习生|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=4&sn=a10cbbb68c5cbc1a30890923e490d423&scene=21&poc_token=HJlVwmmjU29rt4pWSmUGOtAQw3vREZPAW39fJ31e)|
-|10|生成式算法实习生|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=4&sn=a10cbbb68c5cbc1a30890923e490d423&scene=21&poc_token=HJlVwmmjU29rt4pWSmUGOtAQw3vREZPAW39fJ31e)|
+|1|后端研发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496451&idx=4&sn=f9b0ffce43c98dadc6ba0c9bf313d799&scene=21&poc_token=HDoxwWmjFuRjNMB3vdAbaDV38TJosb6bxhdjrc--)|
+|2|数据研发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496451&idx=4&sn=f9b0ffce43c98dadc6ba0c9bf313d799&scene=21&poc_token=HDoxwWmjFuRjNMB3vdAbaDV38TJosb6bxhdjrc--)|
+|3|前端研发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496451&idx=4&sn=f9b0ffce43c98dadc6ba0c9bf313d799&scene=21&poc_token=HDoxwWmjFuRjNMB3vdAbaDV38TJosb6bxhdjrc--)|
+|4|客户端研发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496451&idx=4&sn=f9b0ffce43c98dadc6ba0c9bf313d799&scene=21&poc_token=HDoxwWmjFuRjNMB3vdAbaDV38TJosb6bxhdjrc--)|
+|5|大数据研发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496451&idx=4&sn=f9b0ffce43c98dadc6ba0c9bf313d799&scene=21&poc_token=HDoxwWmjFuRjNMB3vdAbaDV38TJosb6bxhdjrc--)|
+|6|移动研发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496451&idx=4&sn=f9b0ffce43c98dadc6ba0c9bf313d799&scene=21&poc_token=HDoxwWmjFuRjNMB3vdAbaDV38TJosb6bxhdjrc--)|
 
 
 
-
-
-  
-## <h3 id="31">英伟达</h3> 
+## <h3 id="16">好未来</h3> 
 |NO.|工作岗位|详细内容|
 |--------|--------|------|
-|1|性能工程实习生|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496514&idx=1&sn=79472217a2474981418f0bb64aaba05e&scene=21&poc_token=HIFWwmmjDqa5Vf9fEbUouoOFrxhsJnNGmNYBS8Dh)|
-|2|Graphics开发者关系实习生|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496514&idx=1&sn=79472217a2474981418f0bb64aaba05e&scene=21&poc_token=HIFWwmmjDqa5Vf9fEbUouoOFrxhsJnNGmNYBS8Dh)|
-|3|软件实习生 - GPU性能分析|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496514&idx=1&sn=79472217a2474981418f0bb64aaba05e&scene=21&poc_token=HIFWwmmjDqa5Vf9fEbUouoOFrxhsJnNGmNYBS8Dh)|
+|1|Web前端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=5&sn=b35895333d604fb80b3a8a740a643d99&scene=21&poc_token=HPExwWmjutArj-inmis0DwOLoaJWTHv5vaR9yAxR)|
+|2|AI应用工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=5&sn=b35895333d604fb80b3a8a740a643d99&scene=21&poc_token=HPExwWmjutArj-inmis0DwOLoaJWTHv5vaR9yAxR)|
+|3|iOS开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=5&sn=b35895333d604fb80b3a8a740a643d99&scene=21&poc_token=HPExwWmjutArj-inmis0DwOLoaJWTHv5vaR9yAxR)|
+|4|Framework开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=5&sn=b35895333d604fb80b3a8a740a643d99&scene=21&poc_token=HPExwWmjutArj-inmis0DwOLoaJWTHv5vaR9yAxR)|
+|5|Cocos/unity 3D开发工程|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=5&sn=b35895333d604fb80b3a8a740a643d99&scene=21&poc_token=HPExwWmjutArj-inmis0DwOLoaJWTHv5vaR9yAxR)|
+|6|Golang开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=5&sn=b35895333d604fb80b3a8a740a643d99&scene=21&poc_token=HPExwWmjutArj-inmis0DwOLoaJWTHv5vaR9yAxR)|
+|7|数据算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=5&sn=b35895333d604fb80b3a8a740a643d99&scene=21&poc_token=HPExwWmjutArj-inmis0DwOLoaJWTHv5vaR9yAxR)|
+
+
+
+
+## <h3 id="21">小宇宙</h3> 
+山西小宇宙科技有限公司（小宇宙动画 cosmos）工作室成立于2001年，立足山西。2002年开始独立参与省内各种软硬件研发项目，并出色攻克软件开发内容当中的三维动画、虚拟仿真、虚拟现实、演示等内容，于2010年成为有限公司，是中国北部地区成立最早、规模最大、技术最成熟的专业三维虚拟仿真制作公司之一。
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|1|前端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496805&idx=1&sn=c7120cd93aa1fef191848575f50ad121&scene=21&poc_token=HHM4wWmj3hQLrjQLizfWve9GtupL4UnajFn7c6iG)|
+|2|iOS 开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496805&idx=1&sn=c7120cd93aa1fef191848575f50ad121&scene=21&poc_token=HHM4wWmj3hQLrjQLizfWve9GtupL4UnajFn7c6iG)|
+|3|Android开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496805&idx=1&sn=c7120cd93aa1fef191848575f50ad121&scene=21&poc_token=HHM4wWmj3hQLrjQLizfWve9GtupL4UnajFn7c6iG)|
+|4|后端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496805&idx=1&sn=c7120cd93aa1fef191848575f50ad121&scene=21&poc_token=HHM4wWmj3hQLrjQLizfWve9GtupL4UnajFn7c6iG)|
+
+
+
+## <h3 id="28">智联招聘</h3> 
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|1|算法管培生|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496708&idx=1&sn=d122f9f3955b8c2ed5fb7bd2d24707d9&scene=21&poc_token=HPs-wWmj_h-tGKbqLDvERAcQwXhx5-E8JmOibZ6n)|
+|2|AI产品管培|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496708&idx=1&sn=d122f9f3955b8c2ed5fb7bd2d24707d9&scene=21&poc_token=HPs-wWmj_h-tGKbqLDvERAcQwXhx5-E8JmOibZ6n)|
+|3|数据产品管培生|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496708&idx=1&sn=d122f9f3955b8c2ed5fb7bd2d24707d9&scene=21&poc_token=HPs-wWmj_h-tGKbqLDvERAcQwXhx5-E8JmOibZ6n)|
+|4|搜推策略产品管培生|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496708&idx=1&sn=d122f9f3955b8c2ed5fb7bd2d24707d9&scene=21&poc_token=HPs-wWmj_h-tGKbqLDvERAcQwXhx5-E8JmOibZ6n)|
+|5|产品管培生|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496708&idx=1&sn=d122f9f3955b8c2ed5fb7bd2d24707d9&scene=21&poc_token=HPs-wWmj_h-tGKbqLDvERAcQwXhx5-E8JmOibZ6n)|
 
 
 
@@ -665,6 +610,108 @@ MiniMax（上海稀宇科技）是2021年12月成立的中国大模型初创公�
 |1|Java开发|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496611&idx=3&sn=ccd4708af15e4b3d51874822e0db3458&scene=21&poc_token=HHiHwmmj46gDo75hHpWxBK8xY0hffW6IFvXEnZoQ)|
 |2|多模态大模型算法|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496611&idx=3&sn=ccd4708af15e4b3d51874822e0db3458&scene=21&poc_token=HHiHwmmj46gDo75hHpWxBK8xY0hffW6IFvXEnZoQ)|
 |3|AI工具链开发|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496611&idx=3&sn=ccd4708af15e4b3d51874822e0db3458&scene=21&poc_token=HHiHwmmj46gDo75hHpWxBK8xY0hffW6IFvXEnZoQ)|
+
+
+
+
+
+## 国企
+
+## <h3 id="22">海尔集团</h3> 
+26届
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|1|算法工程师（多模态）|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496805&idx=2&sn=2690e84edc624e26847066afad316cdf&scene=21&poc_token=HDM5wWmjjcjk-0ZQyvaar3l8t7xTA9Z2PK9JvpRF)|
+|2|前端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496805&idx=2&sn=2690e84edc624e26847066afad316cdf&scene=21&poc_token=HDM5wWmjjcjk-0ZQyvaar3l8t7xTA9Z2PK9JvpRF)|
+|3|大数据开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496805&idx=2&sn=2690e84edc624e26847066afad316cdf&scene=21&poc_token=HDM5wWmjjcjk-0ZQyvaar3l8t7xTA9Z2PK9JvpRF)|
+|4|软件研发工程师-工业互联网|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496805&idx=2&sn=2690e84edc624e26847066afad316cdf&scene=21&poc_token=HDM5wWmjjcjk-0ZQyvaar3l8t7xTA9Z2PK9JvpRF)|
+|5|算法工程师-工业互联网|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496805&idx=2&sn=2690e84edc624e26847066afad316cdf&scene=21&poc_token=HDM5wWmjjcjk-0ZQyvaar3l8t7xTA9Z2PK9JvpRF)|
+|6|嵌入式软件开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496805&idx=2&sn=2690e84edc624e26847066afad316cdf&scene=21&poc_token=HDM5wWmjjcjk-0ZQyvaar3l8t7xTA9Z2PK9JvpRF)|
+|7|后端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496805&idx=2&sn=2690e84edc624e26847066afad316cdf&scene=21&poc_token=HDM5wWmjjcjk-0ZQyvaar3l8t7xTA9Z2PK9JvpRF)|
+
+
+
+## <h3 id="23">金航数码</h3> 
+金航数码科技有限责任公司(以下简称“金航数码”)是航空工业信息化专业支撑团队，作为国内外先进信息技术的创造性应用者和本地化推进者，肩负着“推进产业信息化，实现信息产业化”的使命,致力于做信息化集大成者，成为行业系统级供应商。金航数码总部设立在北京，在上海、西安、成都、沈阳、南昌等地设有分支机构，人员700余人，在信息化咨询、管理信息化、工程信息化、综合保障信息化、系统集成与信息安全、IT运维与管理等业务领域为客户提供覆盖产品全生命周期、管理全业务流程、企业全价值链的“三全应用”服务。
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|1|算法工程师（AI方向）|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496744&idx=1&sn=bcb9f3a20f73a74d1c3237de83a13ac5&scene=21&poc_token=HOo5wWmjvoda7frufBwEZXMT3fBHlp7OV6mEh8nv)|
+|2|云计算工程师 （私有云建设方向）|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496744&idx=1&sn=bcb9f3a20f73a74d1c3237de83a13ac5&scene=21&poc_token=HOo5wWmjvoda7frufBwEZXMT3fBHlp7OV6mEh8nv)|
+|3|开发工程师（C++）|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496744&idx=1&sn=bcb9f3a20f73a74d1c3237de83a13ac5&scene=21&poc_token=HOo5wWmjvoda7frufBwEZXMT3fBHlp7OV6mEh8nv)|
+|4|开发工程师（数据方向）|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496744&idx=1&sn=bcb9f3a20f73a74d1c3237de83a13ac5&scene=21&poc_token=HOo5wWmjvoda7frufBwEZXMT3fBHlp7OV6mEh8nv)|
+|5|运维工程师（云管平台方向）|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496744&idx=1&sn=bcb9f3a20f73a74d1c3237de83a13ac5&scene=21&poc_token=HOo5wWmjvoda7frufBwEZXMT3fBHlp7OV6mEh8nv)|
+|6|数据治理工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496744&idx=1&sn=bcb9f3a20f73a74d1c3237de83a13ac5&scene=21&poc_token=HOo5wWmjvoda7frufBwEZXMT3fBHlp7OV6mEh8nv)|
+
+
+## 优质潜力企业
+
+## <h3 id="24">无端科技</h3> 
+无端科技（Wooduan Technology） 是国内领先的射击与休闲竞技游戏研发、发行商，核心代表作是国民级页游《生死狙击》
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|1|客户端开发|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496754&idx=1&sn=998b5375e2e2235ee0db0af6bafaec9e&scene=21&poc_token=HKM6wWmjUR0UE_VcVskXAJZzur_5okNwBfO81b5T)|
+|2|服务端开发|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496754&idx=1&sn=998b5375e2e2235ee0db0af6bafaec9e&scene=21&poc_token=HKM6wWmjUR0UE_VcVskXAJZzur_5okNwBfO81b5T)|
+|3|游戏测试|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496754&idx=1&sn=998b5375e2e2235ee0db0af6bafaec9e&scene=21&poc_token=HKM6wWmjUR0UE_VcVskXAJZzur_5okNwBfO81b5T)|
+|4|游戏数据分析|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496754&idx=1&sn=998b5375e2e2235ee0db0af6bafaec9e&scene=21&poc_token=HKM6wWmjUR0UE_VcVskXAJZzur_5okNwBfO81b5T)|
+|5|引擎开发|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496754&idx=1&sn=998b5375e2e2235ee0db0af6bafaec9e&scene=21&poc_token=HKM6wWmjUR0UE_VcVskXAJZzur_5okNwBfO81b5T)|
+
+## <h3 id="27">昆仑万维</h3> 
+昆仑万维致力于将人工智能技术应用于其现有产品矩阵，以提升用户体验和运营效率。公司拥有跨国的运营团队和技术研发力量，其市场覆盖全球多个国家和地区。
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|1|数据分析师 (Ai音乐方向)|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496716&idx=2&sn=678e7dc86aee571bbf917b09f9c7e9ed&scene=21&poc_token=HBo-wWmjYwWtfiFaMsMkD6ABdBzXL4kgXR7KXeE2)|
+|2|Agent框架工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496716&idx=2&sn=678e7dc86aee571bbf917b09f9c7e9ed&scene=21&poc_token=HBo-wWmjYwWtfiFaMsMkD6ABdBzXL4kgXR7KXeE2)|
+|3|内容理解算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496716&idx=2&sn=678e7dc86aee571bbf917b09f9c7e9ed&scene=21&poc_token=HBo-wWmjYwWtfiFaMsMkD6ABdBzXL4kgXR7KXeE2)|
+|4|高级推荐算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496716&idx=2&sn=678e7dc86aee571bbf917b09f9c7e9ed&scene=21&poc_token=HBo-wWmjYwWtfiFaMsMkD6ABdBzXL4kgXR7KXeE2)|
+|5|视频推荐算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496716&idx=2&sn=678e7dc86aee571bbf917b09f9c7e9ed&scene=21&poc_token=HBo-wWmjYwWtfiFaMsMkD6ABdBzXL4kgXR7KXeE2)|
+
+
+## <h3 id="30">智元机器人</h3> 
+智元机器人是一家专注于人工智能和机器人技术研发的创新型企业，成立于2021年，总部位于上海。公司致力于智能服务机器人的研发和应用，产品涵盖家庭服务、商业服务等多个场景。核心团队由来自国内外顶尖高校和科技企业的专家组成，在计算机视觉、自然语言处理、运动控制等领域拥有深厚技术积累。为应届毕业生提供参与前沿技术研发的机会、快速的晋升通道和具有竞争力的薪酬待遇，通过实战项目快速提升技术能力，是AI和机器人领域人才成长的优质平台。
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|1|硬件工程师-灵犀|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=4&sn=a10cbbb68c5cbc1a30890923e490d423&scene=21&poc_token=HJlVwmmjU29rt4pWSmUGOtAQw3vREZPAW39fJ31e)|
+|2|优才-系统工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=4&sn=a10cbbb68c5cbc1a30890923e490d423&scene=21&poc_token=HJlVwmmjU29rt4pWSmUGOtAQw3vREZPAW39fJ31e)|
+|3|结构工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=4&sn=a10cbbb68c5cbc1a30890923e490d423&scene=21&poc_token=HJlVwmmjU29rt4pWSmUGOtAQw3vREZPAW39fJ31e)|
+|4|后端研发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=4&sn=a10cbbb68c5cbc1a30890923e490d423&scene=21&poc_token=HJlVwmmjU29rt4pWSmUGOtAQw3vREZPAW39fJ31e)|
+|5|云原生研发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=4&sn=a10cbbb68c5cbc1a30890923e490d423&scene=21&poc_token=HJlVwmmjU29rt4pWSmUGOtAQw3vREZPAW39fJ31e)|
+|6|机器学习平台工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=4&sn=a10cbbb68c5cbc1a30890923e490d423&scene=21&poc_token=HJlVwmmjU29rt4pWSmUGOtAQw3vREZPAW39fJ31e)|
+|7|数据可视化研发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=4&sn=a10cbbb68c5cbc1a30890923e490d423&scene=21&poc_token=HJlVwmmjU29rt4pWSmUGOtAQw3vREZPAW39fJ31e)|
+|8|嵌入式软件实习生|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=4&sn=a10cbbb68c5cbc1a30890923e490d423&scene=21&poc_token=HJlVwmmjU29rt4pWSmUGOtAQw3vREZPAW39fJ31e)|
+|9|软件测试实习生|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=4&sn=a10cbbb68c5cbc1a30890923e490d423&scene=21&poc_token=HJlVwmmjU29rt4pWSmUGOtAQw3vREZPAW39fJ31e)|
+|10|生成式算法实习生|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=4&sn=a10cbbb68c5cbc1a30890923e490d423&scene=21&poc_token=HJlVwmmjU29rt4pWSmUGOtAQw3vREZPAW39fJ31e)|
+
+
+
+## 外企
+
+## <h3 id="20">中国三星</h3> 
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|1|JAVA开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496871&idx=1&sn=6c2f85a1eb53b4fad880c93b51a59874&scene=21&poc_token=HL43wWmj5NbfmDE3Ux1MAi2p1Sr0k5vZOsP7WEET)|
+|2|Android开发软件工程|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496871&idx=1&sn=6c2f85a1eb53b4fad880c93b51a59874&scene=21&poc_token=HL43wWmj5NbfmDE3Ux1MAi2p1Sr0k5vZOsP7WEET)|
+|3|游戏性能分析及优化工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496871&idx=1&sn=6c2f85a1eb53b4fad880c93b51a59874&scene=21&poc_token=HL43wWmj5NbfmDE3Ux1MAi2p1Sr0k5vZOsP7WEET)|
+|4|计算机视觉/自然语言处理算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496871&idx=1&sn=6c2f85a1eb53b4fad880c93b51a59874&scene=21&poc_token=HL43wWmj5NbfmDE3Ux1MAi2p1Sr0k5vZOsP7WEET)|
+|5|计算机视觉/自然语言处理算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496871&idx=1&sn=6c2f85a1eb53b4fad880c93b51a59874&scene=21&poc_token=HL43wWmj5NbfmDE3Ux1MAi2p1Sr0k5vZOsP7WEET)|
+|6|算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496871&idx=1&sn=6c2f85a1eb53b4fad880c93b51a59874&scene=21&poc_token=HL43wWmj5NbfmDE3Ux1MAi2p1Sr0k5vZOsP7WEET)|
+|7|Agent研发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496871&idx=1&sn=6c2f85a1eb53b4fad880c93b51a59874&scene=21&poc_token=HL43wWmj5NbfmDE3Ux1MAi2p1Sr0k5vZOsP7WEET)|
+|8|存储系统专家|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496871&idx=1&sn=6c2f85a1eb53b4fad880c93b51a59874&scene=21&poc_token=HL43wWmj5NbfmDE3Ux1MAi2p1Sr0k5vZOsP7WEET)|
+|9|安全软件开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496871&idx=1&sn=6c2f85a1eb53b4fad880c93b51a59874&scene=21&poc_token=HL43wWmj5NbfmDE3Ux1MAi2p1Sr0k5vZOsP7WEET)|
+
+
+
+  
+## <h3 id="31">英伟达</h3> 
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|1|性能工程实习生|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496514&idx=1&sn=79472217a2474981418f0bb64aaba05e&scene=21&poc_token=HIFWwmmjDqa5Vf9fEbUouoOFrxhsJnNGmNYBS8Dh)|
+|2|Graphics开发者关系实习生|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496514&idx=1&sn=79472217a2474981418f0bb64aaba05e&scene=21&poc_token=HIFWwmmjDqa5Vf9fEbUouoOFrxhsJnNGmNYBS8Dh)|
+|3|软件实习生 - GPU性能分析|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496514&idx=1&sn=79472217a2474981418f0bb64aaba05e&scene=21&poc_token=HIFWwmmjDqa5Vf9fEbUouoOFrxhsJnNGmNYBS8Dh)|
+
+
+
+
+
 
 
 
