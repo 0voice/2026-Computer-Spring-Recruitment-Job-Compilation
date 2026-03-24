@@ -96,8 +96,8 @@
    * [ 虹软科技](#29)
    * [智元机器人](#30)
    * [英伟达](#31)
-   * [上海银行](#32)
-   * [同花顺](#33)
+   * [同花顺](#32)
+   * [商汤科技](#33)
    * [宁德时代](#34)
    * 还有更多岗位，持续更新中……
  
@@ -612,23 +612,50 @@ MiniMax（上海稀宇科技）是2021年12月成立的中国大模型初创公�
 
 
 
-## <h3 id="30">360</h3> 
+## <h3 id="30">智元机器人</h3> 
+智元机器人是一家专注于人工智能和机器人技术研发的创新型企业，成立于2021年，总部位于上海。公司致力于智能服务机器人的研发和应用，产品涵盖家庭服务、商业服务等多个场景。核心团队由来自国内外顶尖高校和科技企业的专家组成，在计算机视觉、自然语言处理、运动控制等领域拥有深厚技术积累。为应届毕业生提供参与前沿技术研发的机会、快速的晋升通道和具有竞争力的薪酬待遇，通过实战项目快速提升技术能力，是AI和机器人领域人才成长的优质平台。
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|1|硬件工程师-灵犀|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=4&sn=a10cbbb68c5cbc1a30890923e490d423&scene=21&poc_token=HJlVwmmjU29rt4pWSmUGOtAQw3vREZPAW39fJ31e)|
+|2|优才-系统工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=4&sn=a10cbbb68c5cbc1a30890923e490d423&scene=21&poc_token=HJlVwmmjU29rt4pWSmUGOtAQw3vREZPAW39fJ31e)|
+|3|结构工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=4&sn=a10cbbb68c5cbc1a30890923e490d423&scene=21&poc_token=HJlVwmmjU29rt4pWSmUGOtAQw3vREZPAW39fJ31e)|
+|4|后端研发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=4&sn=a10cbbb68c5cbc1a30890923e490d423&scene=21&poc_token=HJlVwmmjU29rt4pWSmUGOtAQw3vREZPAW39fJ31e)|
+|5|云原生研发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=4&sn=a10cbbb68c5cbc1a30890923e490d423&scene=21&poc_token=HJlVwmmjU29rt4pWSmUGOtAQw3vREZPAW39fJ31e)|
+|6|机器学习平台工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=4&sn=a10cbbb68c5cbc1a30890923e490d423&scene=21&poc_token=HJlVwmmjU29rt4pWSmUGOtAQw3vREZPAW39fJ31e)|
+|7|数据可视化研发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=4&sn=a10cbbb68c5cbc1a30890923e490d423&scene=21&poc_token=HJlVwmmjU29rt4pWSmUGOtAQw3vREZPAW39fJ31e)|
+|8|嵌入式软件实习生|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=4&sn=a10cbbb68c5cbc1a30890923e490d423&scene=21&poc_token=HJlVwmmjU29rt4pWSmUGOtAQw3vREZPAW39fJ31e)|
+|9|软件测试实习生|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=4&sn=a10cbbb68c5cbc1a30890923e490d423&scene=21&poc_token=HJlVwmmjU29rt4pWSmUGOtAQw3vREZPAW39fJ31e)|
+|10|生成式算法实习生|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=4&sn=a10cbbb68c5cbc1a30890923e490d423&scene=21&poc_token=HJlVwmmjU29rt4pWSmUGOtAQw3vREZPAW39fJ31e)|
+
+
+
 
 
   
-## <h3 id="30">小鹏</h3> 
+## <h3 id="31">英伟达</h3> 
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|1|性能工程实习生|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496514&idx=1&sn=79472217a2474981418f0bb64aaba05e&scene=21&poc_token=HIFWwmmjDqa5Vf9fEbUouoOFrxhsJnNGmNYBS8Dh)|
+|2|Graphics开发者关系实习生|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496514&idx=1&sn=79472217a2474981418f0bb64aaba05e&scene=21&poc_token=HIFWwmmjDqa5Vf9fEbUouoOFrxhsJnNGmNYBS8Dh)|
+|3|软件实习生 - GPU性能分析|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496514&idx=1&sn=79472217a2474981418f0bb64aaba05e&scene=21&poc_token=HIFWwmmjDqa5Vf9fEbUouoOFrxhsJnNGmNYBS8Dh)|
 
 
 
 
 
-## <h3 id="31">虾皮</h3> 
+
+## <h3 id="32">同花顺</h3> 
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|1|iOS开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=2&sn=f733c245ca8503ceb33393b61bf8df2e&scene=21&poc_token=HP5XwmmjJdy10X8K33UacslnbgzPEyEGpobZ1HE4)|
+|2|JAVA开发|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=2&sn=f733c245ca8503ceb33393b61bf8df2e&scene=21&poc_token=HP5XwmmjJdy10X8K33UacslnbgzPEyEGpobZ1HE4)|
+|3|前端开发|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=2&sn=f733c245ca8503ceb33393b61bf8df2e&scene=21&poc_token=HP5XwmmjJdy10X8K33UacslnbgzPEyEGpobZ1HE4)|
+|4|IOS开发|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=2&sn=f733c245ca8503ceb33393b61bf8df2e&scene=21&poc_token=HP5XwmmjJdy10X8K33UacslnbgzPEyEGpobZ1HE4)|
+|5|Android开发|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=2&sn=f733c245ca8503ceb33393b61bf8df2e&scene=21&poc_token=HP5XwmmjJdy10X8K33UacslnbgzPEyEGpobZ1HE4)|
+|6|C++开发|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=2&sn=f733c245ca8503ceb33393b61bf8df2e&scene=21&poc_token=HP5XwmmjJdy10X8K33UacslnbgzPEyEGpobZ1HE4)|
+|7|AIGC算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=2&sn=f733c245ca8503ceb33393b61bf8df2e&scene=21&poc_token=HP5XwmmjJdy10X8K33UacslnbgzPEyEGpobZ1HE4)|
 
 
-
-
-
-## <h3 id="32">Momenta</h3> 
 
 
 
