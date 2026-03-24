@@ -100,6 +100,8 @@
    * [商汤科技](#33)
    * [宁德时代](#34)
    * 还有更多岗位，持续更新中……
+- [前端岗位](#前端岗位)
+
  
 - [高频面题](#高频面题)
 -  [百度（含文字讲解）](#百度（含文字讲解）)
@@ -654,6 +656,40 @@ MiniMax（上海稀宇科技）是2021年12月成立的中国大模型初创公�
 |5|Android开发|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=2&sn=f733c245ca8503ceb33393b61bf8df2e&scene=21&poc_token=HP5XwmmjJdy10X8K33UacslnbgzPEyEGpobZ1HE4)|
 |6|C++开发|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=2&sn=f733c245ca8503ceb33393b61bf8df2e&scene=21&poc_token=HP5XwmmjJdy10X8K33UacslnbgzPEyEGpobZ1HE4)|
 |7|AIGC算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=2&sn=f733c245ca8503ceb33393b61bf8df2e&scene=21&poc_token=HP5XwmmjJdy10X8K33UacslnbgzPEyEGpobZ1HE4)|
+
+
+
+
+## 前端岗位
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|1|大模型应用前端开发实习生|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496921&idx=1&sn=870dbeb7238a27929f05eaea8b3f20ba&scene=21&poc_token=HMn7wGmjStr7npKX6u0zkNOSNdn8tHxUdNiD5_1Q)|
+|2|前端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496383&idx=1&sn=c8fdf4d70bfaa738b73cf568562c127f&scene=21&poc_token=HIYFwWmjGc3xOvIF170oty8F5DEVZ6r29Eh4W5K6)|
+|3|前端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496560&idx=6&sn=9cdafdf982416dadf2d0a638e38dc963&scene=21&poc_token=HBMPwWmjj8u9Jh8zRbBjIFNqvhPBVhyuVyjXpjgt)|
+|4|前端开发工程师（海外交易平台）|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496603&idx=2&sn=3ab33850356bfc84014648ac0cfaf092&scene=21&poc_token=HCYlwWmjXgEDU7WN_5OHZ24hoOg0zyw49mf9AltR)|
+|5|前端开发实习生|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496560&idx=6&sn=9cdafdf982416dadf2d0a638e38dc963&scene=21&poc_token=HBMPwWmjj8u9Jh8zRbBjIFNqvhPBVhyuVyjXpjgt)|
+|6|前端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496340&idx=2&sn=00b1b7f03a3fcc416ecee7e4984daef9&scene=21&poc_token=HMUvwWmji4Pk7md9TDH1NsF-7kas6tO71OrDvneh)|
+|7|前端研发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496451&idx=4&sn=f9b0ffce43c98dadc6ba0c9bf313d799&scene=21&poc_token=HDoxwWmjFuRjNMB3vdAbaDV38TJosb6bxhdjrc--)|
+|8|Web前端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=5&sn=b35895333d604fb80b3a8a740a643d99&scene=21&poc_token=HPExwWmjutArj-inmis0DwOLoaJWTHv5vaR9yAxR)|
+|9|U3D前端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496326&idx=2&sn=d289a054c08c6fac72c35b1cbe9c0481&scene=21&poc_token=HMQywWmjiBJc5YFUqb8H1O2rBNwxGZ3RO6wVUG9K)|
+|10|U3D前端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496326&idx=2&sn=d289a054c08c6fac72c35b1cbe9c0481&scene=21&poc_token=HMQywWmjiBJc5YFUqb8H1O2rBNwxGZ3RO6wVUG9K)|
+|11|web前端研发实习生|[点击查看](https://careers.pddglobalhr.com/campus/intern/detail?positionId=92293e99-ed07-4eb5-b9c9-62bcf856f3d8)|
+|12|web前端研发工程师|[点击查看](https://careers.pddglobalhr.com/campus/grad/detail?positionId=7aa48452-fc75-4ed8-b183-2a56f5b6fe69)|
+|13|前端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496805&idx=1&sn=c7120cd93aa1fef191848575f50ad121&scene=21&poc_token=HHM4wWmj3hQLrjQLizfWve9GtupL4UnajFn7c6iG)|
+|14|前端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496805&idx=2&sn=2690e84edc624e26847066afad316cdf&scene=21&poc_token=HDM5wWmjjcjk-0ZQyvaar3l8t7xTA9Z2PK9JvpRF)|
+
+
+## 后端岗位
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|1|大模型应用后端工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496925&idx=1&sn=7358063dd46b73225d2a3338f6ab96e2&scene=21&poc_token=HFP3wGmjbfzsiBtZpw2nZml0LwozH6C7iyQnTiVm)|
+|2|软件开发工程师（后端方向）|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496921&idx=1&sn=870dbeb7238a27929f05eaea8b3f20ba&scene=21&poc_token=HMn7wGmjStr7npKX6u0zkNOSNdn8tHxUdNiD5_1Q)|
+|3|后端开发工程师（AI项目）|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496603&idx=2&sn=3ab33850356bfc84014648ac0cfaf092&scene=21&poc_token=HCYlwWmjXgEDU7WN_5OHZ24hoOg0zyw49mf9AltR)|
+|4|后端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496603&idx=4&sn=9d7d53adb0bc01cc47ef0c38180bf081&scene=21&poc_token=HFYtwWmj5ceiMguiMKWlAhArLuWgtNy25S5fW2SM)|
+|5|后端研发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496451&idx=4&sn=f9b0ffce43c98dadc6ba0c9bf313d799&scene=21&poc_token=HDoxwWmjFuRjNMB3vdAbaDV38TJosb6bxhdjrc--)|
+|6|后端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496805&idx=1&sn=c7120cd93aa1fef191848575f50ad121&scene=21&poc_token=HHM4wWmj3hQLrjQLizfWve9GtupL4UnajFn7c6iG)|
+|7|后端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496805&idx=2&sn=2690e84edc624e26847066afad316cdf&scene=21&poc_token=HDM5wWmjjcjk-0ZQyvaar3l8t7xTA9Z2PK9JvpRF)|
+|8|后端研发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=4&sn=a10cbbb68c5cbc1a30890923e490d423&scene=21&poc_token=HJlVwmmjU29rt4pWSmUGOtAQw3vREZPAW39fJ31e)|
 
 
 
