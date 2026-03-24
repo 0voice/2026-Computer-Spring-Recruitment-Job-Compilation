@@ -1,6 +1,6 @@
 <h1 align="center">🔥  2026 Computer Spring Recruitment ob Compilation</h1>
 
-<h3 align="center">🎓 2026年计算机春招，每日更新，含投递链接+内推，助力春招上岸！</h3>
+<h3 align="center">🎓 2026年计算机春招，每日更新，含投递链接、内推、面经合集，助力春招上岸！</h3>
 
 <p align="center">
   💼 收录 <b>1000+</b> 计算机工作岗位，涵盖腾讯、字节、美团、百度、华为、小米、英伟达、微软、米哈游等百家企业    
