@@ -759,6 +759,8 @@ MiniMax（上海稀宇科技）是2021年12月成立的中国大模型初创公�
 |12|web前端研发工程师|[点击查看](https://careers.pddglobalhr.com/campus/grad/detail?positionId=7aa48452-fc75-4ed8-b183-2a56f5b6fe69)|
 |13|前端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496805&idx=1&sn=c7120cd93aa1fef191848575f50ad121&scene=21&poc_token=HHM4wWmj3hQLrjQLizfWve9GtupL4UnajFn7c6iG)|
 |14|前端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496805&idx=2&sn=2690e84edc624e26847066afad316cdf&scene=21&poc_token=HDM5wWmjjcjk-0ZQyvaar3l8t7xTA9Z2PK9JvpRF)|
+|15|Web端开发工程师/专家|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496925&idx=1&sn=7358063dd46b73225d2a3338f6ab96e2&scene=21&poc_token=HFP3wGmjbfzsiBtZpw2nZml0LwozH6C7iyQnTiVm)|
+|16|Web端开发工程师/专家|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496925&idx=1&sn=7358063dd46b73225d2a3338f6ab96e2&scene=21&poc_token=HFP3wGmjbfzsiBtZpw2nZml0LwozH6C7iyQnTiVm)|
 
 
 ## 后端岗位
@@ -772,12 +774,35 @@ MiniMax（上海稀宇科技）是2021年12月成立的中国大模型初创公�
 |6|后端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496805&idx=1&sn=c7120cd93aa1fef191848575f50ad121&scene=21&poc_token=HHM4wWmj3hQLrjQLizfWve9GtupL4UnajFn7c6iG)|
 |7|后端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496805&idx=2&sn=2690e84edc624e26847066afad316cdf&scene=21&poc_token=HDM5wWmjjcjk-0ZQyvaar3l8t7xTA9Z2PK9JvpRF)|
 |8|后端研发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=4&sn=a10cbbb68c5cbc1a30890923e490d423&scene=21&poc_token=HJlVwmmjU29rt4pWSmUGOtAQw3vREZPAW39fJ31e)|
+|9|服务端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496611&idx=6&sn=ac1fa5c59ab5a4ecf3ac0db92f14f4fc&scene=21&poc_token=HMEJwWmjWNijpYtqv948kZAxmlnOeNlR3js0Y2JQ)|
+|10|服务端研发实习生|[点击查看](https://careers.pddglobalhr.com/campus/intern/detail?positionId=9b7a2544-8afc-4be6-ac65-52bca027bebd)|
+|11|服务端开发|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496754&idx=1&sn=998b5375e2e2235ee0db0af6bafaec9e&scene=21&poc_token=HKM6wWmjUR0UE_VcVskXAJZzur_5okNwBfO81b5T)|
 
 
 ## 客户端
 |NO.|工作岗位|详细内容|
 |--------|--------|------|
-|持续更新中……|
+|1|软件开发-PC客户端开发方向|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496603&idx=1&sn=5f8a07d1e0bce7225176f95f38b3786a&scene=21&poc_token=HFrtwGmjZFwSA0rQ7EPfBS28_Uw8wY4IazqRSgkB)|
+|2|软件开发-移动客户端开发方向|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496603&idx=1&sn=5f8a07d1e0bce7225176f95f38b3786a&scene=21&poc_token=HFrtwGmjZFwSA0rQ7EPfBS28_Uw8wY4IazqRSgkB)|
+|3|资深客户端开发工程师/架构师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496925&idx=1&sn=7358063dd46b73225d2a3338f6ab96e2&scene=21&poc_token=HFP3wGmjbfzsiBtZpw2nZml0LwozH6C7iyQnTiVm)|
+|4|iOS开发工程师-猫箱|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496603&idx=8&sn=bc950471704dcb7ad8355bdd5b0e16cc&scene=21&poc_token=HNsBwWmjkoPNhT_sjFWB4YfE9L8Nlg87mZoXzNCU)|
+|5|客户端开发工程师-火山引擎|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496603&idx=8&sn=bc950471704dcb7ad8355bdd5b0e16cc&scene=21&poc_token=HNsBwWmjkoPNhT_sjFWB4YfE9L8Nlg87mZoXzNCU)|
+|6|客户端开发工程师-开发者服务|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496603&idx=8&sn=bc950471704dcb7ad8355bdd5b0e16cc&scene=21&poc_token=HNsBwWmjkoPNhT_sjFWB4YfE9L8Nlg87mZoXzNCU)|
+|7|终端工程师（iOS/Android/鸿蒙）|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496383&idx=1&sn=c8fdf4d70bfaa738b73cf568562c127f&scene=21&poc_token=HIYFwWmjGc3xOvIF170oty8F5DEVZ6r29Eh4W5K6)|
+|8|iOS高级开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496399&idx=5&sn=6043bc1af41ab4a10edb32a5f92c9428&scene=21&poc_token=HG4HwWmjuTzArglOKkeIB5EUbhCMpGyOuBQBI_8c)|
+|9|客户端研发实习生|[点击查看](https://careers.pddglobalhr.com/campus/intern/detail?positionId=093ddc5f-6a57-437d-83ee-fe7a84a1a848)|
+|10|客户端研发工程师|[点击查看](https://careers.pddglobalhr.com/campus/grad/detail?positionId=661f457a-06dd-4c83-8146-7d98f9172f40)|
+|11|移动端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496863&idx=1&sn=2d6599b88235a88e476ed1b253600792&scene=21&poc_token=HGM2wWmjAeRdPTJyQPT5QLQuL-PmTTWFJ69aJhSo)|
+|12|Android开发软件工程|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496871&idx=1&sn=6c2f85a1eb53b4fad880c93b51a59874&scene=21&poc_token=HL43wWmj5NbfmDE3Ux1MAi2p1Sr0k5vZOsP7WEET)|
+|13|iOS 开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496805&idx=1&sn=c7120cd93aa1fef191848575f50ad121&scene=21&poc_token=HHM4wWmj3hQLrjQLizfWve9GtupL4UnajFn7c6iG)|
+|14|Android开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496805&idx=1&sn=c7120cd93aa1fef191848575f50ad121&scene=21&poc_token=HHM4wWmj3hQLrjQLizfWve9GtupL4UnajFn7c6iG)|
+|15|客户端开发|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496754&idx=1&sn=998b5375e2e2235ee0db0af6bafaec9e&scene=21&poc_token=HKM6wWmjUR0UE_VcVskXAJZzur_5okNwBfO81b5T)|
+|16|移动端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496759&idx=2&sn=1a7d33c62cc31e37ff1eac02fc4f5a80&scene=21&poc_token=HN47wWmjn-57_VfD_YuWbMVSokNLYw1wdEeK5VHO)|
+|17|iOS开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=2&sn=f733c245ca8503ceb33393b61bf8df2e&scene=21&poc_token=HP5XwmmjJdy10X8K33UacslnbgzPEyEGpobZ1HE4)|
+|18|IOS开发|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=2&sn=f733c245ca8503ceb33393b61bf8df2e&scene=21&poc_token=HP5XwmmjJdy10X8K33UacslnbgzPEyEGpobZ1HE4)|
+|19|Android开发|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=2&sn=f733c245ca8503ceb33393b61bf8df2e&scene=21&poc_token=HP5XwmmjJdy10X8K33UacslnbgzPEyEGpobZ1HE4)|
+
+
 
 ## 嵌入式
 |NO.|工作岗位|详细内容|
