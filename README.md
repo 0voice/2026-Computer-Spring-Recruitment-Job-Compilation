@@ -931,6 +931,21 @@ MiniMax（上海稀宇科技）是2021年12月成立的中国大模型初创公�
  ## 零基础救命
 
 ## 软件测试
+[计算机应届生如何快速找到软件测试工作？](https://www.bilibili.com/video/BV1egwQzsESg/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
+
+[2026最强软件测试入门到精通教程（测试基础+项目实战）一套通关，适合应届生以及零基础转行入门，学完即可就业，7天白嫖入行](https://www.bilibili.com/video/BV1hMPjzdEZm/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
+
+[软件测试技能快速梳理！无用知识点不要学！](https://www.bilibili.com/video/BV1H62qYPEvi/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
+
+[软件测试入门到项目实战，7小时从小白到白领的软件测试快速入门课程](https://www.bilibili.com/video/BV1Zg411M7rd/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
+
+[【2025最新】B站最全最细的软件测试教程，7天从零基础小白到精通软件测试，学完即上岗！](https://www.bilibili.com/video/BV1AsNZe6EEL/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
+
+[假如你从3月12号开始准备软件测试面试，7天刷完大厂面试题，99%成功就业！](https://www.bilibili.com/video/BV1xvc6zyE9s/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
+
+[如何找到第一份测试实习和春招 offer](https://www.bilibili.com/video/BV1HAPszAEie/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
+
+[2026最强软件测试入门到精通教程（测试基础+项目实战）一套通关，适合应届生以及零基础转行入门，学完即可就业，7天白嫖入行](https://www.bilibili.com/video/BV1QyQiBSEii/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
 
 持续更新中……
 
@@ -940,20 +955,107 @@ MiniMax（上海稀宇科技）是2021年12月成立的中国大模型初创公�
 
 [字节大佬带你3天速刷（前端八股文）适用于99%中大厂前端面试。](https://www.bilibili.com/video/BV1ayCuBxEXZ/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84) 
 
+[金三银四前端面试别摆烂，Web面试其实7天就够了，100个热门高频八股文面试题，刷完速通前端offer](https://www.bilibili.com/video/BV1pkAEz7EmB/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
+
+[30分钟零基础程序员（前端）速成，我收藏了](https://www.bilibili.com/video/BV1ZW42197oE/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
+
+[前端面试前到底该准备啥](https://www.bilibili.com/video/BV1syoTYLEsQ/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
+
+[自学前端，学多少能找到实习？学习路线和找实习的过程分享，今年太卷了](https://www.bilibili.com/video/BV1hK411m7wK/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
+
+[你连前端这十大技能都不会，别再抱有侥幸心里，浪费时间投简历找工作了，学好后再找更快更容易](https://www.bilibili.com/video/BV1XyggzbEVk/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
+
+[一个前端菜鸡的求职回顾](https://www.bilibili.com/video/BV1BXwvzDEiA/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
+
+[一小时速成前端八股文](https://www.bilibili.com/video/BV15GkaBXE76/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
+
+[26年前端人何去何从？Ai+前端可能是你最后的机会！一期视频带你搞懂【前端市场】【简历优化】【AI技能】](https://www.bilibili.com/video/BV179c6zaE51/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
+
+[4月前端面试天花板！金三银四最后机会！想拿Web前端offer？这188道高频题（八股+场景）保姆级汇总，啃完稳过！](https://www.bilibili.com/video/BV1AJQ1BfEVr/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
+
+[前端面试虽然恶心，但花5天时间刷完必考前端八股文，面试稳过的！能涨薪10-15k，很难找到的存下吧](https://www.bilibili.com/video/BV1VP1yBbEPM/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
+
+
 持续更新中……
 
 
 ## 运维/技术支持
+
+[运维怎么找工作](https://www.bilibili.com/video/BV13aaSztE21/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
+
+[转行运维，自学到什么程度才可以找工作？](https://www.bilibili.com/video/BV1Wh3azrEdN/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
+
+[运维找工作一定要搞懂的三件事](https://www.bilibili.com/video/BV1VQgZzFE74/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
+
+[【真成运维】2026年全网最全运维自学学习路线🌟，保姆级运维学习路线，从入门到入岗，完整一条龙](https://www.bilibili.com/video/BV16DxQz8EY8/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
+
+[聊聊运维找工作的事情](https://www.bilibili.com/video/BV1bwC5B8EZk/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
+
+[运维面试题300题-重点总结教程](https://www.bilibili.com/video/BV1ScDKYPEof/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
+
+[运维面试总挂？简历没有项目？运维如何准备一场成功运维面试,运维全套面试流程助力拿到offer](https://www.bilibili.com/video/BV1GxwNzZE1t/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
+
+[【2026年最新】Linux运维小谈：Linux要学到什么程度能找工作？！](https://www.bilibili.com/video/BV12ZNFz3EVW/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
+
+[2026年0基础自学快速拿下实施工程师offer](https://www.bilibili.com/video/BV1XezkBqE8J/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
+
+[【已验证】Linux运维快速入门找工作，看这个就够了](https://www.bilibili.com/video/BV1K6FVzYEkY/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
+
+[运维IT就业指导面试](https://www.bilibili.com/video/BV1n3qqBcEnm/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
+
+[3小时学会，计算机组成&网络基础，运维小白入门到实战！](https://www.bilibili.com/video/BV1N94y1Z7Gs/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
+
+[百度资深运维工程师打造8天学完可带项目，万物皆可运维！！](https://www.bilibili.com/video/BV1QY4y1u7dG/?spm_id_from=333.337.search-card.all.click)
+
+[当初小白入行运维，要是有人给我讲解的这么详细，就不会白白浪费3年时间了！！！](https://www.bilibili.com/video/BV18v4y127Lo/?spm_id_from=333.337.search-card.all.click)
+
+[闲聊 如何成为一个技术支持工程师](https://www.bilibili.com/video/BV1oA411Z7pK/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
+
+[接到offer怎么办——技术支持你必须知道的](https://www.bilibili.com/video/BV1eB4y1v7Nw/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
+
+[售前技术支持岗快速入门（售前工程师工作方法论）](https://www.bilibili.com/video/BV11LwozxEWK/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
+
+
+
 持续更新中……
 
 
 
 ## 数据分析
 
+[不看后悔，如何三小时快速通过数据分析面试！](https://www.bilibili.com/video/BV1aqtSzEEn4/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
+
+[0经验转行成为数据分析师，简历要这么写！](https://www.bilibili.com/video/BV1Ud9JYyEJS/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
+
+[一口气串烧完十个数据分析方法](https://www.bilibili.com/video/BV1mc411u7U1/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
+
+[在数据分析转行的路上，希望你没有因为这个花太多时间](https://www.bilibili.com/video/BV1j6bNzaEx1/?spm_id_from=333.337.search-card.all.click)
+
+[【数据分析】【金九银十】第二集：搞定SQL，半只脚踏进数据分析行业](https://www.bilibili.com/video/BV1u3411a7V5/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
+
+[【完整版】七周成为数据分析师 | 共七个板块： 统计学 / SQL / Python / Python数据分析 / 机器学习 / 业务学习 / 数据可视化](https://www.bilibili.com/video/BV12rtWegEGd/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
+
+[数据分析求职必看的【找工作攻略】它来了！薪资岗位、工作内容、简历、面试、笔试、谈薪、offer选择一网打尽！系统学习求职底层原理和潜规则！助力转型就业求职季！](https://www.bilibili.com/video/BV1CY4y1r7UF/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
+
+
+
 持续更新中……
 
 
 ## 简单后端
+
+[30分钟【后端】程序员速成，我收藏了](https://www.bilibili.com/video/BV1k4421Z7d2/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
+
+[40天突击Java后端学习的极简路线](https://www.bilibili.com/video/BV1BDN3eKEfk/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
+
+[26年Java面试不用焦虑，花7天刷完最新高频后端八股文和场景题，速通后端开发offer！包括场景题/八股文/Java基础/并发编程/JVM/MySQL](https://www.bilibili.com/video/BV1XxQzBbEJf/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
+
+[假如你从3月25号开始准备Java面试，花7天背完八股面试100题，金三银四可速通后端大厂offer！](https://www.bilibili.com/video/BV15iQmBREWJ/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
+
+[12月给大家强调一下Java后端找工作的强度！ Java面试速成/项目/Java面试八股文/Java场景题/并发编程/JVM/MySQL/Spring……](https://www.bilibili.com/video/BV14fm1B4ENL/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
+
+[2026Java 求职速成指南：7 步搞定简历、八股、项目、面试，快速拿 offer！【码士集团-马士兵】
+](https://www.bilibili.com/video/BV1hbftBVE7W/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
 
 持续更新中……
 
@@ -975,8 +1077,6 @@ MiniMax（上海稀宇科技）是2021年12月成立的中国大模型初创公�
 [春招投简历，90%的应届生连门都没找对](https://www.bilibili.com/video/BV1AqAzzGEGa/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
 
 [春招的话，别太老实就好](https://www.bilibili.com/video/BV1Qe4y1A7q9/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
-
-[如何找到第一份测试实习和春招 offer](https://www.bilibili.com/video/BV1HAPszAEie/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
 
 [26年Java春招短期面试突击最快的方式](https://www.bilibili.com/video/BV1uiAwz7E9y/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
 
