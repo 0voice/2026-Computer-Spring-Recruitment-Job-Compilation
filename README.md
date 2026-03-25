@@ -94,6 +94,18 @@
    * [虹软科技](#29)
    * [同花顺](#32)
    * [商汤科技](#33)
+   * [合合信息](#合合信息)
+   * [磐沄科技](#磐沄科技)
+   * [数慧时空](#数慧时空)
+   * [墨泊可士](#墨泊可士)
+   * [元戎启行](#元戎启行)
+   * [小马智行](#小马智行)
+   * [轻舟智航](#轻舟智航)
+   * [第四范式](#第四范式)
+   * [依图科技](#依图科技)
+   * [智臾科技](#智臾科技)
+   * [非凸科技](#非凸科技)
+   
  
 
 
@@ -655,6 +667,75 @@ MiniMax（上海稀宇科技）是2021年12月成立的中国大模型初创公�
 |1|Java开发|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496611&idx=3&sn=ccd4708af15e4b3d51874822e0db3458&scene=21&poc_token=HHiHwmmj46gDo75hHpWxBK8xY0hffW6IFvXEnZoQ)|
 |2|多模态大模型算法|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496611&idx=3&sn=ccd4708af15e4b3d51874822e0db3458&scene=21&poc_token=HHiHwmmj46gDo75hHpWxBK8xY0hffW6IFvXEnZoQ)|
 |3|AI工具链开发|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496611&idx=3&sn=ccd4708af15e4b3d51874822e0db3458&scene=21&poc_token=HHiHwmmj46gDo75hHpWxBK8xY0hffW6IFvXEnZoQ)|
+
+## 合合信息
+合合信息是行业领先的人工智能及大数据科技企业，致力于通过智能文字识别及商业大数据领域的核心技术、C端和B端产品以及行业解决方案为全球企业和个人用户提供新的数字化、智能化服务。
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|1|前端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496579&idx=6&sn=ed84c62d7ac87f4c3221ac9914ab482e&scene=21&poc_token=HO6Ew2mjzpSj09rNySOnFmGl01P62Hpqp1CqjybI)|
+|2|后端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496579&idx=6&sn=ed84c62d7ac87f4c3221ac9914ab482e&scene=21&poc_token=HO6Ew2mjzpSj09rNySOnFmGl01P62Hpqp1CqjybI)|
+|3|AIOPS工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496579&idx=6&sn=ed84c62d7ac87f4c3221ac9914ab482e&scene=21&poc_token=HO6Ew2mjzpSj09rNySOnFmGl01P62Hpqp1CqjybI)|
+|4|云原生SRE工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496579&idx=6&sn=ed84c62d7ac87f4c3221ac9914ab482e&scene=21&poc_token=HO6Ew2mjzpSj09rNySOnFmGl01P62Hpqp1CqjybI)|
+|5|智能图像算法研究员|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496579&idx=6&sn=ed84c62d7ac87f4c3221ac9914ab482e&scene=21&poc_token=HO6Ew2mjzpSj09rNySOnFmGl01P62Hpqp1CqjybI)|
+
+
+## 磐沄科技
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|持续更新中|
+
+
+## 数慧时空
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|持续更新中|
+
+
+## 墨泊可士
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|持续更新中|
+
+
+## 元戎启行 
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|持续更新中|
+
+
+## 小马智行
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|持续更新中|
+
+
+## 轻舟智航
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|持续更新中|
+
+## 第四范式
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|持续更新中|
+
+
+## 依图科技
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|持续更新中|
+
+
+## 智臾科技
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|持续更新中|
+
+
+## 非凸科技
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|持续更新中|
 
 
 
