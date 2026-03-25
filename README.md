@@ -926,9 +926,10 @@ MiniMax（上海稀宇科技）是2021年12月成立的中国大模型初创公�
  ## 零基础救命
  
 ## 前端
-|项目|详细内容|
+|名称|链接|
 |--------|--------|
-|[Front-End-Web-Development-Resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources)|这是一个面向所有想要学习前端开发的人的开源存储库。|
+|这是一个面向所有想要学习前端开发的人的开源存储库。|[点击学习](https://github.com/RitikPatni/Front-End-Web-Development-Resources)|
+|字节大佬带你3天速刷（前端八股文）适用于99%中大厂前端面试。2025最新高频面试题丨存下吧能让你拿offer的！|[点击学习](https://www.bilibili.com/video/BV1ayCuBxEXZ/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)|
 |持续更新中……|
 
 
