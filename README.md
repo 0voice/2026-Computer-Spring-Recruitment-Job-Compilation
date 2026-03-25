@@ -167,7 +167,10 @@
 
  
 [**面试经验**](#面试经验)
- 
+
+- [春招攻略](#春招攻略)
+
+
 - [高频面题](#高频面题)
 -  [百度（含文字讲解）](#百度（含文字讲解）)
 -  [腾讯（含文字讲解）](#腾讯（含文字讲解）)
@@ -179,8 +182,6 @@
 
 - [面经合集](#面经合集)
 
-
-- [春招攻略](#春招攻略)
 
 
 
@@ -944,6 +945,25 @@ MiniMax（上海稀宇科技）是2021年12月成立的中国大模型初创公�
 
 ## 面试经验
 
+
+## 春招攻略
+
+[互联网行业春招保姆级教程，想拿offer，看这个视频就够了](https://www.bilibili.com/video/BV1ht421L7g3/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
+
+[26届春招上岸攻略/注意事项/和秋招的准备差异](https://www.bilibili.com/video/BV1kscDzwExJ/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
+
+[春招投简历，90%的应届生连门都没找对](https://www.bilibili.com/video/BV1AqAzzGEGa/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
+
+[春招的话，别太老实就好](https://www.bilibili.com/video/BV1Qe4y1A7q9/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
+
+[如何找到第一份测试实习和春招 offer](https://www.bilibili.com/video/BV1HAPszAEie/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
+
+[26年Java春招短期面试突击最快的方式](https://www.bilibili.com/video/BV1uiAwz7E9y/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
+
+[说说我最近招人的感受。。](https://www.bilibili.com/video/BV1kandzhExE/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
+
+
+
 ## 高频面题
 
 > 以下为文字版讲解的各大中小厂面试题
@@ -1694,28 +1714,6 @@ MiniMax（上海稀宇科技）是2021年12月成立的中国大模型初创公�
 [42. 科大讯飞软件开发实习面经](面经/科大讯飞软件开发实习面经.txt)
 
 ---
-
-
-## 春招攻略
-
-[互联网行业春招保姆级教程，想拿offer，看这个视频就够了](https://www.bilibili.com/video/BV1ht421L7g3/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
-
-[26届春招上岸攻略/注意事项/和秋招的准备差异](https://www.bilibili.com/video/BV1kscDzwExJ/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
-
-[春招投简历，90%的应届生连门都没找对](https://www.bilibili.com/video/BV1AqAzzGEGa/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
-
-[春招的话，别太老实就好](https://www.bilibili.com/video/BV1Qe4y1A7q9/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
-
-[如何找到第一份测试实习和春招 offer](https://www.bilibili.com/video/BV1HAPszAEie/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
-
-[26年Java春招短期面试突击最快的方式](https://www.bilibili.com/video/BV1uiAwz7E9y/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
-
-[说说我最近招人的感受。。](https://www.bilibili.com/video/BV1kandzhExE/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)
-
-
-
-
-
 
 
 
