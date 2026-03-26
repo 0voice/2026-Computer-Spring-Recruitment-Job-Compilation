@@ -976,6 +976,8 @@ DolphinDB是由浙江智臾科技有限公司研发的一款高性能分布式�
 |4.|iOS高级开发工程师（阿里健康）|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496399&idx=5&sn=6043bc1af41ab4a10edb32a5f92c9428&scene=21&poc_token=HG4HwWmjuTzArglOKkeIB5EUbhCMpGyOuBQBI_8c )|
 
 ### 嵌入式
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
 |1.|嵌入式软件工程师（元戎启行）|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496250&idx=2&sn=ec545fa3be7a4eba323155e5686a6ea2&scene=21&poc_token=HC7oxGmjAtSOqstUAiSNF-L5Gf5mC4iOeQHj_wO2 )|
 |2.|嵌入式软件开发工程师（海尔集团）|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496805&idx=2&sn=2690e84edc624e26847066afad316cdf&scene=21&poc_token=HDM5wWmjjcjk-0ZQyvaar3l8t7xTA9Z2PK9JvpRF) |
 |3.|嵌入式开发实习生（小马智行）|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496370&idx=3&sn=65625e694570a0ea9ffc4d854982c0cf&scene=21&poc_token=HPLoxGmjfooiWEYGP9XnCMAxsAGi6MJJ8MhB1xxx )|
