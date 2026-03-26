@@ -680,9 +680,16 @@ MiniMax（上海稀宇科技）是2021年12月成立的中国大模型初创公�
 
 
 ## 磐沄科技
+北京磐沄科技有限公司（简称“磐沄科技”）是全球领先的区块链 PaaS 服务商。凭借着稳定、高效、安全与扩展性，磐沄科技成为全球 Web3 企业和开发者广泛使用的基础设施平台。
 |NO.|工作岗位|详细内容|
 |--------|--------|------|
-|持续更新中|
+|1|后端开发工程师（golang）|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496239&idx=2&sn=dee740916fac6fdafe52612c50fead9e&scene=21&poc_token=HJjFxGmjv5T8JWkK_PZnmSe6seMC9xnNLTZ6Imu8)|
+|2|前端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496239&idx=2&sn=dee740916fac6fdafe52612c50fead9e&scene=21&poc_token=HJjFxGmjv5T8JWkK_PZnmSe6seMC9xnNLTZ6Imu8)|
+|3|golang开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496239&idx=2&sn=dee740916fac6fdafe52612c50fead9e&scene=21&poc_token=HJjFxGmjv5T8JWkK_PZnmSe6seMC9xnNLTZ6Imu8)|
+|4|运维开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496239&idx=2&sn=dee740916fac6fdafe52612c50fead9e&scene=21&poc_token=HJjFxGmjv5T8JWkK_PZnmSe6seMC9xnNLTZ6Imu8)|
+|5|测试开发测试工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496239&idx=2&sn=dee740916fac6fdafe52612c50fead9e&scene=21&poc_token=HJjFxGmjv5T8JWkK_PZnmSe6seMC9xnNLTZ6Imu8)|
+|6|售前解决方案售前技术工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496239&idx=2&sn=dee740916fac6fdafe52612c50fead9e&scene=21&poc_token=HJjFxGmjv5T8JWkK_PZnmSe6seMC9xnNLTZ6Imu8)|
+
 
 
 ## 数慧时空
