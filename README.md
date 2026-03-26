@@ -96,7 +96,6 @@
    * [商汤科技](#33)
    * [合合信息](#合合信息)
    * [磐沄科技](#磐沄科技)
-   * [数慧时空](#数慧时空)
    * [墨泊可士](#墨泊可士)
    * [元戎启行](#元戎启行)
    * [小马智行](#小马智行)
@@ -123,6 +122,7 @@
  - [国企](#国企)
    * [海尔集团](#22)
    * [金航数码](#23)
+   * [数慧时空](#数慧时空)
 
 
 - [优质潜力企业](#优质潜力企业)
@@ -692,58 +692,106 @@ MiniMax（上海稀宇科技）是2021年12月成立的中国大模型初创公�
 
 
 
-## 数慧时空
-|NO.|工作岗位|详细内容|
-|--------|--------|------|
-|持续更新中|
-
-
 ## 墨泊可士
+上海墨泊可士科技有限公司成立于2024年，是一家专注于移动增值应用开发与智能机市场拓展的民营科技企业，总部位于上海。公司现有员工约500人，业务涵盖新技术开发、无线增值业务运营等领域。
 |NO.|工作岗位|详细内容|
 |--------|--------|------|
-|持续更新中|
+|1|C++开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496514&idx=2&sn=7e0a7174c89f40f15936c3fc4ad5352d&scene=21&poc_token=HGTnxGmj2bJG4OGjy3PJ1l0_JErFajvXF2extU5I)|
+|2|算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496514&idx=2&sn=7e0a7174c89f40f15936c3fc4ad5352d&scene=21&poc_token=HGTnxGmj2bJG4OGjy3PJ1l0_JErFajvXF2extU5I)|
+|3|测试工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496514&idx=2&sn=7e0a7174c89f40f15936c3fc4ad5352d&scene=21&poc_token=HGTnxGmj2bJG4OGjy3PJ1l0_JErFajvXF2extU5I)|
+|4|Java开发|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496514&idx=2&sn=7e0a7174c89f40f15936c3fc4ad5352d&scene=21&poc_token=HGTnxGmj2bJG4OGjy3PJ1l0_JErFajvXF2extU5I)|
+|5|前端工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496514&idx=2&sn=7e0a7174c89f40f15936c3fc4ad5352d&scene=21&poc_token=HGTnxGmj2bJG4OGjy3PJ1l0_JErFajvXF2extU5I)|
+
+
 
 
 ## 元戎启行 
+作为国际领先的人工智能企业，元戎启行致力于打造“物理世界的通用人工智能”，以创新技术引领人工智能行业变革。通过智能驾驶汽车量产上路获取大量物理世界的优质脱敏数据，元戎启行将打造具备人类高阶智慧的“AI大脑”，赋能千行百业，为人类社会发展注入全新生产力。 元戎启行由CEO周光博士带领团队于2019年创立，总部位于深圳，在北京设有研发中心，在硅谷、德国、新加坡、上海、成都、重庆、保定等地均有业务落地。元戎启行已完成6轮融资，累计融资金额超5亿美元。
 |NO.|工作岗位|详细内容|
 |--------|--------|------|
-|持续更新中|
+|1|嵌入式软件工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496250&idx=2&sn=ec545fa3be7a4eba323155e5686a6ea2&scene=21&poc_token=HC7oxGmjAtSOqstUAiSNF-L5Gf5mC4iOeQHj_wO2)|
+|2|软件工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496250&idx=2&sn=ec545fa3be7a4eba323155e5686a6ea2&scene=21&poc_token=HC7oxGmjAtSOqstUAiSNF-L5Gf5mC4iOeQHj_wO2)|
+|3|后端开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496250&idx=2&sn=ec545fa3be7a4eba323155e5686a6ea2&scene=21&poc_token=HC7oxGmjAtSOqstUAiSNF-L5Gf5mC4iOeQHj_wO2)|
+|4|地图定位算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496250&idx=2&sn=ec545fa3be7a4eba323155e5686a6ea2&scene=21&poc_token=HC7oxGmjAtSOqstUAiSNF-L5Gf5mC4iOeQHj_wO2)|
+|5|端到端算法工程师 |[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496250&idx=2&sn=ec545fa3be7a4eba323155e5686a6ea2&scene=21&poc_token=HC7oxGmjAtSOqstUAiSNF-L5Gf5mC4iOeQHj_wO2)|
+
+
 
 
 ## 小马智行
+小马智行（Pony.ai）是全球领先的自动驾驶技术公司，成立于2016年，总部位于广州。公司专注于L4级自动驾驶技术的研发和应用，已在北京、广州、上海等地开展Robotaxi测试运营。小马智行在全球设有5个研发中心，研发团队规模800余人，其中70%为技术人员。公司累计融资超过10亿美元，估值达85亿美元。
 |NO.|工作岗位|详细内容|
 |--------|--------|------|
-|持续更新中|
+|1|研发/算法工程师 |[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496370&idx=3&sn=65625e694570a0ea9ffc4d854982c0cf&scene=21&poc_token=HPLoxGmjfooiWEYGP9XnCMAxsAGi6MJJ8MhB1xxx)|
+|2|高性能系统工程师 |[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496370&idx=3&sn=65625e694570a0ea9ffc4d854982c0cf&scene=21&poc_token=HPLoxGmjfooiWEYGP9XnCMAxsAGi6MJJ8MhB1xxx)|
+|3|C++开发实习生 |[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496370&idx=3&sn=65625e694570a0ea9ffc4d854982c0cf&scene=21&poc_token=HPLoxGmjfooiWEYGP9XnCMAxsAGi6MJJ8MhB1xxx)|
+|4|小程序开发实习生 |[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496370&idx=3&sn=65625e694570a0ea9ffc4d854982c0cf&scene=21&poc_token=HPLoxGmjfooiWEYGP9XnCMAxsAGi6MJJ8MhB1xxx)|
+|5|嵌入式开发实习生 |[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496370&idx=3&sn=65625e694570a0ea9ffc4d854982c0cf&scene=21&poc_token=HPLoxGmjfooiWEYGP9XnCMAxsAGi6MJJ8MhB1xxx)|
+|6|车载测试实习生 |[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496370&idx=3&sn=65625e694570a0ea9ffc4d854982c0cf&scene=21&poc_token=HPLoxGmjfooiWEYGP9XnCMAxsAGi6MJJ8MhB1xxx)|
+|7|大型视觉语言模型算法实习生 |[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496370&idx=3&sn=65625e694570a0ea9ffc4d854982c0cf&scene=21&poc_token=HPLoxGmjfooiWEYGP9XnCMAxsAGi6MJJ8MhB1xxx)|
+|8|自动驾驶测试实习生 |[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496370&idx=3&sn=65625e694570a0ea9ffc4d854982c0cf&scene=21&poc_token=HPLoxGmjfooiWEYGP9XnCMAxsAGi6MJJ8MhB1xxx)|
+
+
+
 
 
 ## 轻舟智航
+轻舟智航（QCraft）是世界前沿的无人驾驶通用解决方案公司，在国内多个城市部署了龙舟系列自动驾驶车，覆盖多类车型，应用于城市公交、网约出行等场景，助推城市交通走向智能化、网联化、共享化。
 |NO.|工作岗位|详细内容|
 |--------|--------|------|
-|持续更新中|
+|1|自动驾驶系统工程师 |[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=6&sn=807ba72acdb3b7fe0c32913f4b18ac4b&scene=21&poc_token=HMLpxGmjOTUHKAJy6ZwdbBImjDhlm1-vGOxeqUXh)|
+|2|预测算法工程师 |[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=6&sn=807ba72acdb3b7fe0c32913f4b18ac4b&scene=21&poc_token=HMLpxGmjOTUHKAJy6ZwdbBImjDhlm1-vGOxeqUXh)|
+|3|自动标注算法工程师 |[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=6&sn=807ba72acdb3b7fe0c32913f4b18ac4b&scene=21&poc_token=HMLpxGmjOTUHKAJy6ZwdbBImjDhlm1-vGOxeqUXh)|
+|4|机器学习基础架构工程师 |[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496540&idx=6&sn=807ba72acdb3b7fe0c32913f4b18ac4b&scene=21&poc_token=HMLpxGmjOTUHKAJy6ZwdbBImjDhlm1-vGOxeqUXh)|
+
+
+
 
 ## 第四范式
+第四范式成立于2014年9月，是企业人工智能的行业先驱者与领导者，中国以平台为中心的决策型AI市场的最大参与者。公司以“AI决策，企业转型新范式”为品牌理念，提供以平台为中心的人工智能解决方案，服务的行业包括但不限于金融、零售、制造、能源电力、电信及医疗。 
 |NO.|工作岗位|详细内容|
 |--------|--------|------|
-|持续更新中|
+|1|Java开发 |[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496422&idx=3&sn=e485a3bb846db5df886a733386964502&scene=21&poc_token=HEzqxGmjMuXvZt0-3cYjBlH-pdOw4BNp0bZE69es)|
+|2|Web前端开发 |[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496422&idx=3&sn=e485a3bb846db5df886a733386964502&scene=21&poc_token=HEzqxGmjMuXvZt0-3cYjBlH-pdOw4BNp0bZE69es)|
+|3|算法工程师工程师 |[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496422&idx=3&sn=e485a3bb846db5df886a733386964502&scene=21&poc_token=HEzqxGmjMuXvZt0-3cYjBlH-pdOw4BNp0bZE69es)|
+|4|大模型算法实习生 |[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496422&idx=3&sn=e485a3bb846db5df886a733386964502&scene=21&poc_token=HEzqxGmjMuXvZt0-3cYjBlH-pdOw4BNp0bZE69es)|
+|5|语音算法实习生 |[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496422&idx=3&sn=e485a3bb846db5df886a733386964502&scene=21&poc_token=HEzqxGmjMuXvZt0-3cYjBlH-pdOw4BNp0bZE69es)|
+
+
 
 
 ## 依图科技
+依图科技是一家在中国人工智能领域，特别是计算机视觉方向曾具有重要影响力的科技公司
 |NO.|工作岗位|详细内容|
 |--------|--------|------|
-|持续更新中|
+|1|后端开发工程师 |[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496451&idx=2&sn=a93aaf5f5c60796c488effb696e820b3&scene=21&poc_token=HCrtxGmj5XN2Vw-JpegsC1vyc37d3PHmRYA6w5cP)|
+|2|算法研究员 |[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496451&idx=2&sn=a93aaf5f5c60796c488effb696e820b3&scene=21&poc_token=HCrtxGmj5XN2Vw-JpegsC1vyc37d3PHmRYA6w5cP)|
+
+
 
 
 ## 智臾科技
+DolphinDB是由浙江智臾科技有限公司研发的一款高性能分布式时序数据库，集成了功能强大的编程语言和高容量高速度的流数据分析系统，为海量结构化数据的快速存储、检索、分析及计算提供一站式解决方案，适用于量化金融及工业物联网等领域。  
 |NO.|工作岗位|详细内容|
 |--------|--------|------|
-|持续更新中|
+|1|数据库内核开发工程师 |[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496560&idx=4&sn=5be35b511b0d5f8d27b45790633189b2&scene=21&poc_token=HK3txGmjhMnae_JDagD9pxd_LRWolcHZXi0inhg_)|
+|2|C++后端开发工程师 |[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496560&idx=4&sn=5be35b511b0d5f8d27b45790633189b2&scene=21&poc_token=HK3txGmjhMnae_JDagD9pxd_LRWolcHZXi0inhg_)|
+|3|测试开发实习生 |[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496560&idx=4&sn=5be35b511b0d5f8d27b45790633189b2&scene=21&poc_token=HK3txGmjhMnae_JDagD9pxd_LRWolcHZXi0inhg_)|
+|4|流数据内核开发工程师 |[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496560&idx=4&sn=5be35b511b0d5f8d27b45790633189b2&scene=21&poc_token=HK3txGmjhMnae_JDagD9pxd_LRWolcHZXi0inhg_)|
+|5|数据分析实习生 |[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496560&idx=4&sn=5be35b511b0d5f8d27b45790633189b2&scene=21&poc_token=HK3txGmjhMnae_JDagD9pxd_LRWolcHZXi0inhg_)|
 
 
 ## 非凸科技
+非凸科技是一家专注于智能算法交易和量化投资技术的高科技企业，主要为券商、基金、私募等金融机构提供算法交易系统、智能订单路由、量化交易工具等产品和服务。
 |NO.|工作岗位|详细内容|
 |--------|--------|------|
-|持续更新中|
-
+|1|数据分析实习 |[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496560&idx=5&sn=7018bb5fe5cd9ae9637d9d941c08304f&scene=21&poc_token=HCjwxGmjxTIJDa3Cxxgd90-xhtHXCfhD5wGFm-X__)|
+|2|量化研究实习生 |[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496560&idx=5&sn=7018bb5fe5cd9ae9637d9d941c08304f&scene=21&poc_token=HCjwxGmjxTIJDa3Cxxgd90-xhtHXCfhD5wGFm-X__)|
+|3|大模型应用开发实习生 |[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496560&idx=5&sn=7018bb5fe5cd9ae9637d9d941c08304f&scene=21&poc_token=HCjwxGmjxTIJDa3Cxxgd90-xhtHXCfhD5wGFm-X__)|
+|4|前端工程师开发 |[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496560&idx=5&sn=7018bb5fe5cd9ae9637d9d941c08304f&scene=21&poc_token=HCjwxGmjxTIJDa3Cxxgd90-xhtHXCfhD5wGFm-X__)|
+|5|c++工程师 |[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496560&idx=5&sn=7018bb5fe5cd9ae9637d9d941c08304f&scene=21&poc_token=HCjwxGmjxTIJDa3Cxxgd90-xhtHXCfhD5wGFm-X__)|
+|6|后端工程师开发（rust方向） |[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496560&idx=5&sn=7018bb5fe5cd9ae9637d9d941c08304f&scene=21&poc_token=HCjwxGmjxTIJDa3Cxxgd90-xhtHXCfhD5wGFm-X__)|
+|7|全栈开发工程师 |[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496560&idx=5&sn=7018bb5fe5cd9ae9637d9d941c08304f&scene=21&poc_token=HCjwxGmjxTIJDa3Cxxgd90-xhtHXCfhD5wGFm-X__)|
 
 
 
@@ -774,6 +822,19 @@ MiniMax（上海稀宇科技）是2021年12月成立的中国大模型初创公�
 |4|开发工程师（数据方向）|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496744&idx=1&sn=bcb9f3a20f73a74d1c3237de83a13ac5&scene=21&poc_token=HOo5wWmjvoda7frufBwEZXMT3fBHlp7OV6mEh8nv)|
 |5|运维工程师（云管平台方向）|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496744&idx=1&sn=bcb9f3a20f73a74d1c3237de83a13ac5&scene=21&poc_token=HOo5wWmjvoda7frufBwEZXMT3fBHlp7OV6mEh8nv)|
 |6|数据治理工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496744&idx=1&sn=bcb9f3a20f73a74d1c3237de83a13ac5&scene=21&poc_token=HOo5wWmjvoda7frufBwEZXMT3fBHlp7OV6mEh8nv)|
+
+
+## 数慧时空
+北京数慧创立于2003年，是山东省土地发展集团控股的混改型国有企业。
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|1|java开发|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496250&idx=1&sn=3b51c459392f02504563d671ca2a32ca&scene=21&poc_token=HNXlxGmjCwV3lYw8zKqAxi0GBLrHe4C0Kx7aKTH_)|
+|2|GIS工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496250&idx=1&sn=3b51c459392f02504563d671ca2a32ca&scene=21&poc_token=HNXlxGmjCwV3lYw8zKqAxi0GBLrHe4C0Kx7aKTH_)|
+|3|深度学习算法工程师工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496250&idx=1&sn=3b51c459392f02504563d671ca2a32ca&scene=21&poc_token=HNXlxGmjCwV3lYw8zKqAxi0GBLrHe4C0Kx7aKTH_)|
+|4|NLP自然语言处理算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496250&idx=1&sn=3b51c459392f02504563d671ca2a32ca&scene=21&poc_token=HNXlxGmjCwV3lYw8zKqAxi0GBLrHe4C0Kx7aKTH_)|
+|5|遥感算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496250&idx=1&sn=3b51c459392f02504563d671ca2a32ca&scene=21&poc_token=HNXlxGmjCwV3lYw8zKqAxi0GBLrHe4C0Kx7aKTH_)|
+
+
 
 
 ## 优质潜力企业
