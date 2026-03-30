@@ -68,10 +68,10 @@
 [**26春招岗**](#26春招岗)
 
 - [大厂岗](#大厂岗)
+   * [阿里巴巴](#5)
    * [腾讯](#1)
    * [字节](#2)
    * [美团](#3)
-   * [阿里巴巴](#5)
    * [华为](#6)
    * [百度](#7)
    * [小米](#8)
@@ -215,60 +215,6 @@
 
 ## 大厂岗
 
-## <h3 id="1">腾讯</h3> 
-|NO.|工作岗位|详细内容|
-|--------|--------|------|
-|1|软件开发-后台开发方向|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496603&idx=1&sn=5f8a07d1e0bce7225176f95f38b3786a&scene=21&poc_token=HFrtwGmjZFwSA0rQ7EPfBS28_Uw8wY4IazqRSgkB)|
-|2|软件开发-游戏引擎开发方向|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496603&idx=1&sn=5f8a07d1e0bce7225176f95f38b3786a&scene=21&poc_token=HFrtwGmjZFwSA0rQ7EPfBS28_Uw8wY4IazqRSgkB)|
-|3|软件开发-PC客户端开发方向|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496603&idx=1&sn=5f8a07d1e0bce7225176f95f38b3786a&scene=21&poc_token=HFrtwGmjZFwSA0rQ7EPfBS28_Uw8wY4IazqRSgkB)|
-|4|软件开发-移动客户端开发方向|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496603&idx=1&sn=5f8a07d1e0bce7225176f95f38b3786a&scene=21&poc_token=HFrtwGmjZFwSA0rQ7EPfBS28_Uw8wY4IazqRSgkB)|
-|5|技术研究-多模态方向|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496603&idx=1&sn=5f8a07d1e0bce7225176f95f38b3786a&scene=21&poc_token=HFrtwGmjZFwSA0rQ7EPfBS28_Uw8wY4IazqRSgkB)|
-|6|技术研究-自然语言处理方向|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496603&idx=1&sn=5f8a07d1e0bce7225176f95f38b3786a&scene=21&poc_token=HFrtwGmjZFwSA0rQ7EPfBS28_Uw8wY4IazqRSgkB)|
-|7|技术研究-高性能计算方向|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496603&idx=1&sn=5f8a07d1e0bce7225176f95f38b3786a&scene=21&poc_token=HFrtwGmjZFwSA0rQ7EPfBS28_Uw8wY4IazqRSgkB)|
-
-
-
-## <h3 id="2">字节</h3> 
-|NO.|工作岗位|详细内容|
-|--------|--------|------|
-|1|Agent应用技术资深工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496925&idx=1&sn=7358063dd46b73225d2a3338f6ab96e2&scene=21&poc_token=HFP3wGmjbfzsiBtZpw2nZml0LwozH6C7iyQnTiVm)|
-|2|多模态大模型算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496925&idx=1&sn=7358063dd46b73225d2a3338f6ab96e2&scene=21&poc_token=HFP3wGmjbfzsiBtZpw2nZml0LwozH6C7iyQnTiVm)|
-|3|AI Agent高级研发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496925&idx=1&sn=7358063dd46b73225d2a3338f6ab96e2&scene=21&poc_token=HFP3wGmjbfzsiBtZpw2nZml0LwozH6C7iyQnTiVm)|
-|4|资深客户端开发工程师/架构师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496925&idx=1&sn=7358063dd46b73225d2a3338f6ab96e2&scene=21&poc_token=HFP3wGmjbfzsiBtZpw2nZml0LwozH6C7iyQnTiVm)|
-|5|微服务治理研发专家/工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496925&idx=1&sn=7358063dd46b73225d2a3338f6ab96e2&scene=21&poc_token=HFP3wGmjbfzsiBtZpw2nZml0LwozH6C7iyQnTiVm)|
-|6|全栈研发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496925&idx=1&sn=7358063dd46b73225d2a3338f6ab96e2&scene=21&poc_token=HFP3wGmjbfzsiBtZpw2nZml0LwozH6C7iyQnTiVm)|
-|7|SRE运维工程师-游戏技术|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496925&idx=1&sn=7358063dd46b73225d2a3338f6ab96e2&scene=21&poc_token=HFP3wGmjbfzsiBtZpw2nZml0LwozH6C7iyQnTiVm)|
-|8|推荐算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496925&idx=1&sn=7358063dd46b73225d2a3338f6ab96e2&scene=21&poc_token=HFP3wGmjbfzsiBtZpw2nZml0LwozH6C7iyQnTiVm)|
-|9|DCN网络建设交付工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496925&idx=1&sn=7358063dd46b73225d2a3338f6ab96e2&scene=21&poc_token=HFP3wGmjbfzsiBtZpw2nZml0LwozH6C7iyQnTiVm)|
-|10|Web端开发工程师/专家|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496925&idx=1&sn=7358063dd46b73225d2a3338f6ab96e2&scene=21&poc_token=HFP3wGmjbfzsiBtZpw2nZml0LwozH6C7iyQnTiVm)|
-|11|大模型应用后端工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496925&idx=1&sn=7358063dd46b73225d2a3338f6ab96e2&scene=21&poc_token=HFP3wGmjbfzsiBtZpw2nZml0LwozH6C7iyQnTiVm)|
-|12|Web端开发工程师/专家|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496925&idx=1&sn=7358063dd46b73225d2a3338f6ab96e2&scene=21&poc_token=HFP3wGmjbfzsiBtZpw2nZml0LwozH6C7iyQnTiVm)|
-|13|iOS开发工程师-猫箱|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496603&idx=8&sn=bc950471704dcb7ad8355bdd5b0e16cc&scene=21&poc_token=HNsBwWmjkoPNhT_sjFWB4YfE9L8Nlg87mZoXzNCU)|
-|14|大模型算法工程师-技术风险|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496603&idx=8&sn=bc950471704dcb7ad8355bdd5b0e16cc&scene=21&poc_token=HNsBwWmjkoPNhT_sjFWB4YfE9L8Nlg87mZoXzNCU)|
-|15|推荐算法工程师-抖音电商|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496603&idx=8&sn=bc950471704dcb7ad8355bdd5b0e16cc&scene=21&poc_token=HNsBwWmjkoPNhT_sjFWB4YfE9L8Nlg87mZoXzNCU)|
-|16|客户端开发工程师-火山引擎|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496603&idx=8&sn=bc950471704dcb7ad8355bdd5b0e16cc&scene=21&poc_token=HNsBwWmjkoPNhT_sjFWB4YfE9L8Nlg87mZoXzNCU)|
-|17|广告算法工程师-Data AML|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496603&idx=8&sn=bc950471704dcb7ad8355bdd5b0e16cc&scene=21&poc_token=HNsBwWmjkoPNhT_sjFWB4YfE9L8Nlg87mZoXzNCU)|
-|18|客户端开发工程师-开发者服务|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496603&idx=8&sn=bc950471704dcb7ad8355bdd5b0e16cc&scene=21&poc_token=HNsBwWmjkoPNhT_sjFWB4YfE9L8Nlg87mZoXzNCU)|
-|19|多模态算法工程师-抖音|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496603&idx=8&sn=bc950471704dcb7ad8355bdd5b0e16cc&scene=21&poc_token=HNsBwWmjkoPNhT_sjFWB4YfE9L8Nlg87mZoXzNCU)|
-
-
-
-
-## <h3 id="3">美团</h3> 
-|NO.|工作岗位|详细内容|
-|--------|--------|------|
-|1|数据挖掘算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496921&idx=1&sn=870dbeb7238a27929f05eaea8b3f20ba&scene=21&poc_token=HMn7wGmjStr7npKX6u0zkNOSNdn8tHxUdNiD5_1Q)|
-|2|AI应用基建研发|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496921&idx=1&sn=870dbeb7238a27929f05eaea8b3f20ba&scene=21&poc_token=HMn7wGmjStr7npKX6u0zkNOSNdn8tHxUdNiD5_1Q)|
-|3|AI应用中间件|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496921&idx=1&sn=870dbeb7238a27929f05eaea8b3f20ba&scene=21&poc_token=HMn7wGmjStr7npKX6u0zkNOSNdn8tHxUdNiD5_1Q)|
-|4|软件开发工程师（数据开发方向）|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496921&idx=1&sn=870dbeb7238a27929f05eaea8b3f20ba&scene=21&poc_token=HMn7wGmjStr7npKX6u0zkNOSNdn8tHxUdNiD5_1Q)|
-|5|全栈工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496921&idx=1&sn=870dbeb7238a27929f05eaea8b3f20ba&scene=21&poc_token=HMn7wGmjStr7npKX6u0zkNOSNdn8tHxUdNiD5_1Q)|
-|6|软件开发工程师（后端方向）|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496921&idx=1&sn=870dbeb7238a27929f05eaea8b3f20ba&scene=21&poc_token=HMn7wGmjStr7npKX6u0zkNOSNdn8tHxUdNiD5_1Q)|
-|7|大模型应用前端开发实习生|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496921&idx=1&sn=870dbeb7238a27929f05eaea8b3f20ba&scene=21&poc_token=HMn7wGmjStr7npKX6u0zkNOSNdn8tHxUdNiD5_1Q)|
-|8|大数据开发实习生|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496921&idx=1&sn=870dbeb7238a27929f05eaea8b3f20ba&scene=21&poc_token=HMn7wGmjStr7npKX6u0zkNOSNdn8tHxUdNiD5_1Q)|
-
-
-
-
 ## <h3 id="5">阿里巴巴</h3> 
 |NO.|工作岗位|详细内容|
 |--------|--------|------|
@@ -345,6 +291,60 @@
 |3|C/C++开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496611&idx=1&sn=e0357d6ac8a268fe7011807679098fa4&scene=21&poc_token=HOAKwWmjC826wguuHJIZ2_bCjPpkVx96L68Lm66V)|
 |4|初级研发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496611&idx=1&sn=e0357d6ac8a268fe7011807679098fa4&scene=21&poc_token=HOAKwWmjC826wguuHJIZ2_bCjPpkVx96L68Lm66V)|
 |5|大模型算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496611&idx=1&sn=e0357d6ac8a268fe7011807679098fa4&scene=21&poc_token=HOAKwWmjC826wguuHJIZ2_bCjPpkVx96L68Lm66V)|
+
+
+## <h3 id="1">腾讯</h3> 
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|1|软件开发-后台开发方向|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496603&idx=1&sn=5f8a07d1e0bce7225176f95f38b3786a&scene=21&poc_token=HFrtwGmjZFwSA0rQ7EPfBS28_Uw8wY4IazqRSgkB)|
+|2|软件开发-游戏引擎开发方向|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496603&idx=1&sn=5f8a07d1e0bce7225176f95f38b3786a&scene=21&poc_token=HFrtwGmjZFwSA0rQ7EPfBS28_Uw8wY4IazqRSgkB)|
+|3|软件开发-PC客户端开发方向|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496603&idx=1&sn=5f8a07d1e0bce7225176f95f38b3786a&scene=21&poc_token=HFrtwGmjZFwSA0rQ7EPfBS28_Uw8wY4IazqRSgkB)|
+|4|软件开发-移动客户端开发方向|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496603&idx=1&sn=5f8a07d1e0bce7225176f95f38b3786a&scene=21&poc_token=HFrtwGmjZFwSA0rQ7EPfBS28_Uw8wY4IazqRSgkB)|
+|5|技术研究-多模态方向|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496603&idx=1&sn=5f8a07d1e0bce7225176f95f38b3786a&scene=21&poc_token=HFrtwGmjZFwSA0rQ7EPfBS28_Uw8wY4IazqRSgkB)|
+|6|技术研究-自然语言处理方向|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496603&idx=1&sn=5f8a07d1e0bce7225176f95f38b3786a&scene=21&poc_token=HFrtwGmjZFwSA0rQ7EPfBS28_Uw8wY4IazqRSgkB)|
+|7|技术研究-高性能计算方向|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496603&idx=1&sn=5f8a07d1e0bce7225176f95f38b3786a&scene=21&poc_token=HFrtwGmjZFwSA0rQ7EPfBS28_Uw8wY4IazqRSgkB)|
+
+
+
+## <h3 id="2">字节</h3> 
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|1|Agent应用技术资深工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496925&idx=1&sn=7358063dd46b73225d2a3338f6ab96e2&scene=21&poc_token=HFP3wGmjbfzsiBtZpw2nZml0LwozH6C7iyQnTiVm)|
+|2|多模态大模型算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496925&idx=1&sn=7358063dd46b73225d2a3338f6ab96e2&scene=21&poc_token=HFP3wGmjbfzsiBtZpw2nZml0LwozH6C7iyQnTiVm)|
+|3|AI Agent高级研发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496925&idx=1&sn=7358063dd46b73225d2a3338f6ab96e2&scene=21&poc_token=HFP3wGmjbfzsiBtZpw2nZml0LwozH6C7iyQnTiVm)|
+|4|资深客户端开发工程师/架构师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496925&idx=1&sn=7358063dd46b73225d2a3338f6ab96e2&scene=21&poc_token=HFP3wGmjbfzsiBtZpw2nZml0LwozH6C7iyQnTiVm)|
+|5|微服务治理研发专家/工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496925&idx=1&sn=7358063dd46b73225d2a3338f6ab96e2&scene=21&poc_token=HFP3wGmjbfzsiBtZpw2nZml0LwozH6C7iyQnTiVm)|
+|6|全栈研发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496925&idx=1&sn=7358063dd46b73225d2a3338f6ab96e2&scene=21&poc_token=HFP3wGmjbfzsiBtZpw2nZml0LwozH6C7iyQnTiVm)|
+|7|SRE运维工程师-游戏技术|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496925&idx=1&sn=7358063dd46b73225d2a3338f6ab96e2&scene=21&poc_token=HFP3wGmjbfzsiBtZpw2nZml0LwozH6C7iyQnTiVm)|
+|8|推荐算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496925&idx=1&sn=7358063dd46b73225d2a3338f6ab96e2&scene=21&poc_token=HFP3wGmjbfzsiBtZpw2nZml0LwozH6C7iyQnTiVm)|
+|9|DCN网络建设交付工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496925&idx=1&sn=7358063dd46b73225d2a3338f6ab96e2&scene=21&poc_token=HFP3wGmjbfzsiBtZpw2nZml0LwozH6C7iyQnTiVm)|
+|10|Web端开发工程师/专家|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496925&idx=1&sn=7358063dd46b73225d2a3338f6ab96e2&scene=21&poc_token=HFP3wGmjbfzsiBtZpw2nZml0LwozH6C7iyQnTiVm)|
+|11|大模型应用后端工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496925&idx=1&sn=7358063dd46b73225d2a3338f6ab96e2&scene=21&poc_token=HFP3wGmjbfzsiBtZpw2nZml0LwozH6C7iyQnTiVm)|
+|12|Web端开发工程师/专家|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496925&idx=1&sn=7358063dd46b73225d2a3338f6ab96e2&scene=21&poc_token=HFP3wGmjbfzsiBtZpw2nZml0LwozH6C7iyQnTiVm)|
+|13|iOS开发工程师-猫箱|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496603&idx=8&sn=bc950471704dcb7ad8355bdd5b0e16cc&scene=21&poc_token=HNsBwWmjkoPNhT_sjFWB4YfE9L8Nlg87mZoXzNCU)|
+|14|大模型算法工程师-技术风险|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496603&idx=8&sn=bc950471704dcb7ad8355bdd5b0e16cc&scene=21&poc_token=HNsBwWmjkoPNhT_sjFWB4YfE9L8Nlg87mZoXzNCU)|
+|15|推荐算法工程师-抖音电商|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496603&idx=8&sn=bc950471704dcb7ad8355bdd5b0e16cc&scene=21&poc_token=HNsBwWmjkoPNhT_sjFWB4YfE9L8Nlg87mZoXzNCU)|
+|16|客户端开发工程师-火山引擎|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496603&idx=8&sn=bc950471704dcb7ad8355bdd5b0e16cc&scene=21&poc_token=HNsBwWmjkoPNhT_sjFWB4YfE9L8Nlg87mZoXzNCU)|
+|17|广告算法工程师-Data AML|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496603&idx=8&sn=bc950471704dcb7ad8355bdd5b0e16cc&scene=21&poc_token=HNsBwWmjkoPNhT_sjFWB4YfE9L8Nlg87mZoXzNCU)|
+|18|客户端开发工程师-开发者服务|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496603&idx=8&sn=bc950471704dcb7ad8355bdd5b0e16cc&scene=21&poc_token=HNsBwWmjkoPNhT_sjFWB4YfE9L8Nlg87mZoXzNCU)|
+|19|多模态算法工程师-抖音|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496603&idx=8&sn=bc950471704dcb7ad8355bdd5b0e16cc&scene=21&poc_token=HNsBwWmjkoPNhT_sjFWB4YfE9L8Nlg87mZoXzNCU)|
+
+
+
+
+## <h3 id="3">美团</h3> 
+|NO.|工作岗位|详细内容|
+|--------|--------|------|
+|1|数据挖掘算法工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496921&idx=1&sn=870dbeb7238a27929f05eaea8b3f20ba&scene=21&poc_token=HMn7wGmjStr7npKX6u0zkNOSNdn8tHxUdNiD5_1Q)|
+|2|AI应用基建研发|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496921&idx=1&sn=870dbeb7238a27929f05eaea8b3f20ba&scene=21&poc_token=HMn7wGmjStr7npKX6u0zkNOSNdn8tHxUdNiD5_1Q)|
+|3|AI应用中间件|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496921&idx=1&sn=870dbeb7238a27929f05eaea8b3f20ba&scene=21&poc_token=HMn7wGmjStr7npKX6u0zkNOSNdn8tHxUdNiD5_1Q)|
+|4|软件开发工程师（数据开发方向）|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496921&idx=1&sn=870dbeb7238a27929f05eaea8b3f20ba&scene=21&poc_token=HMn7wGmjStr7npKX6u0zkNOSNdn8tHxUdNiD5_1Q)|
+|5|全栈工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496921&idx=1&sn=870dbeb7238a27929f05eaea8b3f20ba&scene=21&poc_token=HMn7wGmjStr7npKX6u0zkNOSNdn8tHxUdNiD5_1Q)|
+|6|软件开发工程师（后端方向）|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496921&idx=1&sn=870dbeb7238a27929f05eaea8b3f20ba&scene=21&poc_token=HMn7wGmjStr7npKX6u0zkNOSNdn8tHxUdNiD5_1Q)|
+|7|大模型应用前端开发实习生|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496921&idx=1&sn=870dbeb7238a27929f05eaea8b3f20ba&scene=21&poc_token=HMn7wGmjStr7npKX6u0zkNOSNdn8tHxUdNiD5_1Q)|
+|8|大数据开发实习生|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496921&idx=1&sn=870dbeb7238a27929f05eaea8b3f20ba&scene=21&poc_token=HMn7wGmjStr7npKX6u0zkNOSNdn8tHxUdNiD5_1Q)|
+
+
 
 
 
