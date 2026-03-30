@@ -225,6 +225,45 @@
 |5|算法工程师-大模型评测|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496603&idx=7&sn=1266cc9e91b710c4843a4f8eb72ec674&scene=21&poc_token=HKoDwWmjTQwQfULnKS4K6-h8bVfFFMs1d9PQ7kPG)|
 |6|AI Agent系统开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496603&idx=7&sn=1266cc9e91b710c4843a4f8eb72ec674&scene=21&poc_token=HKoDwWmjTQwQfULnKS4K6-h8bVfFFMs1d9PQ7kPG)|
 |7|机器学习系统工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496603&idx=7&sn=1266cc9e91b710c4843a4f8eb72ec674&scene=21&poc_token=HKoDwWmjTQwQfULnKS4K6-h8bVfFFMs1d9PQ7kPG)|
+|8|AI应用算法工程师|[点击查看](https://campus-talent.alibaba.com/campus/position/199903540003?deptCodes=)|
+|9|Agent Infra工程师|[点击查看](https://campus-talent.alibaba.com/campus/position/199903480006?deptCodes=)|
+|10|AI Infra工程师|[点击查看](https://campus-talent.alibaba.com/campus/position/199903540007?deptCodes=)|
+|11|AI SRE|[点击查看](https://campus-talent.alibaba.com/campus/position/199903480002?deptCodes=)|
+|12|AI数据工程师|[点击查看](https://campus-talent.alibaba.com/campus/position/199903220056?deptCodes=)|
+|13|AI Agent优化工程师-训练/数据/评测|[点击查看](https://campus-talent.alibaba.com/campus/position/199903500011?deptCodes=)|
+|14|AI应用研发工程师|[点击查看](https://campus-talent.alibaba.com/campus/position/199903220038?deptCodes=)|
+|15|AI Agent CPU 架构探索-阿里星|[点击查看](https://campus-talent.alibaba.com/campus/position/199904000013?deptCodes=)|
+|16|RISC-V矩阵扩展架构研究与实现-阿里星|[点击查看](https://campus-talent.alibaba.com/campus/position/199904040005?deptCodes=)|
+|17|高性能处理器执行子系统架构研究和实现-阿里星|[点击查看](https://campus-talent.alibaba.com/campus/position/199904020007?deptCodes=)|
+|18|面向AI原生应用的安全智能体关键技术与算法研究-A Star|[点击查看](https://campus-talent.alibaba.com/campus/position/199904140003?deptCodes=)|
+|19|前沿安全工具能力预研-阿里星|[点击查看](https://campus-talent.alibaba.com/campus/position/199904000003?deptCodes=)|
+|20|安全智能研发工程师|[点击查看](https://campus-talent.alibaba.com/campus/position/199904060006?deptCodes=)|
+|21|算法工程师-语音多模态大模型|[点击查看](https://campus-talent.alibaba.com/campus/position/199903280011?deptCodes=YKCNU1%2CO1BGLD%2C2OAHS3%2CR4NF3G%2CUXLZSO)|
+|22|算法工程师-大模型应用|[点击查看](https://campus-talent.alibaba.com/campus/position/199903240038?deptCodes=YKCNU1%2CO1BGLD%2C2OAHS3%2CR4NF3G%2CUXLZSO)|
+|23|算法工程师-VLM训练|[点击查看](https://campus-talent.alibaba.com/campus/position/199903180017?deptCodes=YKCNU1%2CO1BGLD%2C2OAHS3%2CR4NF3G%2CUXLZSO)|
+|24|算法工程师-大模型后训练 (Post-training)|[点击查看](https://campus-talent.alibaba.com/campus/position/199903240031?deptCodes=YKCNU1%2CO1BGLD%2C2OAHS3%2CR4NF3G%2CUXLZSO)|
+|25|算法工程师-强化学习|[点击查看](https://campus-talent.alibaba.com/campus/position/199903180013?deptCodes=YKCNU1%2CO1BGLD%2C2OAHS3%2CR4NF3G%2CUXLZSO)|
+|26|处理器AI架构师|[点击查看](https://campus-talent.alibaba.com/campus/position/199903420006?deptCodes=YKCNU1%2CO1BGLD%2C2OAHS3%2CR4NF3G%2CUXLZSO)|
+|27|AI芯片硬件系统设计工程师|[点击查看](https://campus-talent.alibaba.com/campus/position/199903420005?deptCodes=YKCNU1%2CO1BGLD%2C2OAHS3%2CR4NF3G%2CUXLZSO)|
+|28|AI芯片DFX设计工程师|[点击查看](https://campus-talent.alibaba.com/campus/position/199903420004?deptCodes=YKCNU1%2CO1BGLD%2C2OAHS3%2CR4NF3G%2CUXLZSO)|
+|29|AI SOC芯片设计工程师|[点击查看](https://campus-talent.alibaba.com/campus/position/199903400002?deptCodes=YKCNU1%2CO1BGLD%2C2OAHS3%2CR4NF3G%2CUXLZSO)|
+|30|AI芯片物理设计工程师|[点击查看](https://campus-talent.alibaba.com/campus/position/199903380002?deptCodes=YKCNU1%2CO1BGLD%2C2OAHS3%2CR4NF3G%2CUXLZSO)|
+|31|芯片框架开发工程师|[点击查看](https://campus-talent.alibaba.com/campus/position/199903360008?deptCodes=YKCNU1%2CO1BGLD%2C2OAHS3%2CR4NF3G%2CUXLZSO)|
+|32|AI SoC芯片技术科学家|[点击查看](https://campus-talent.alibaba.com/campus/position/199903360005?deptCodes=YKCNU1%2CO1BGLD%2C2OAHS3%2CR4NF3G%2CUXLZSO)|
+|33|大语言模型量化方法研发-阿里星|[点击查看](https://campus-talent.alibaba.com/campus/position/199903240074?deptCodes=YKCNU1%2CO1BGLD%2C2OAHS3%2CR4NF3G%2CUXLZSO)|
+|34|推理引擎设计研发-阿里星|[点击查看](https://campus-talent.alibaba.com/campus/position/199903280049?deptCodes=YKCNU1%2CO1BGLD%2C2OAHS3%2CR4NF3G%2CUXLZSO)|
+|35|芯片软件工程师|[点击查看](https://campus-talent.alibaba.com/campus/position/199903700006?deptCodes=YKCNU1%2CO1BGLD%2C2OAHS3%2CR4NF3G%2CUXLZSO)|
+|36|算法工程师-大语言模型|[点击查看](https://campus-talent.alibaba.com/campus/position/199903220023?deptCodes=YKCNU1%2CO1BGLD%2C2OAHS3%2CR4NF3G%2CUXLZSO)|
+|37|算法工程师-规划控制|[点击查看](https://campus-talent.alibaba.com/campus/position/199903200015?deptCodes=YKCNU1%2CO1BGLD%2C2OAHS3%2CR4NF3G%2CUXLZSO)|
+|38|算法工程师-医学影像|[点击查看](https://campus-talent.alibaba.com/campus/position/199903240036?deptCodes=YKCNU1%2CO1BGLD%2C2OAHS3%2CR4NF3G%2CUXLZSO)|
+|39|算法工程师-大数据处理|[点击查看](https://campus-talent.alibaba.com/campus/position/199903280012?deptCodes=YKCNU1%2CO1BGLD%2C2OAHS3%2CR4NF3G%2CUXLZSO)|
+|40|算法工程师-机器人感知|[点击查看](https://campus-talent.alibaba.com/campus/position/199903260016?deptCodes=YKCNU1%2CO1BGLD%2C2OAHS3%2CR4NF3G%2CUXLZSO)|
+|41|存算一体架构研究-阿里星|[点击查看](https://campus-talent.alibaba.com/campus/position/199903280048?deptCodes=YKCNU1%2CO1BGLD%2C2OAHS3%2CR4NF3G%2CUXLZSO)|
+|42|AI Agent 内核代码生成研究-阿里星|[点击查看](https://campus-talent.alibaba.com/campus/position/199903220051?deptCodes=YKCNU1%2CO1BGLD%2C2OAHS3%2CR4NF3G%2CUXLZSO)|
+|43|AI SoC先进架构研究科学家-阿里星|[点击查看](https://campus-talent.alibaba.com/campus/position/199903460024?deptCodes=YKCNU1%2CO1BGLD%2C2OAHS3%2CR4NF3G%2CUXLZSO)|
+|44|具身智能仿真平台研发工程师|[点击查看](https://campus-talent.alibaba.com/campus/position/199903500009?deptCodes=YKCNU1%2CO1BGLD%2C2OAHS3%2CR4NF3G%2CUXLZSO)|
+|45|研发工程师JAVA|[点击查看](https://campus-talent.alibaba.com/campus/position/199903180003?deptCodes=YKCNU1%2CO1BGLD%2C2OAHS3%2CR4NF3G%2CUXLZSO)|
+
 
 
 ### 淘天集团
