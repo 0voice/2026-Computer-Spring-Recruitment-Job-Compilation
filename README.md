@@ -303,6 +303,49 @@
 |5|技术研究-多模态方向|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496603&idx=1&sn=5f8a07d1e0bce7225176f95f38b3786a&scene=21&poc_token=HFrtwGmjZFwSA0rQ7EPfBS28_Uw8wY4IazqRSgkB)|
 |6|技术研究-自然语言处理方向|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496603&idx=1&sn=5f8a07d1e0bce7225176f95f38b3786a&scene=21&poc_token=HFrtwGmjZFwSA0rQ7EPfBS28_Uw8wY4IazqRSgkB)|
 |7|技术研究-高性能计算方向|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496603&idx=1&sn=5f8a07d1e0bce7225176f95f38b3786a&scene=21&poc_token=HFrtwGmjZFwSA0rQ7EPfBS28_Uw8wY4IazqRSgkB)|
+|8|产品经理(技术背景)|[点击查看](https://join.qq.com/post_detail.html?postid=1149822276057976832)|
+|9|项目管理|[点击查看](https://join.qq.com/post_detail.html?postid=1148729203219561472)|
+|10|游戏发行/运营培训生|[点击查看](https://join.qq.com/post_detail.html?postid=1149741170872876032)|
+|11|产品运营|[点击查看](https://join.qq.com/post_detail.html?postid=1149741188627320832)|
+|12|算法-计算机视觉方向|[点击查看](https://join.qq.com/post_detail.html?postid=1149822242398687232)|
+|13|算法-机器学习方向|[点击查看](https://join.qq.com/post_detail.html?postid=1149822244424536064)|
+|14|算法-数据科学方向|[点击查看](https://join.qq.com/post_detail.html?postid=1149822247624790016)|
+|15|软件开发-测试开发方向|[点击查看](https://join.qq.com/post_detail.html?postid=1149822252481794048)|
+|16|测试与质量管理|[点击查看](https://join.qq.com/post_detail.html?postid=1149822254222430208)|
+|17|软件开发-前端开发方向|[点击查看](https://join.qq.com/post_detail.html?postid=1149822283779690496)|
+|18|安全技术|[点击查看](https://join.qq.com/post_detail.html?postid=1149967273352821760)|
+|19|软件开发-运营开发方向|[点击查看](https://join.qq.com/post_detail.html?postid=1149967284501281792)|
+|20|算法-其他方向|[点击查看](https://join.qq.com/post_detail.html?postid=1150119850803526656)|
+|21|算法-推荐算法方向|[点击查看](https://join.qq.com/post_detail.html?postid=1150119851554307072)|
+|22|解决方案-技术咨询方向|[点击查看](https://join.qq.com/post_detail.html?postid=1150119856117709824)|
+|23|软件开发-全栈开发方向|[点击查看](https://join.qq.com/post_detail.html?postid=1150120260595372032)|
+|24|算法-多媒体处理方向|[点击查看](https://join.qq.com/post_detail.html?postid=1150120262226956288)|
+|25|软件开发-数据工程|[点击查看](https://join.qq.com/post_detail.html?postid=1150120262839324672)|
+|26|软件开发-游戏客户端开发方向|[点击查看](https://join.qq.com/post_detail.html?postid=1150133702182108160)|
+|27|技术运营|[点击查看](https://join.qq.com/post_detail.html?postid=1150134394124783616)|
+|28|硬件开发-芯片验证方向|[点击查看](https://join.qq.com/post_detail.html?postid=1150161895786041346)|
+|29|技术研究-基础架构方向|[点击查看](https://join.qq.com/post_detail.html?postid=1150161895786041347)|
+|30|软件开发-渲染引擎开发|[点击查看](https://join.qq.com/post_detail.html?postid=1150222486500342784)|
+|31|硬件开发-系统设计和验证方向|[点击查看](https://join.qq.com/post_detail.html?postid=1153452718590085120)|
+|32|安全技术-风控算法方向|[点击查看](https://join.qq.com/post_detail.html?postid=1154876866054932480)|
+|33|技术研究-高性能计算方向（青云计划）|[点击查看](https://join.qq.com/post_detail.html?postid=1200791472472059904)|
+|34|混元AIGC算法研究员（世界模型基金会方向）|[点击查看](https://tencent.wd1.myworkdayjobs.com/zh-CN/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-AIGC-Algorithm-Researcher--World-Model-Foundation-Direction-_R106368)|
+|35|AI Principal Research Scientist|[点击查看](https://tencent.wd1.myworkdayjobs.com/zh-CN/Tencent_Careers/job/Singapore-CapitaSky/AI-Principal-Research-Scientist_R106820)|
+|36|AI Senior Research Scientist|[点击查看](https://tencent.wd1.myworkdayjobs.com/zh-CN/Tencent_Careers/job/Singapore-CapitaSky/AI-Senior-Research-Scientist_R106716)|
+|37|Associate Quality Assurance Tester|[点击查看](https://tencent.wd1.myworkdayjobs.com/zh-CN/Tencent_Careers/job/Japan-Tokyo-Business-Tower/-Associate-Quality-Assurance-Tester_R104655-3)|
+|38|AI Senior Research Scientist|[点击查看](https://tencent.wd1.myworkdayjobs.com/zh-CN/Tencent_Careers/job/Singapore-CapitaSky/AI-Senior-Research-Scientist_R106715)|
+|39|Cloud Engineer|[点击查看](https://tencent.wd1.myworkdayjobs.com/zh-CN/Tencent_Careers/job/Singapore-CapitaSky/Cloud-Engineer_R106644)|
+|40|后台开发|[点击查看](https://tencent.wd1.myworkdayjobs.com/zh-CN/Tencent_Careers/job/Netherlands-Amsterdam/_R106516)|
+|41|Site Reliability Engineer|[点击查看](https://tencent.wd1.myworkdayjobs.com/zh-CN/Tencent_Careers/job/Singapore-CapitaSky/Site-Reliability-Engineer_R106600)|
+|42|Backend Engineering Associate|[点击查看](https://tencent.wd1.myworkdayjobs.com/zh-CN/Tencent_Careers/job/Singapore-CapitaSky/Backend-engineering-associat_R106407)|
+|43|AI IT Engineer|[点击查看](https://tencent.wd1.myworkdayjobs.com/zh-CN/Tencent_Careers/job/Singapore-CapitaSky/Sr-IT-Operation-Engineer_R106076)|
+|44|3D Model and Scene Generation Algorithm Researcher|[点击查看](https://tencent.wd1.myworkdayjobs.com/zh-CN/Tencent_Careers/job/UK-London/XMLNAME-3D-Model-and-Scene-Generation-Algorithm-Researcher_R105920-1)|
+|45|Multimodal Large Model Algorithm Engineer|[点击查看](https://tencent.wd1.myworkdayjobs.com/zh-CN/Tencent_Careers/job/Singapore-CapitaSky/Multimodal-Large-Model-Algorithm-Engineer_R106501)|
+|46|Senior Research Engineer|[点击查看](https://tencent.wd1.myworkdayjobs.com/zh-CN/Tencent_Careers/job/Singapore-CapitaSky/Senior-Research-Engineer_R106523)|
+|47|Generative AI Researcher (3D, Video, and Agentic Intelligence)|[点击查看](https://tencent.wd1.myworkdayjobs.com/zh-CN/Tencent_Careers/job/Singapore-CapitaSky/Generative-AI-Researcher--3D--Video--and-Agentic-Intelligence-_R106420-1)|
+
+
+
 
 
 
