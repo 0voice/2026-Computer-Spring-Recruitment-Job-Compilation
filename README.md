@@ -325,6 +325,18 @@
 |5|资深测试工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496399&idx=5&sn=6043bc1af41ab4a10edb32a5f92c9428&scene=21&poc_token=HG4HwWmjuTzArglOKkeIB5EUbhCMpGyOuBQBI_8c)|
 |6|Java开发|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496399&idx=5&sn=6043bc1af41ab4a10edb32a5f92c9428&scene=21&poc_token=HG4HwWmjuTzArglOKkeIB5EUbhCMpGyOuBQBI_8c)|
 |7|iOS高级开发工程师|[点击查看](https://mp.weixin.qq.com/s?__biz=Mzk0MzY5NjI3MA==&mid=2247496399&idx=5&sn=6043bc1af41ab4a10edb32a5f92c9428&scene=21&poc_token=HG4HwWmjuTzArglOKkeIB5EUbhCMpGyOuBQBI_8c)|
+|8|AI应用算法工程师|[点击查看](https://campus-talent.alibaba.com/campus/position/199903540003?deptCodes=3FUOB4)|
+|9|Agent Infra工程师|[点击查看](https://campus-talent.alibaba.com/campus/position/199903480006?deptCodes=3FUOB4)|
+|10|AI数据工程师|[点击查看](https://campus-talent.alibaba.com/campus/position/199903220056?deptCodes=3FUOB4)|
+|11|AI应用研发工程师|[点击查看](https://campus-talent.alibaba.com/campus/position/199903220038?deptCodes=3FUOB4)|
+|12|数据研发工程师|[点击查看](https://campus-talent.alibaba.com/campus/position/199903200011?deptCodes=3FUOB4)|
+|13|算法工程师-机器学习|[点击查看](https://campus-talent.alibaba.com/campus/position/199903180020?deptCodes=3FUOB4)|
+|14|算法工程师-自然语言处理|[点击查看](https://campus-talent.alibaba.com/campus/position/199903220024?deptCodes=3FUOB4)|
+|15|算法工程师-医疗大模型|[点击查看](https://campus-talent.alibaba.com/campus/position/199903240034?deptCodes=3FUOB4)|
+|16|测试开发工程师|[点击查看](https://campus-talent.alibaba.com/campus/position/199903180014?deptCodes=3FUOB4)|
+|17|数据分析师|[点击查看](https://campus-talent.alibaba.com/campus/position/199903200032?deptCodes=3FUOB4)|
+|18|研发工程师JAVA|[点击查看](https://campus-talent.alibaba.com/campus/position/199903180003?deptCodes=3FUOB4)|
+
 
 
 ### 阿里国际
